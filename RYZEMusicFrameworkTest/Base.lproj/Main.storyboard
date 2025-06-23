@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="QZt-jQ-52U">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Sign InVC-->
+        <scene sceneID="rSR-Nf-zIA">
+            <objects>
+                <viewController id="HYL-e1-syN" customClass="SignInVC" customModule="BLMusicFrameworkTest" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="psH-uO-ThA">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="I44-xe-fay">
+                                <rect key="frame" x="20" y="343.66666666666669" width="353" height="164.66666666666669"/>
+                                <subviews>
+                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="88019********" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="qeK-mw-lHH">
+                                        <rect key="frame" x="0.0" y="0.0" width="353" height="34"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits" textContentType="tel"/>
+                                    </textField>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uBV-r8-GF1">
+                                        <rect key="frame" x="0.0" y="42" width="353" height="38"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="filled" title="Log In">
+                                            <fontDescription key="titleFontDescription" type="system" weight="semibold" pointSize="20"/>
+                                        </buttonConfiguration>
+                                        <connections>
+                                            <action selector="onLoginPressed:" destination="HYL-e1-syN" eventType="touchUpInside" id="bxk-Ax-XAd"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WPa-cs-Rg1">
+                                        <rect key="frame" x="0.0" y="88" width="353" height="34.333333333333343"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="with out login "/>
+                                        <connections>
+                                            <action selector="onWithoutLogin:" destination="HYL-e1-syN" eventType="touchUpInside" id="g8S-Ra-Bse"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PSW-OR-gXl">
+                                        <rect key="frame" x="0.0" y="130.33333333333331" width="353" height="34.333333333333343"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="dark mood"/>
+                                        <connections>
+                                            <action selector="onDarkMood:" destination="HYL-e1-syN" eventType="touchUpInside" id="K6T-yd-eIb"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="P1C-Xb-KzS"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="I44-xe-fay" firstAttribute="leading" secondItem="P1C-Xb-KzS" secondAttribute="leading" constant="20" id="BTp-Jb-xfh"/>
+                            <constraint firstItem="I44-xe-fay" firstAttribute="centerX" secondItem="psH-uO-ThA" secondAttribute="centerX" id="Z0o-F9-2rD"/>
+                            <constraint firstItem="P1C-Xb-KzS" firstAttribute="trailing" secondItem="I44-xe-fay" secondAttribute="trailing" constant="20" id="aNd-4k-pxw"/>
+                            <constraint firstItem="I44-xe-fay" firstAttribute="centerY" secondItem="psH-uO-ThA" secondAttribute="centerY" id="eVl-jq-3dE"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="Kt4-qt-XSE"/>
+                    <connections>
+                        <outlet property="textField" destination="qeK-mw-lHH" id="CqM-11-c9z"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ahH-JE-dtz" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1697" y="72"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="WUT-p2-ewz">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="QZt-jQ-52U" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="8cX-Q1-gxE">
+                        <rect key="frame" x="0.0" y="59" width="393" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="HYL-e1-syN" kind="relationship" relationship="rootViewController" id="HUq-rC-F5A"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="SeP-rC-EFz" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="970.2290076335878" y="71.83098591549296"/>
+        </scene>
+    </scenes>
+</document>

@@ -1,0 +1,6 @@
+framework module Shadhin_RYZE {
+  umbrella header "Shadhin_RYZE.h"
+  export *
+
+  module * { export * }
+}

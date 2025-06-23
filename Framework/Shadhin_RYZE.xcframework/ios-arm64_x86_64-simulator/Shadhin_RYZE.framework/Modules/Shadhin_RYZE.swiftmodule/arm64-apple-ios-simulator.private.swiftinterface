@@ -1,0 +1,856 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name Shadhin_RYZE
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+import AVFoundation
+import AVKit
+import Accelerate
+import Combine
+import CommonCrypto
+import CoreData
+import CoreGraphics
+import CoreImage
+import CoreMedia
+import DeveloperToolsSupport
+import Dispatch
+import Foundation
+import ImageIO
+import MediaPlayer
+import MobileCoreServices
+import ObjectiveC
+import PDFKit
+import QuartzCore
+@_exported import Shadhin_RYZE
+import Swift
+import SwiftUI
+import SystemConfiguration
+import UIKit
+import UniformTypeIdentifiers
+import UserNotifications
+import WebKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @IBDesignable @objc @_Concurrency.MainActor @preconcurrency final public class BLRadioView : UIKit.UIView {
+  @objc @_Concurrency.MainActor @preconcurrency final public var height: CoreFoundation.CGFloat
+  @IBInspectable @objc @_Concurrency.MainActor @preconcurrency final public var isAutoPlay: Swift.Bool
+  @IBInspectable @objc @_Concurrency.MainActor @preconcurrency final public var title: Swift.String {
+    @objc get
+    @objc set
+  }
+  @_Concurrency.MainActor @preconcurrency @objc override final public func awakeFromNib()
+  @objc @_Concurrency.MainActor @preconcurrency final public func setTitle(title: Swift.String, backgroundColor: UIKit.UIColor, isDotHide: Swift.Bool, isSeeAll: Swift.Bool, seeAllArrowTint: UIKit.UIColor)
+  @objc deinit
+}
+extension Shadhin_RYZE.BLRadioView : UIKit.UICollectionViewDataSource, UIKit.UICollectionViewDelegateFlowLayout {
+  @_Concurrency.MainActor @preconcurrency @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, numberOfItemsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor @preconcurrency @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, cellForItemAt indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewCell
+  @_Concurrency.MainActor @preconcurrency @objc final public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, sizeForItemAt indexPath: Foundation.IndexPath) -> CoreFoundation.CGSize
+}
+public struct EntryPoint {
+  public static let Home: Swift.String
+  public static let LatestRelease: Swift.String
+  public static let PopularArtist: Swift.String
+  public static let PopularVideo: Swift.String
+  public static let Podcast: Swift.String
+  public static let PodcastAudio: Swift.String
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class ShadhinBL : ObjectiveC.NSObject {
+  public static let shared: Shadhin_RYZE.ShadhinBL
+  @available(*, deprecated, message: "This method will be deprecated.")
+  @objc final public func initialize(with token: Swift.String, isBL: Swift.Bool, delegate: any Shadhin_RYZE.ShadhinCoreNotifier)
+  @objc final public func initialize(with token: Swift.String, isBL: Swift.Bool, delegate: any Shadhin_RYZE.ShadhinCoreNotifier, tabController: UIKit.UITabBarController?, navigationController: UIKit.UINavigationController)
+  @objc final public func login(number: Swift.String, complete: @escaping (_ isDone: Swift.Bool, _ token: Swift.String) -> Swift.Void)
+  @objc final public func gotoHome(with tabController: UIKit.UITabBarController?, navigationController: UIKit.UINavigationController, membership: Swift.String? = nil)
+  @objc final public func eventRegister(with event: UIKit.UIEvent)
+  @objc final public func openPatch(patchID: Swift.String, navigationController: UIKit.UINavigationController, tabController: UIKit.UITabBarController?)
+  @objc final public func radioView(isAutoPlay: Swift.Bool) -> Shadhin_RYZE.BLRadioView?
+  @objc final public func radioInitialise(tabBarController: UIKit.UITabBarController, delegate: any Shadhin_RYZE.RadioCallBack)
+  @objc final public func clearAllCache()
+  @objc final public func terminate()
+  @objc final public func stopMusic()
+  @objc final public func pauseMusic()
+  @objc final public func playMusic()
+  @objc final public func setSessionPulesTimer(second: Swift.Double) -> Swift.String?
+  @objc final public func setStreamingPulseTimer(second: Swift.Double) -> Swift.String?
+  @objc deinit
+}
+extension Shadhin_RYZE.ShadhinBL : Shadhin_RYZE.ShadhinLogNotifier {
+  final public func handleMSDKPaymentEvent(eventName: Swift.String, data: [Swift.String : Any])
+  final public func memberShipStatus(isValid: Swift.Bool, value: Swift.String)
+  final public func linkRedirect(link: Swift.String)
+  final public func event(eventName: Swift.String, contentName: Swift.String, contentType: Swift.String, patchName: Swift.String)
+  final public func tokenFetchSuccess(complete: @escaping () -> Swift.Void)
+  final public func bkashPaymentSuccess()
+  final public func player(error: Swift.String)
+  final public func tokenStatus(token isValid: Swift.Bool, error: Swift.String?)
+  final public func patchError(error: Swift.String)
+  final public func amarTuneError(error: Swift.String?)
+  final public func rcError(error: Swift.String?)
+  final public func shareContentWithRC(title: Swift.String, image: Swift.String, rc code: Swift.String)
+  final public func bkashPaymentInit()
+}
+public enum FeatureType : Swift.String {
+  case LATEST_RELEASE
+  case PODCAST
+  case POPULAR_ARTIST
+  case POPULAR_VIDEO
+  case AMAR_TUNE
+  case AMAR_TUNE_TOP_100
+  case TERMS_AND_CONDITION
+  case BKASH_SUBSCRIPTION
+  case RADIO_SEEALL
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@objc public protocol ShadhinCoreNotifier : ObjectiveC.NSObjectProtocol {
+  @objc func tokenStatus(token isValid: Swift.Bool, error: Swift.String?)
+  @objc func patchError(error: Swift.String)
+  @objc func amarTuneError(error: Swift.String?)
+  @objc func rcError(error: Swift.String?)
+  @objc func shareContentWithRC(title: Swift.String, image: Swift.String, rc code: Swift.String)
+  @objc func player(error: Swift.String)
+  @objc func bkashPaymentInit()
+  @objc func bksahPaymentSuccess()
+  @objc func linkRedirect(link: Swift.String)
+  @objc func memberShipStatus(isValid: Swift.Bool, value: Swift.String)
+  @objc func handleMSDKPaymentEvent(eventName: Swift.String, data: [Swift.String : Any])
+}
+public protocol ShadhinLogNotifier : ObjectiveC.NSObjectProtocol {
+  func tokenStatus(token isValid: Swift.Bool, error: Swift.String?)
+  func patchError(error: Swift.String)
+  func amarTuneError(error: Swift.String?)
+  func rcError(error: Swift.String?)
+  func shareContentWithRC(title: Swift.String, image: Swift.String, rc code: Swift.String)
+  func player(error: Swift.String)
+  func bkashPaymentInit()
+  func bkashPaymentSuccess()
+  func tokenFetchSuccess(complete: @escaping () -> Swift.Void)
+  func event(eventName: Swift.String, contentName: Swift.String, contentType: Swift.String, patchName: Swift.String)
+  func linkRedirect(link: Swift.String)
+  func memberShipStatus(isValid: Swift.Bool, value: Swift.String)
+  func handleMSDKPaymentEvent(eventName: Swift.String, data: [Swift.String : Any])
+}
+@objc public protocol RadioCallBack : ObjectiveC.NSObjectProtocol {
+  @objc func fetchTokenForRadio(complete: @escaping (Swift.String, Swift.Bool) -> Swift.Void)
+  @objc func radioSeeAll(rcCode: Swift.String)
+}
+public enum MSDKPaymentEvent {
+  case initiated(purchaseInitiated: Swift.Bool, purchaseInitiatedBy: Swift.String)
+  case otpHit(planId: Swift.String, otpHit: Swift.Bool)
+  case pricingHit(planId: Swift.String, planPrice: Swift.String)
+  case success(purchaseStatus: Swift.Bool, purchasePlan: Swift.String, purchaseMethod: Swift.String)
+  case failed(purchaseStatus: Swift.Bool, purchasePlan: Swift.String, purchaseMethod: Swift.String)
+}
+public enum AFError : Swift.Error {
+  public enum MultipartEncodingFailureReason {
+    case bodyPartURLInvalid(url: Foundation.URL)
+    case bodyPartFilenameInvalid(in: Foundation.URL)
+    case bodyPartFileNotReachable(at: Foundation.URL)
+    case bodyPartFileNotReachableWithError(atURL: Foundation.URL, error: any Swift.Error)
+    case bodyPartFileIsDirectory(at: Foundation.URL)
+    case bodyPartFileSizeNotAvailable(at: Foundation.URL)
+    case bodyPartFileSizeQueryFailedWithError(forURL: Foundation.URL, error: any Swift.Error)
+    case bodyPartInputStreamCreationFailed(for: Foundation.URL)
+    case outputStreamCreationFailed(for: Foundation.URL)
+    case outputStreamFileAlreadyExists(at: Foundation.URL)
+    case outputStreamURLInvalid(url: Foundation.URL)
+    case outputStreamWriteFailed(error: any Swift.Error)
+    case inputStreamReadFailed(error: any Swift.Error)
+  }
+  public struct UnexpectedInputStreamLength : Swift.Error {
+    public var bytesExpected: Swift.UInt64
+    public var bytesRead: Swift.UInt64
+  }
+  public enum ParameterEncodingFailureReason {
+    case missingURL
+    case jsonEncodingFailed(error: any Swift.Error)
+    case customEncodingFailed(error: any Swift.Error)
+  }
+  public enum ParameterEncoderFailureReason {
+    public enum RequiredComponent {
+      case url
+      case httpMethod(rawValue: Swift.String)
+    }
+    case missingRequiredComponent(Shadhin_RYZE.AFError.ParameterEncoderFailureReason.RequiredComponent)
+    case encoderFailed(error: any Swift.Error)
+  }
+  public enum ResponseValidationFailureReason {
+    case dataFileNil
+    case dataFileReadFailed(at: Foundation.URL)
+    case missingContentType(acceptableContentTypes: [Swift.String])
+    case unacceptableContentType(acceptableContentTypes: [Swift.String], responseContentType: Swift.String)
+    case unacceptableStatusCode(code: Swift.Int)
+    case customValidationFailed(error: any Swift.Error)
+  }
+  public enum ResponseSerializationFailureReason {
+    case inputDataNilOrZeroLength
+    case inputFileNil
+    case inputFileReadFailed(at: Foundation.URL)
+    case stringSerializationFailed(encoding: Swift.String.Encoding)
+    case jsonSerializationFailed(error: any Swift.Error)
+    case decodingFailed(error: any Swift.Error)
+    case customSerializationFailed(error: any Swift.Error)
+    case invalidEmptyResponse(type: Swift.String)
+  }
+  public enum ServerTrustFailureReason {
+    public struct Output {
+      public let host: Swift.String
+      public let trust: Security.SecTrust
+      public let status: Darwin.OSStatus
+      public let result: Security.SecTrustResultType
+    }
+    case noRequiredEvaluator(host: Swift.String)
+    case noCertificatesFound
+    case noPublicKeysFound
+    case policyApplicationFailed(trust: Security.SecTrust, policy: Security.SecPolicy, status: Darwin.OSStatus)
+    case settingAnchorCertificatesFailed(status: Darwin.OSStatus, certificates: [Security.SecCertificate])
+    case revocationPolicyCreationFailed
+    case trustEvaluationFailed(error: (any Swift.Error)?)
+    case defaultEvaluationFailed(output: Shadhin_RYZE.AFError.ServerTrustFailureReason.Output)
+    case hostValidationFailed(output: Shadhin_RYZE.AFError.ServerTrustFailureReason.Output)
+    case revocationCheckFailed(output: Shadhin_RYZE.AFError.ServerTrustFailureReason.Output, options: Shadhin_RYZE.RevocationTrustEvaluator.Options)
+    case certificatePinningFailed(host: Swift.String, trust: Security.SecTrust, pinnedCertificates: [Security.SecCertificate], serverCertificates: [Security.SecCertificate])
+    case publicKeyPinningFailed(host: Swift.String, trust: Security.SecTrust, pinnedKeys: [Security.SecKey], serverKeys: [Security.SecKey])
+    case customEvaluationFailed(error: any Swift.Error)
+  }
+  public enum URLRequestValidationFailureReason {
+    case bodyDataInGETRequest(Foundation.Data)
+  }
+  case createUploadableFailed(error: any Swift.Error)
+  case createURLRequestFailed(error: any Swift.Error)
+  case downloadedFileMoveFailed(error: any Swift.Error, source: Foundation.URL, destination: Foundation.URL)
+  case explicitlyCancelled
+  case invalidURL(url: any Shadhin_RYZE.URLConvertible)
+  case multipartEncodingFailed(reason: Shadhin_RYZE.AFError.MultipartEncodingFailureReason)
+  case parameterEncodingFailed(reason: Shadhin_RYZE.AFError.ParameterEncodingFailureReason)
+  case parameterEncoderFailed(reason: Shadhin_RYZE.AFError.ParameterEncoderFailureReason)
+  case requestAdaptationFailed(error: any Swift.Error)
+  case requestRetryFailed(retryError: any Swift.Error, originalError: any Swift.Error)
+  case responseValidationFailed(reason: Shadhin_RYZE.AFError.ResponseValidationFailureReason)
+  case responseSerializationFailed(reason: Shadhin_RYZE.AFError.ResponseSerializationFailureReason)
+  case serverTrustEvaluationFailed(reason: Shadhin_RYZE.AFError.ServerTrustFailureReason)
+  case sessionDeinitialized
+  case sessionInvalidated(error: (any Swift.Error)?)
+  case sessionTaskFailed(error: any Swift.Error)
+  case urlRequestValidationFailed(reason: Shadhin_RYZE.AFError.URLRequestValidationFailureReason)
+}
+extension Swift.Error {
+  public var asAFError: Shadhin_RYZE.AFError? {
+    get
+  }
+  public func asAFError(orFailWith message: @autoclosure () -> Swift.String, file: Swift.StaticString = #file, line: Swift.UInt = #line) -> Shadhin_RYZE.AFError
+}
+extension Shadhin_RYZE.AFError {
+  public var isSessionDeinitializedError: Swift.Bool {
+    get
+  }
+  public var isSessionInvalidatedError: Swift.Bool {
+    get
+  }
+  public var isExplicitlyCancelledError: Swift.Bool {
+    get
+  }
+  public var isInvalidURLError: Swift.Bool {
+    get
+  }
+  public var isParameterEncodingError: Swift.Bool {
+    get
+  }
+  public var isParameterEncoderError: Swift.Bool {
+    get
+  }
+  public var isMultipartEncodingError: Swift.Bool {
+    get
+  }
+  public var isRequestAdaptationError: Swift.Bool {
+    get
+  }
+  public var isResponseValidationError: Swift.Bool {
+    get
+  }
+  public var isResponseSerializationError: Swift.Bool {
+    get
+  }
+  public var isServerTrustEvaluationError: Swift.Bool {
+    get
+  }
+  public var isRequestRetryError: Swift.Bool {
+    get
+  }
+  public var isCreateUploadableError: Swift.Bool {
+    get
+  }
+  public var isCreateURLRequestError: Swift.Bool {
+    get
+  }
+  public var isDownloadedFileMoveError: Swift.Bool {
+    get
+  }
+  public var isSessionTaskError: Swift.Bool {
+    get
+  }
+}
+extension Shadhin_RYZE.AFError {
+  public var url: Foundation.URL? {
+    get
+  }
+  public var underlyingError: (any Swift.Error)? {
+    get
+  }
+  public var acceptableContentTypes: [Swift.String]? {
+    get
+  }
+  public var responseContentType: Swift.String? {
+    get
+  }
+  public var responseCode: Swift.Int? {
+    get
+  }
+  public var failedStringEncoding: Swift.String.Encoding? {
+    get
+  }
+  public var sourceURL: Foundation.URL? {
+    get
+  }
+  public var destinationURL: Foundation.URL? {
+    get
+  }
+  public var downloadResumeData: Foundation.Data? {
+    get
+  }
+}
+extension Shadhin_RYZE.AFError : Foundation.LocalizedError {
+  public var errorDescription: Swift.String? {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers final public class RevocationTrustEvaluator {
+  public struct Options : Swift.OptionSet {
+    public let rawValue: CoreFoundation.CFOptionFlags
+    public init(rawValue: CoreFoundation.CFOptionFlags)
+    public typealias ArrayLiteralElement = Shadhin_RYZE.RevocationTrustEvaluator.Options
+    public typealias Element = Shadhin_RYZE.RevocationTrustEvaluator.Options
+    public typealias RawValue = CoreFoundation.CFOptionFlags
+  }
+  @objc deinit
+}
+public protocol URLConvertible {
+  func asURL() throws -> Foundation.URL
+}
+extension Swift.String : Shadhin_RYZE.URLConvertible {
+  public func asURL() throws -> Foundation.URL
+}
+extension Foundation.URL : Shadhin_RYZE.URLConvertible {
+  public func asURL() throws -> Foundation.URL
+}
+extension Foundation.URLComponents : Shadhin_RYZE.URLConvertible {
+  public func asURL() throws -> Foundation.URL
+}
+extension UIKit.UIControl.State : Swift.Hashable {
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+infix operator |> : AdditionPrecedence
+public protocol Connection {
+  var delegate: (any Shadhin_RYZE.ConnectionDelegate)? { get set }
+  var inherentKeepAlive: Swift.Bool { get }
+  var connectionId: Swift.String? { get }
+  func start()
+  func send(data: Foundation.Data, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void)
+  func stop(stopError: (any Swift.Error)?)
+}
+public protocol ConnectionDelegate : AnyObject {
+  func connectionDidOpen(connection: any Shadhin_RYZE.Connection)
+  func connectionDidFailToOpen(error: any Swift.Error)
+  func connectionDidReceiveData(connection: any Shadhin_RYZE.Connection, data: Foundation.Data)
+  func connectionDidClose(error: (any Swift.Error)?)
+  func connectionWillReconnect(error: any Swift.Error)
+  func connectionDidReconnect()
+}
+extension Shadhin_RYZE.ConnectionDelegate {
+  public func connectionWillReconnect(error: any Swift.Error)
+  public func connectionDidReconnect()
+}
+public protocol HttpClientProtocol {
+  func get(url: Foundation.URL, completionHandler: @escaping (Shadhin_RYZE.HttpResponse?, (any Swift.Error)?) -> Swift.Void)
+  func post(url: Foundation.URL, body: Foundation.Data?, completionHandler: @escaping (Shadhin_RYZE.HttpResponse?, (any Swift.Error)?) -> Swift.Void)
+  func delete(url: Foundation.URL, completionHandler: @escaping (Shadhin_RYZE.HttpResponse?, (any Swift.Error)?) -> Swift.Void)
+}
+@_hasMissingDesignatedInitializers public class HttpConnection : Shadhin_RYZE.Connection {
+  weak public var delegate: (any Shadhin_RYZE.ConnectionDelegate)?
+  public var connectionId: Swift.String? {
+    get
+  }
+  public var inherentKeepAlive: Swift.Bool {
+    get
+  }
+  convenience public init(url: Foundation.URL, options: Shadhin_RYZE.HttpConnectionOptions = HttpConnectionOptions(), logger: any Shadhin_RYZE.Logger = NullLogger())
+  @objc deinit
+  public func start()
+  public func send(data: Foundation.Data, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void)
+  public func stop(stopError: (any Swift.Error)? = nil)
+}
+@_hasMissingDesignatedInitializers public class ConnectionTransportDelegate : Shadhin_RYZE.TransportDelegate {
+  public func transportDidOpen()
+  public func transportDidReceiveData(_ data: Foundation.Data)
+  public func transportDidClose(_ error: (any Swift.Error)?)
+  @objc deinit
+}
+public class HttpConnectionOptions {
+  public var headers: [Swift.String : Swift.String]
+  public var accessTokenProvider: () -> Swift.String?
+  public var httpClientFactory: (Shadhin_RYZE.HttpConnectionOptions) -> any Shadhin_RYZE.HttpClientProtocol
+  public var skipNegotiation: Swift.Bool {
+    get
+    @available(macOS 10.15, iOS 13.0, watchOS 6.0, tvOS 13.0, *)
+    set
+  }
+  public var requestTimeout: Swift.Double
+  public var authenticationChallengeHandler: ((_ session: Foundation.URLSession, _ challenge: Foundation.URLAuthenticationChallenge, _ completionHandler: @escaping (Foundation.URLSession.AuthChallengeDisposition, Foundation.URLCredential?) -> Swift.Void) -> Swift.Void)?
+  public var callbackQueue: Dispatch.DispatchQueue
+  public init()
+  @objc deinit
+}
+public class HttpResponse {
+  public init(statusCode: Swift.Int, contents: Foundation.Data?)
+  @objc deinit
+}
+public class HubConnection {
+  weak public var delegate: (any Shadhin_RYZE.HubConnectionDelegate)?
+  public var connectionId: Swift.String? {
+    get
+  }
+  convenience public init(connection: any Shadhin_RYZE.Connection, hubProtocol: any Shadhin_RYZE.HubProtocol, logger: any Shadhin_RYZE.Logger = NullLogger())
+  public init(connection: any Shadhin_RYZE.Connection, hubProtocol: any Shadhin_RYZE.HubProtocol, hubConnectionOptions: Shadhin_RYZE.HubConnectionOptions, logger: any Shadhin_RYZE.Logger = NullLogger())
+  @objc deinit
+  public func start()
+  public func stop()
+  public func on(method: Swift.String, callback: @escaping (_ argumentExtractor: Shadhin_RYZE.ArgumentExtractor) throws -> Swift.Void)
+  public func send(method: Swift.String, arguments: [any Swift.Encodable], sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void)
+  public func invoke(method: Swift.String, arguments: [any Swift.Encodable], invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void)
+  public func invoke<T>(method: Swift.String, arguments: [any Swift.Encodable], resultType: T.Type, invocationDidComplete: @escaping (_ result: T?, _ error: (any Swift.Error)?) -> Swift.Void) where T : Swift.Decodable
+  public func stream<T>(method: Swift.String, arguments: [any Swift.Encodable], streamItemReceived: @escaping (_ item: T) -> Swift.Void, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) -> Shadhin_RYZE.StreamHandle where T : Swift.Decodable
+  public func cancelStreamInvocation(streamHandle: Shadhin_RYZE.StreamHandle, cancelDidFail: @escaping (_ error: any Swift.Error) -> Swift.Void)
+}
+@_hasMissingDesignatedInitializers public class ArgumentExtractor {
+  public func getArgument<T>(type: T.Type) throws -> T where T : Swift.Decodable
+  public func hasMoreArgs() -> Swift.Bool
+  @objc deinit
+}
+public class HubConnectionBuilder {
+  public init(url: Foundation.URL)
+  public func withHubProtocol(hubProtocolFactory: @escaping (any Shadhin_RYZE.Logger) -> any Shadhin_RYZE.HubProtocol) -> Shadhin_RYZE.HubConnectionBuilder
+  public func withHttpConnectionOptions(configureHttpOptions: (_ httpConnectionOptions: Shadhin_RYZE.HttpConnectionOptions) -> Swift.Void) -> Shadhin_RYZE.HubConnectionBuilder
+  public func withHubConnectionOptions(configureHubConnectionOptions: (_ hubConnectionOptions: Shadhin_RYZE.HubConnectionOptions) -> Swift.Void) -> Shadhin_RYZE.HubConnectionBuilder
+  public func withLogging(minLogLevel: Shadhin_RYZE.LogLevel) -> Shadhin_RYZE.HubConnectionBuilder
+  public func withLogging(logger: any Shadhin_RYZE.Logger) -> Shadhin_RYZE.HubConnectionBuilder
+  public func withLogging(minLogLevel: Shadhin_RYZE.LogLevel, logger: any Shadhin_RYZE.Logger) -> Shadhin_RYZE.HubConnectionBuilder
+  public func withHubConnectionDelegate(delegate: any Shadhin_RYZE.HubConnectionDelegate) -> Shadhin_RYZE.HubConnectionBuilder
+  public func withAutoReconnect(reconnectPolicy: any Shadhin_RYZE.ReconnectPolicy = DefaultReconnectPolicy()) -> Shadhin_RYZE.HubConnectionBuilder
+  public func withPermittedTransportTypes(_ permittedTransportTypes: Shadhin_RYZE.TransportType) -> Shadhin_RYZE.HubConnectionBuilder
+  public func withLegacyHttpConnection() -> Shadhin_RYZE.HubConnectionBuilder
+  public func build() -> Shadhin_RYZE.HubConnection
+  @objc deinit
+}
+extension Shadhin_RYZE.HubConnectionBuilder {
+  public func withJSONHubProtocol() -> Shadhin_RYZE.HubConnectionBuilder
+}
+public protocol HubConnectionDelegate : AnyObject {
+  func connectionDidOpen(hubConnection: Shadhin_RYZE.HubConnection)
+  func connectionDidFailToOpen(error: any Swift.Error)
+  func connectionDidClose(error: (any Swift.Error)?)
+  func connectionWillReconnect(error: any Swift.Error)
+  func connectionDidReconnect()
+}
+extension Shadhin_RYZE.HubConnectionDelegate {
+  public func connectionWillReconnect(error: any Swift.Error)
+  public func connectionDidReconnect()
+}
+extension Shadhin_RYZE.HubConnection {
+  public func invoke(method: Swift.String, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void)
+  public func invoke<T1>(method: Swift.String, _ arg1: T1, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable
+  public func invoke<T1, T2>(method: Swift.String, _ arg1: T1, _ arg2: T2, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable
+  public func invoke<T1, T2, T3>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable
+  public func invoke<T1, T2, T3, T4>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable
+  public func invoke<T1, T2, T3, T4, T5>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable
+  public func invoke<T1, T2, T3, T4, T5, T6>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable
+  public func invoke<T1, T2, T3, T4, T5, T6, T7>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, _ arg7: T7, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable, T7 : Swift.Encodable
+  public func invoke<T1, T2, T3, T4, T5, T6, T7, T8>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, _ arg7: T7, _ arg8: T8, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable, T7 : Swift.Encodable, T8 : Swift.Encodable
+  public func invoke<TRes>(method: Swift.String, resultType: TRes.Type, invocationDidComplete: @escaping (_ result: TRes?, _ error: (any Swift.Error)?) -> Swift.Void) where TRes : Swift.Decodable
+  public func invoke<T1, TRes>(method: Swift.String, _ arg1: T1, resultType: TRes.Type, invocationDidComplete: @escaping (_ result: TRes?, _ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, TRes : Swift.Decodable
+  public func invoke<T1, T2, TRes>(method: Swift.String, _ arg1: T1, _ arg2: T2, resultType: TRes.Type, invocationDidComplete: @escaping (_ result: TRes?, _ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, TRes : Swift.Decodable
+  public func invoke<T1, T2, T3, TRes>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, resultType: TRes.Type, invocationDidComplete: @escaping (_ result: TRes?, _ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, TRes : Swift.Decodable
+  public func invoke<T1, T2, T3, T4, TRes>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, resultType: TRes.Type, invocationDidComplete: @escaping (_ result: TRes?, _ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, TRes : Swift.Decodable
+  public func invoke<T1, T2, T3, T4, T5, TRes>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, resultType: TRes.Type, invocationDidComplete: @escaping (_ result: TRes?, _ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, TRes : Swift.Decodable
+  public func invoke<T1, T2, T3, T4, T5, T6, TRes>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, resultType: TRes.Type, invocationDidComplete: @escaping (_ result: TRes?, _ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable, TRes : Swift.Decodable
+  public func invoke<T1, T2, T3, T4, T5, T6, T7, TRes>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, _ arg7: T7, resultType: TRes.Type, invocationDidComplete: @escaping (_ result: TRes?, _ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable, T7 : Swift.Encodable, TRes : Swift.Decodable
+  public func invoke<T1, T2, T3, T4, T5, T6, T7, T8, TRes>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, _ arg7: T7, _ arg8: T8, resultType: TRes.Type, invocationDidComplete: @escaping (_ result: TRes?, _ error: (any Swift.Error)?) -> Swift.Void) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable, T7 : Swift.Encodable, T8 : Swift.Encodable, TRes : Swift.Decodable
+  public func send(method: Swift.String, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void = {_ in})
+  public func send<T1>(method: Swift.String, _ arg1: T1, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void = {_ in}) where T1 : Swift.Encodable
+  public func send<T1, T2>(method: Swift.String, _ arg1: T1, _ arg2: T2, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void = {_ in}) where T1 : Swift.Encodable, T2 : Swift.Encodable
+  public func send<T1, T2, T3>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void = {_ in}) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable
+  public func send<T1, T2, T3, T4>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void = {_ in}) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable
+  public func send<T1, T2, T3, T4, T5>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void = {_ in}) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable
+  public func send<T1, T2, T3, T4, T5, T6>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void = {_ in}) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable
+  public func send<T1, T2, T3, T4, T5, T6, T7>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, _ arg7: T7, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void = {_ in}) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable, T7 : Swift.Encodable
+  public func send<T1, T2, T3, T4, T5, T6, T7, T8>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, _ arg7: T7, _ arg8: T8, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void = {_ in}) where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable, T7 : Swift.Encodable, T8 : Swift.Encodable
+  public func on(method: Swift.String, callback: @escaping () -> Swift.Void)
+  public func on<T1>(method: Swift.String, callback: @escaping (_ arg1: T1) -> Swift.Void) where T1 : Swift.Decodable
+  public func on<T1, T2>(method: Swift.String, callback: @escaping (_ arg1: T1, _ arg2: T2) -> Swift.Void) where T1 : Swift.Decodable, T2 : Swift.Decodable
+  public func on<T1, T2, T3>(method: Swift.String, callback: @escaping (_ arg1: T1, _ arg2: T2, _ arg3: T3) -> Swift.Void) where T1 : Swift.Decodable, T2 : Swift.Decodable, T3 : Swift.Decodable
+  public func on<T1, T2, T3, T4>(method: Swift.String, callback: @escaping (_ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4) -> Swift.Void) where T1 : Swift.Decodable, T2 : Swift.Decodable, T3 : Swift.Decodable, T4 : Swift.Decodable
+  public func on<T1, T2, T3, T4, T5>(method: Swift.String, callback: @escaping (_ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5) -> Swift.Void) where T1 : Swift.Decodable, T2 : Swift.Decodable, T3 : Swift.Decodable, T4 : Swift.Decodable, T5 : Swift.Decodable
+  public func on<T1, T2, T3, T4, T5, T6>(method: Swift.String, callback: @escaping (_ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6) -> Swift.Void) where T1 : Swift.Decodable, T2 : Swift.Decodable, T3 : Swift.Decodable, T4 : Swift.Decodable, T5 : Swift.Decodable, T6 : Swift.Decodable
+  public func on<T1, T2, T3, T4, T5, T6, T7>(method: Swift.String, callback: @escaping (_ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, _ arg7: T7) -> Swift.Void) where T1 : Swift.Decodable, T2 : Swift.Decodable, T3 : Swift.Decodable, T4 : Swift.Decodable, T5 : Swift.Decodable, T6 : Swift.Decodable, T7 : Swift.Decodable
+  public func on<T1, T2, T3, T4, T5, T6, T7, T8>(method: Swift.String, callback: @escaping (_ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, _ arg7: T7, _ arg8: T8) -> Swift.Void) where T1 : Swift.Decodable, T2 : Swift.Decodable, T3 : Swift.Decodable, T4 : Swift.Decodable, T5 : Swift.Decodable, T6 : Swift.Decodable, T7 : Swift.Decodable, T8 : Swift.Decodable
+  public func stream<TItemType>(method: Swift.String, streamItemReceived: @escaping (_ item: TItemType) -> Swift.Void, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) -> Shadhin_RYZE.StreamHandle where TItemType : Swift.Decodable
+  public func stream<T1, TItemType>(method: Swift.String, _ arg1: T1, streamItemReceived: @escaping (_ item: TItemType) -> Swift.Void, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) -> Shadhin_RYZE.StreamHandle where T1 : Swift.Encodable, TItemType : Swift.Decodable
+  public func stream<T1, T2, TItemType>(method: Swift.String, _ arg1: T1, _ arg2: T2, streamItemReceived: @escaping (_ item: TItemType) -> Swift.Void, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) -> Shadhin_RYZE.StreamHandle where T1 : Swift.Encodable, T2 : Swift.Encodable, TItemType : Swift.Decodable
+  public func stream<T1, T2, T3, TItemType>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, streamItemReceived: @escaping (_ item: TItemType) -> Swift.Void, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) -> Shadhin_RYZE.StreamHandle where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, TItemType : Swift.Decodable
+  public func stream<T1, T2, T3, T4, TItemType>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, streamItemReceived: @escaping (_ item: TItemType) -> Swift.Void, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) -> Shadhin_RYZE.StreamHandle where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, TItemType : Swift.Decodable
+  public func stream<T1, T2, T3, T4, T5, TItemType>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, streamItemReceived: @escaping (_ item: TItemType) -> Swift.Void, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) -> Shadhin_RYZE.StreamHandle where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, TItemType : Swift.Decodable
+  public func stream<T1, T2, T3, T4, T5, T6, TItemType>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, streamItemReceived: @escaping (_ item: TItemType) -> Swift.Void, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) -> Shadhin_RYZE.StreamHandle where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable, TItemType : Swift.Decodable
+  public func stream<T1, T2, T3, T4, T5, T6, T7, TItemType>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, _ arg7: T7, streamItemReceived: @escaping (_ item: TItemType) -> Swift.Void, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) -> Shadhin_RYZE.StreamHandle where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable, T7 : Swift.Encodable, TItemType : Swift.Decodable
+  public func stream<T1, T2, T3, T4, T5, T6, T7, T8, TItemType>(method: Swift.String, _ arg1: T1, _ arg2: T2, _ arg3: T3, _ arg4: T4, _ arg5: T5, _ arg6: T6, _ arg7: T7, _ arg8: T8, streamItemReceived: @escaping (_ item: TItemType) -> Swift.Void, invocationDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void) -> Shadhin_RYZE.StreamHandle where T1 : Swift.Encodable, T2 : Swift.Encodable, T3 : Swift.Encodable, T4 : Swift.Encodable, T5 : Swift.Encodable, T6 : Swift.Encodable, T7 : Swift.Encodable, T8 : Swift.Encodable, TItemType : Swift.Decodable
+}
+public class HubConnectionOptions {
+  public var keepAliveInterval: Swift.Double?
+  public var callbackQueue: Dispatch.DispatchQueue
+  public init()
+  @objc deinit
+}
+public enum ProtocolType : Swift.Int {
+  case Text
+  case Binary
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+public protocol HubProtocol {
+  var name: Swift.String { get }
+  var version: Swift.Int { get }
+  var type: Shadhin_RYZE.ProtocolType { get }
+  func parseMessages(input: Foundation.Data) throws -> [any Shadhin_RYZE.HubMessage]
+  func writeMessage(message: any Shadhin_RYZE.HubMessage) throws -> Foundation.Data
+}
+public enum MessageType : Swift.Int, Swift.Codable {
+  case Invocation
+  case StreamItem
+  case Completion
+  case StreamInvocation
+  case CancelInvocation
+  case Ping
+  case Close
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+public protocol HubMessage {
+  var type: Shadhin_RYZE.MessageType { get }
+}
+@_hasMissingDesignatedInitializers public class ServerInvocationMessage : Shadhin_RYZE.HubMessage, Swift.Encodable {
+  final public let type: Shadhin_RYZE.MessageType
+  final public let invocationId: Swift.String?
+  final public let target: Swift.String
+  final public let arguments: [any Swift.Encodable]
+  final public let streamIds: [Swift.String]?
+  public func encode(to encoder: any Swift.Encoder) throws
+  @objc deinit
+}
+public class ClientInvocationMessage : Shadhin_RYZE.HubMessage, Swift.Decodable {
+  final public let type: Shadhin_RYZE.MessageType
+  final public let target: Swift.String
+  required public init(from decoder: any Swift.Decoder) throws
+  public func getArgument<T>(type: T.Type) throws -> T where T : Swift.Decodable
+  @objc deinit
+}
+public class StreamItemMessage : Shadhin_RYZE.HubMessage, Swift.Codable {
+  final public let type: Shadhin_RYZE.MessageType
+  final public let invocationId: Swift.String
+  required public init(from decoder: any Swift.Decoder) throws
+  public init(invocationId: Swift.String, item: any Swift.Encodable)
+  public func getItem<T>(_ type: T.Type) throws -> T where T : Swift.Decodable
+  public func encode(to encoder: any Swift.Encoder) throws
+  @objc deinit
+}
+public class CompletionMessage : Shadhin_RYZE.HubMessage, Swift.Codable {
+  final public let type: Shadhin_RYZE.MessageType
+  final public let invocationId: Swift.String
+  final public let error: Swift.String?
+  final public let hasResult: Swift.Bool
+  required public init(from decoder: any Swift.Decoder) throws
+  public init(invocationId: Swift.String, error: Swift.String?)
+  public func getResult<T>(_ type: T.Type) throws -> T? where T : Swift.Decodable
+  public func encode(to encoder: any Swift.Encoder) throws
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class StreamInvocationMessage : Shadhin_RYZE.HubMessage, Swift.Encodable {
+  final public let type: Shadhin_RYZE.MessageType
+  final public let invocationId: Swift.String
+  final public let target: Swift.String
+  final public let arguments: [any Swift.Encodable]
+  final public let streamIds: [Swift.String]?
+  public func encode(to encoder: any Swift.Encoder) throws
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class CancelInvocationMessage : Shadhin_RYZE.HubMessage, Swift.Encodable {
+  final public let type: Shadhin_RYZE.MessageType
+  final public let invocationId: Swift.String
+  @objc deinit
+  public func encode(to encoder: any Swift.Encoder) throws
+}
+@_hasMissingDesignatedInitializers public class PingMessage : Shadhin_RYZE.HubMessage, Swift.Encodable {
+  final public let type: Shadhin_RYZE.MessageType
+  @objc deinit
+  public func encode(to encoder: any Swift.Encoder) throws
+}
+@_hasMissingDesignatedInitializers public class CloseMessage : Shadhin_RYZE.HubMessage, Swift.Decodable {
+  public var type: Shadhin_RYZE.MessageType {
+    get
+  }
+  final public let error: Swift.String?
+  @objc deinit
+  required public init(from decoder: any Swift.Decoder) throws
+}
+public class JSONHubProtocol : Shadhin_RYZE.HubProtocol {
+  final public let name: Swift.String
+  final public let version: Swift.Int
+  final public let type: Shadhin_RYZE.ProtocolType
+  public init(logger: any Shadhin_RYZE.Logger, encoder: Foundation.JSONEncoder = JSONEncoder(), decoder: Foundation.JSONDecoder = JSONDecoder())
+  public func parseMessages(input: Foundation.Data) throws -> [any Shadhin_RYZE.HubMessage]
+  public func createHubMessage(payload: Foundation.Data) throws -> any Shadhin_RYZE.HubMessage
+  public func writeMessage(message: any Shadhin_RYZE.HubMessage) throws -> Foundation.Data
+  @objc deinit
+}
+public enum LogLevel : Swift.Int {
+  case error
+  case warning
+  case info
+  case debug
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+public protocol Logger {
+  func log(logLevel: Shadhin_RYZE.LogLevel, message: @autoclosure () -> Swift.String)
+}
+extension Shadhin_RYZE.LogLevel {
+  public func toString() -> Swift.String
+}
+public class PrintLogger : Shadhin_RYZE.Logger {
+  public init()
+  public func log(logLevel: Shadhin_RYZE.LogLevel, message: @autoclosure () -> Swift.String)
+  @objc deinit
+}
+public class NullLogger : Shadhin_RYZE.Logger {
+  public init()
+  public func log(logLevel: Shadhin_RYZE.LogLevel, message: @autoclosure () -> Swift.String)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class LongPollingTransport : Shadhin_RYZE.Transport {
+  public var delegate: (any Shadhin_RYZE.TransportDelegate)?
+  final public let inherentKeepAlive: Swift.Bool
+  public func start(url: Foundation.URL, options: Shadhin_RYZE.HttpConnectionOptions)
+  public func send(data: Foundation.Data, sendDidComplete: @escaping ((any Swift.Error)?) -> Swift.Void)
+  public func close()
+  @objc deinit
+}
+public struct SRRetryContext {
+  public let failedAttemptsCount: Swift.Int
+  public let reconnectStartTime: Foundation.Date
+  public let error: any Swift.Error
+}
+public protocol ReconnectPolicy {
+  func nextAttemptInterval(retryContext: Shadhin_RYZE.SRRetryContext) -> Dispatch.DispatchTimeInterval
+}
+public class DefaultReconnectPolicy : Shadhin_RYZE.ReconnectPolicy {
+  public init(retryIntervals: [Dispatch.DispatchTimeInterval] = [.milliseconds(0), .seconds(2), .seconds(10), .seconds(30)])
+  public func nextAttemptInterval(retryContext: Shadhin_RYZE.SRRetryContext) -> Dispatch.DispatchTimeInterval
+  @objc deinit
+}
+public enum SignalRError : Swift.Error {
+  case invalidState
+  case webError(statusCode: Swift.Int)
+  case hubInvocationError(message: Swift.String)
+  case hubInvocationCancelled
+  case unknownMessageType
+  case invalidMessage
+  case unsupportedType
+  case serializationError(underlyingError: any Swift.Error)
+  case connectionIsBeingClosed
+  case invalidOperation(message: Swift.String)
+  case protocolViolation(underlyingError: any Swift.Error)
+  case handshakeError(message: Swift.String)
+  case invalidNegotiationResponse(message: Swift.String)
+  case serverClose(message: Swift.String?)
+  case noSupportedTransportAvailable
+  case connectionIsReconnecting
+}
+@_hasMissingDesignatedInitializers public class StreamHandle {
+  @objc deinit
+}
+public enum TransferFormat : Swift.String {
+  case text
+  case binary
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public protocol Transport : AnyObject {
+  var delegate: (any Shadhin_RYZE.TransportDelegate)? { get set }
+  var inherentKeepAlive: Swift.Bool { get }
+  func start(url: Foundation.URL, options: Shadhin_RYZE.HttpConnectionOptions)
+  func send(data: Foundation.Data, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void)
+  func close()
+}
+public protocol TransportDelegate : AnyObject {
+  func transportDidOpen()
+  func transportDidReceiveData(_ data: Foundation.Data)
+  func transportDidClose(_ error: (any Swift.Error)?)
+}
+public struct TransportType : Swift.OptionSet {
+  public let rawValue: Swift.Int
+  public init(rawValue: Swift.Int)
+  public static let longPolling: Shadhin_RYZE.TransportType
+  public static let webSockets: Shadhin_RYZE.TransportType
+  public static let all: Shadhin_RYZE.TransportType
+  public typealias ArrayLiteralElement = Shadhin_RYZE.TransportType
+  public typealias Element = Shadhin_RYZE.TransportType
+  public typealias RawValue = Swift.Int
+}
+@objc @_hasMissingDesignatedInitializers @available(macOS 10.15, iOS 13.0, watchOS 6.0, tvOS 13.0, *)
+public class WebsocketsTransport : ObjectiveC.NSObject, Shadhin_RYZE.Transport, Foundation.URLSessionWebSocketDelegate {
+  public var delegate: (any Shadhin_RYZE.TransportDelegate)?
+  final public let inherentKeepAlive: Swift.Bool
+  public func start(url: Foundation.URL, options: Shadhin_RYZE.HttpConnectionOptions)
+  public func send(data: Foundation.Data, sendDidComplete: @escaping ((any Swift.Error)?) -> Swift.Void)
+  public func close()
+  @objc public func urlSession(_ session: Foundation.URLSession, webSocketTask: Foundation.URLSessionWebSocketTask, didOpenWithProtocol protocol: Swift.String?)
+  @objc public func urlSession(_ session: Foundation.URLSession, task: Foundation.URLSessionTask, didCompleteWithError error: (any Swift.Error)?)
+  @objc public func urlSession(_ session: Foundation.URLSession, webSocketTask: Foundation.URLSessionWebSocketTask, didCloseWith closeCode: Foundation.URLSessionWebSocketTask.CloseCode, reason: Foundation.Data?)
+  @objc public func urlSession(_ session: Foundation.URLSession, didReceive challenge: Foundation.URLAuthenticationChallenge, completionHandler: @escaping @Sendable (Foundation.URLSession.AuthChallengeDisposition, Foundation.URLCredential?) -> Swift.Void)
+  @objc deinit
+}
+extension UIKit.UIButton {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic open func hitTest(_ point: CoreFoundation.CGPoint, with event: UIKit.UIEvent?) -> UIKit.UIView?
+}
+prefix operator ^
+extension UIKit.UIImage {
+  public class func gifImageWithData(_ data: Foundation.Data) -> UIKit.UIImage?
+  public class func gifImageWithURL(_ gifUrl: Swift.String) -> UIKit.UIImage?
+  public class func gifImageWithName(_ name: Swift.String) -> UIKit.UIImage?
+}
+extension UIKit.UIView {
+  @_Concurrency.MainActor @preconcurrency public var parentViewController: UIKit.UIViewController? {
+    get
+  }
+}
+public enum OTPAnimationTypes {
+  case flipFromRight
+  case flipFromLeft
+  case flash
+  case shake
+  case rotate
+  case expand
+  case crossDissolve
+  case curlDown
+  case curlUp
+  case none
+  public static func == (a: Shadhin_RYZE.OTPAnimationTypes, b: Shadhin_RYZE.OTPAnimationTypes) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency final public class OTPField : UIKit.UITextField {
+  @_Concurrency.MainActor @preconcurrency final public var spacing: CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency final public var slotCount: Swift.UInt
+  @_Concurrency.MainActor @preconcurrency final public var slotCornerRaduis: CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency final public var slotPlaceHolder: Swift.String
+  @_Concurrency.MainActor @preconcurrency final public var slotFontType: UIKit.UIFont
+  @_Concurrency.MainActor @preconcurrency final public var slotPlaceHolderFontType: UIKit.UIFont
+  @_Concurrency.MainActor @preconcurrency final public var filledSlotTextColor: UIKit.UIColor
+  @_Concurrency.MainActor @preconcurrency final public var emptySlotTextColor: UIKit.UIColor
+  @_Concurrency.MainActor @preconcurrency final public var emptySlotBackgroundColor: UIKit.UIColor
+  @_Concurrency.MainActor @preconcurrency final public var filledSlotBackgroundColor: UIKit.UIColor
+  @_Concurrency.MainActor @preconcurrency final public var isBorderEnabled: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency final public var filledSlotBorderWidth: CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency final public var filledSlotBorderColor: CoreGraphics.CGColor
+  @_Concurrency.MainActor @preconcurrency final public var emptySlotBorderWidth: CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency final public var emptySlotBorderColor: CoreGraphics.CGColor
+  @_Concurrency.MainActor @preconcurrency final public var isVibrateEnabled: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency final public var isAnimationEnabledOnLastDigit: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency final public var animationType: Shadhin_RYZE.OTPAnimationTypes
+  @_Concurrency.MainActor @preconcurrency final public var enableUnderLineViews: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency final public var underlineViewWidthMultiplier: CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency final public var underlineViewHeight: CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency final public var underlineViewBottomSpace: CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency final public var isFieldVerified: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency weak final public var otpDelegete: (any Shadhin_RYZE.OTPFieldDelegete)?
+  @_Concurrency.MainActor @preconcurrency final public func build()
+  @_Concurrency.MainActor @preconcurrency @objc override final public func layoutSubviews()
+  @_Concurrency.MainActor @preconcurrency final public func clearAllSlotDigits()
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+public protocol OTPFieldDelegete : AnyObject {
+  func didEnterLastDigit(otp: Swift.String)
+  func didChangeDigit(digit: Swift.String, at index: Swift.Int)
+}
+extension Shadhin_RYZE.OTPField : UIKit.UITextFieldDelegate {
+  @_Concurrency.MainActor @preconcurrency @objc final public func textField(_ textField: UIKit.UITextField, shouldChangeCharactersIn range: Foundation.NSRange, replacementString string: Swift.String) -> Swift.Bool
+  @_Concurrency.MainActor @preconcurrency @objc final public func textFieldDidBeginEditing(_ textField: UIKit.UITextField)
+  @_Concurrency.MainActor @preconcurrency @objc final public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class OTPStackView : UIKit.UIStackView {
+  @_Concurrency.MainActor @preconcurrency public var numberOfFields: Swift.Int
+  @_Concurrency.MainActor @preconcurrency public var showsWarningColor: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency public var borderWid: CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency public var tfCornerRadius: Swift.Int
+  @_Concurrency.MainActor @preconcurrency public var tfSpacing: Swift.Int
+  @_Concurrency.MainActor @preconcurrency public var textFont: UIKit.UIFont?
+  @_Concurrency.MainActor @preconcurrency public var inactiveFieldBorderColor: UIKit.UIColor
+  @_Concurrency.MainActor @preconcurrency public var textBackgroundColor: UIKit.UIColor
+  @_Concurrency.MainActor @preconcurrency public var textColor: UIKit.UIColor
+  @_Concurrency.MainActor @preconcurrency public var activeFieldBorderColor: UIKit.UIColor
+  @_Concurrency.MainActor @preconcurrency public var isBottomLineEnabled: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency final public func setupStackView()
+  @_Concurrency.MainActor @preconcurrency final public func addOTPFields()
+  @objc deinit
+}
+extension Shadhin_RYZE.OTPStackView : UIKit.UITextFieldDelegate {
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func textFieldDidBeginEditing(_ textField: UIKit.UITextField)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func textField(_ textField: UIKit.UITextField, shouldChangeCharactersIn range: Foundation.NSRange, replacementString string: Swift.String) -> Swift.Bool
+}
+extension Shadhin_RYZE.FeatureType : Swift.Equatable {}
+extension Shadhin_RYZE.FeatureType : Swift.Hashable {}
+extension Shadhin_RYZE.FeatureType : Swift.RawRepresentable {}
+extension Shadhin_RYZE.ProtocolType : Swift.Equatable {}
+extension Shadhin_RYZE.ProtocolType : Swift.Hashable {}
+extension Shadhin_RYZE.ProtocolType : Swift.RawRepresentable {}
+extension Shadhin_RYZE.MessageType : Swift.Equatable {}
+extension Shadhin_RYZE.MessageType : Swift.Hashable {}
+extension Shadhin_RYZE.MessageType : Swift.RawRepresentable {}
+extension Shadhin_RYZE.LogLevel : Swift.Equatable {}
+extension Shadhin_RYZE.LogLevel : Swift.Hashable {}
+extension Shadhin_RYZE.LogLevel : Swift.RawRepresentable {}
+extension Shadhin_RYZE.TransferFormat : Swift.Equatable {}
+extension Shadhin_RYZE.TransferFormat : Swift.Hashable {}
+extension Shadhin_RYZE.TransferFormat : Swift.RawRepresentable {}
+extension Shadhin_RYZE.OTPAnimationTypes : Swift.Equatable {}
+extension Shadhin_RYZE.OTPAnimationTypes : Swift.Hashable {}
