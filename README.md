@@ -17,7 +17,7 @@ pod 'RYZEMusicSDK'
 ## SDK Initilization 
 In Appdelegate SDK initilization process with token and call back delegate 
 ```ruby
-import RYZEMusicSDK
+import Shadhin_RYZE
 
 func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         //received music control from notification bar
