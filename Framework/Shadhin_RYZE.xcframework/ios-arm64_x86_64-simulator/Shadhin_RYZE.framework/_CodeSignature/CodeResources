@@ -118,7 +118,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		0SbFj8YTOHAK2f4VVv+uKaTTAKw=
+		WTWLZAIYhe8u40jSckZfrj+Nswo=
 		</data>
 		<key>AudioAdsView.nib/objects-13.0+.nib</key>
 		<data>
@@ -664,21 +664,13 @@
 		<data>
 		q7LXoLvkeFZ7QudBuK3Q2gjJOyk=
 		</data>
-		<key>Modules/Shadhin_RYZE.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		DuJAXDQTicEZlTvSDijSnC0BAso=
-		</data>
-		<key>Modules/Shadhin_RYZE.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		UNoi9+v9l0j+T1jGM/y0BfOx41E=
-		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		m/L9Of1+NEvsACAL5TrJg7ZgB5o=
+		QcuT8FZbt46RWAzP+lBmRoSIQ+w=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xCwr4kj4k/fLU+b1Qe3Qf/eL2TQ=
+		xGnM6s1bpQ+Y8mT9qA5lA7JgcyQ=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -686,19 +678,19 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xCwr4kj4k/fLU+b1Qe3Qf/eL2TQ=
+		xGnM6s1bpQ+Y8mT9qA5lA7JgcyQ=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		569aw4hZ7zKfqY0U+/n9sDn3t08=
+		MwY0Dntl2tUt3+JXoXq0uirOVFA=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		m/L9Of1+NEvsACAL5TrJg7ZgB5o=
+		QcuT8FZbt46RWAzP+lBmRoSIQ+w=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		OB232wbKi8GEEL6kF82vMeXfDVk=
+		pQx7+pxNds7VHBZtnoWVX1BiV2U=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -706,11 +698,11 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		OB232wbKi8GEEL6kF82vMeXfDVk=
+		pQx7+pxNds7VHBZtnoWVX1BiV2U=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		V7KoC+axxYKzusoi9TVIPCk9Ydc=
+		PwogNjRuFldBDyoZB8gwUthyRU0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -798,15 +790,15 @@
 		</data>
 		<key>MyRankCell.nib/objects-12.3+.nib</key>
 		<data>
-		DvLCMiMJipvpZh/A7OSiUKp14vc=
+		ovfxzndPRzKLUWhuUikdQInHG3o=
 		</data>
 		<key>MyRankCell.nib/objects-13.0+.nib</key>
 		<data>
-		heUxDtHXo4TjJvIvep2UCnyWUYk=
+		NGjiGpwW1ABSPvT5VBUIqfz9iyk=
 		</data>
 		<key>MyRankCell.nib/runtime.nib</key>
 		<data>
-		RKnfE170snx0tVvUXu3iZW/bwY4=
+		40THXAViTmzASmiFqAZ/qlS3p2Q=
 		</data>
 		<key>NavMenuItemCell.nib</key>
 		<data>
@@ -1752,7 +1744,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BK4ZGvfaJL8xg1dGgV40jwKQdpR6qyzUyN5wbWC5uEk=
+			o/sTdN5LYBvin362wY6Yhr1072xyoYAOCGJ8iWLvyjQ=
 			</data>
 		</dict>
 		<key>AudioAdsView.nib/objects-13.0+.nib</key>
@@ -2700,32 +2692,18 @@
 			1fgmitxZcSlXgxHdBqrVQNC9Ee5OooWIGzRBCl8qUac=
 			</data>
 		</dict>
-		<key>Modules/Shadhin_RYZE.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zlOjOYGSvT2BtPqW9O6ZBOTFL64t0trpJOZ7COFcnjs=
-			</data>
-		</dict>
-		<key>Modules/Shadhin_RYZE.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kjubj2QH6I1dekzIwoZRr95fkug2PI1NyzJcRe+3Naw=
-			</data>
-		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mECvAxtFkqs3O+5BF256G8HPl4WotA5vFf4ujWWUROg=
+			M8bHOedwPmwG361mTcfJSR1QKpV0jFizahfJlPlJ64k=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2yXQsP6MkExJKDfT2fhekKwPhROIvxB1ynzUGmSdhM=
+			PoIwoWos4cpeaKEqSMgk7V5a7UcewrSyJR+qdUi7PFM=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -2739,28 +2717,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2yXQsP6MkExJKDfT2fhekKwPhROIvxB1ynzUGmSdhM=
+			PoIwoWos4cpeaKEqSMgk7V5a7UcewrSyJR+qdUi7PFM=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wmGCqrMzJk2w33SRKHNGlU+/Ljg61H+iLHu0ck2QEvY=
+			G/isgeznBRZjICoDnMpnspy4sV47rjjlrKoHNblQk/Q=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mECvAxtFkqs3O+5BF256G8HPl4WotA5vFf4ujWWUROg=
+			M8bHOedwPmwG361mTcfJSR1QKpV0jFizahfJlPlJ64k=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PrfA5OklgF5luwdbah/X710C7arA0lTOXzIAjx59+pY=
+			WPQBsoNdayb10KJ4J88hvkgRKuC+qcj4KqmWf0GLXLM=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -2774,14 +2752,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PrfA5OklgF5luwdbah/X710C7arA0lTOXzIAjx59+pY=
+			WPQBsoNdayb10KJ4J88hvkgRKuC+qcj4KqmWf0GLXLM=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8sQRpAzG0nzKSaQlG47PJ2J5ILgKMLL7P/KqMvsl//A=
+			sYe4zhrrkPIvNV+FDLUMoG3z+4GXBSlfXvXJuW7yOLg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2935,21 +2913,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y4+Txa3rekpjph+XO7Nz8rLPr94lLVcSskmmuIOol+w=
+			btUTlCf5lY9r+DtOHH05Is9QHme7auNnOmxfh37fDbs=
 			</data>
 		</dict>
 		<key>MyRankCell.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zatr87KbsF2VjjnptZ2cIzv9U8FYAdLykLaMarS01hU=
+			lGQUIkGAAgkbOyT/SD8dNUP4MYMrwakjv06lueT8cEc=
 			</data>
 		</dict>
 		<key>MyRankCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iaA8mpGG8VqTDbXJgAltTN1eKFn6KFVfWbqQri7nQW0=
+			d/daTBMUu1k4fz+wHfLmnVurR1B59YuUzO1bT6ljjKs=
 			</data>
 		</dict>
 		<key>NavMenuItemCell.nib</key>

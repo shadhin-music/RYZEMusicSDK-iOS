@@ -1,7 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
 // swift-module-flags: -target arm64-apple-ios11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name Shadhin_RYZE
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVFoundation
 import AVKit
 import Accelerate
@@ -116,8 +115,6 @@ public enum FeatureType : Swift.String {
   @objc func bkashPaymentInit()
   @objc func bksahPaymentSuccess()
   @objc func linkRedirect(link: Swift.String)
-  @objc func memberShipStatus(isValid: Swift.Bool, value: Swift.String)
-  @objc func handleMSDKPaymentEvent(eventName: Swift.String, data: [Swift.String : Any])
 }
 public protocol ShadhinLogNotifier : ObjectiveC.NSObjectProtocol {
   func tokenStatus(token isValid: Swift.Bool, error: Swift.String?)
@@ -131,8 +128,6 @@ public protocol ShadhinLogNotifier : ObjectiveC.NSObjectProtocol {
   func tokenFetchSuccess(complete: @escaping () -> Swift.Void)
   func event(eventName: Swift.String, contentName: Swift.String, contentType: Swift.String, patchName: Swift.String)
   func linkRedirect(link: Swift.String)
-  func memberShipStatus(isValid: Swift.Bool, value: Swift.String)
-  func handleMSDKPaymentEvent(eventName: Swift.String, data: [Swift.String : Any])
 }
 @objc public protocol RadioCallBack : ObjectiveC.NSObjectProtocol {
   @objc func fetchTokenForRadio(complete: @escaping (Swift.String, Swift.Bool) -> Swift.Void)
