@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RYZEMusicSDK'
-  s.version          = '0.0.4'
+  s.version          = '0.0.2'
   s.summary          = 'Shadhin RYZE Music SDK for iOS'
   s.description      = 'RYZEMusicSDK is an XCFramework-based SDK for integrating music features from Shadhin into iOS apps.'
   s.homepage         = 'https://github.com/shadhin-music/RYZEMusicSDK-iOS.git' # ✅ Must end with `.git`
@@ -27,5 +27,5 @@ Pod::Spec.new do |s|
   }
 
   # ✅ Update this path if it's inside a folder (relative to the podspec)
-  s.ios.vendored_frameworks = 'Releases/0.0.4/Shadhin_RYZE.xcframework'
+  s.ios.vendored_frameworks = 'Releases/0.0.2/Shadhin_RYZE.xcframework'
 end
