@@ -7,19 +7,25 @@
 #
 
 Pod::Spec.new do |s|
-    s.name              = 'RYZEMusicSDK' # Name for your pod
-    s.version           = '0.0.3'
-    s.summary           = 'Sample Spec'
-    s.homepage          = 'https://github.com/shadhin-music/RYZEMusicSDK-iOS'
+  s.name             = 'RYZEMusicSDK'
+  s.version          = '0.0.4'
+  s.summary          = 'Shadhin RYZE Music SDK for iOS'
+  s.description      = 'RYZEMusicSDK is an XCFramework-based SDK for integrating music features from Shadhin into iOS apps.'
+  s.homepage         = 'https://github.com/shadhin-music/RYZEMusicSDK-iOS.git' # ✅ Must end with `.git`
+  
+  s.author           = { 'Md Maruf Prodhan' => 'mdmaruf@shadhinmusic.com' }
+  s.license          = { :type => 'MIT', :file => 'LICENSE' }
 
-    s.author            = { 'Md Maruf Prodhan' => 'mdmaruf@shadhinmusic.com' }
-    s.license      = { :type => "MIT", :file => "LICENSE" }
+  s.platform         = :ios, '13.0'
+  s.swift_version    = '5.7'
+  s.requires_arc     = true
 
-    s.platform          = :ios
-    # change the source location
-    s.source            = { :git => "https://github.com/shadhin-music/RYZEMusicSDK-iOS", :tag => "#{s.version}" }
-    s.ios.deployment_target = '13.0'
-    s.swift_version = "5.7"
-    s.ios.vendored_frameworks = 'Shadhin_RYZE.xcframework' # Your XCFramework
-    s.requires_arc = true
+  # ✅ Must point to the correct path and tag
+  s.source           = { 
+    :git => 'https://github.com/shadhin-music/RYZEMusicSDK-iOS.git', 
+    :tag => s.version.to_s 
+  }
+
+  # ✅ Update this path if it's inside a folder (relative to the podspec)
+  s.ios.vendored_frameworks = 'Releases/0.0.4/Shadhin_RYZE.xcframework'
 end
