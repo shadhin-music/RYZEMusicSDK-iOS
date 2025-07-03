@@ -21,25 +21,33 @@ class TabBarVC: UITabBarController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
-        let aItem = UITabBarItem(title: "Home", image: UIImage(named: "home"), tag: 0)
-        let bItem = UITabBarItem(title: "B", image: UIImage(named: "home"), tag: 1)
+        let aItem = UITabBarItem(title: "Home",image: UIImage(named: "home"), tag: 0)
+        let bItem = UITabBarItem(title: "A", image: UIImage(named: "home"), tag: 1)
         let cItem = UITabBarItem(title: "C", image: UIImage(named: "home"), tag: 2)
-        
+        let BItem = UITabBarItem(title: "B", image: UIImage(named: "home"), tag: 3)
         let a = HomeVC()
         let aNav = UINavigationController(rootViewController: a)
         aNav.isNavigationBarHidden = true
         aNav.tabBarItem = aItem
         
-        let b = C()
-        b.tabBarItem = bItem
+        let b = A()
         
-        let c = A()
+        let bNav = UINavigationController(rootViewController: b)
+        bNav.tabBarItem = bItem
+        
+        let c = C()
         let nav = UINavigationController(rootViewController: c)
         nav.isNavigationBarHidden = true
         nav.tabBarItem = cItem
         c.view.backgroundColor = .gray
-        viewControllers = [aNav,b,nav]
+        
+        let bTab = ArtistViewVC()
+        let bNavView = UINavigationController(rootViewController: bTab)
+        bNavView.isNavigationBarHidden = true
+        bNavView.tabBarItem = BItem
+        
+        viewControllers = [aNav,bNav,nav,bNavView]
+      
         
     }
     override func viewWillAppear(_ animated: Bool) {

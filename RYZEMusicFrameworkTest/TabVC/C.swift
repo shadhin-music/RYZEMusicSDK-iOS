@@ -28,14 +28,14 @@ class C: UIViewController {
     }
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        ShadhinBL.shared.radioInitialise(tabBarController: self.tabBarController!, delegate: self)
+        ShadhinRyze.shared.radioInitialise(tabBarController: self.tabBarController!, delegate: self)
     }
 
     @IBAction func onGotoMusicPressed(_ sender: Any) {
         guard let nav = self.navigationController else{
             return
         }
-        ShadhinBL.shared.gotoHome(with: self.tabBarController, navigationController: nav)
+        ShadhinRyze.shared.gotoHome(with: self.tabBarController, navigationController: nav)
     }
     
     /*
@@ -56,7 +56,7 @@ extension C : RadioCallBack{
     
     func fetchTokenForRadio(complete: @escaping (String, Bool) -> Void) {
         debugPrint("need token ")
-        ShadhinBL.shared.login(number: "8801954545813") { isDone, token in
+        ShadhinRyze.shared.login(number: "8801954545813") { isDone, token in
             if isDone{
                 complete(token,true)
             }

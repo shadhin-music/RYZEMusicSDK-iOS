@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name Shadhin_RYZE
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name Shadhin_RYZE
 import AVFoundation
 import AVKit
 import Accelerate
@@ -30,6 +30,8 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+public struct ArtistDataModel {
+}
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @IBDesignable @objc @_Concurrency.MainActor @preconcurrency final public class BLRadioView : UIKit.UIView {
   @objc @_Concurrency.MainActor @preconcurrency final public var height: CoreFoundation.CGFloat
   @IBInspectable @objc @_Concurrency.MainActor @preconcurrency final public var isAutoPlay: Swift.Bool
@@ -54,8 +56,8 @@ public struct EntryPoint {
   public static let Podcast: Swift.String
   public static let PodcastAudio: Swift.String
 }
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class ShadhinBL : ObjectiveC.NSObject {
-  public static let shared: Shadhin_RYZE.ShadhinBL
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class ShadhinRyze : ObjectiveC.NSObject {
+  public static let shared: Shadhin_RYZE.ShadhinRyze
   @available(*, deprecated, message: "This method will be deprecated.")
   @objc final public func initialize(with token: Swift.String, isBL: Swift.Bool, delegate: any Shadhin_RYZE.ShadhinCoreNotifier)
   @objc final public func initialize(with token: Swift.String, isBL: Swift.Bool, delegate: any Shadhin_RYZE.ShadhinCoreNotifier, tabController: UIKit.UITabBarController?, navigationController: UIKit.UINavigationController)
@@ -64,17 +66,22 @@ public struct EntryPoint {
   @objc final public func eventRegister(with event: UIKit.UIEvent)
   @objc final public func openPatch(patchID: Swift.String, navigationController: UIKit.UINavigationController, tabController: UIKit.UITabBarController?)
   @objc final public func radioView(isAutoPlay: Swift.Bool) -> Shadhin_RYZE.BLRadioView?
+  @objc final public func artistView()
   @objc final public func radioInitialise(tabBarController: UIKit.UITabBarController, delegate: any Shadhin_RYZE.RadioCallBack)
   @objc final public func clearAllCache()
   @objc final public func terminate()
   @objc final public func stopMusic()
   @objc final public func pauseMusic()
   @objc final public func playMusic()
+  @objc final public func hideMusicPlayer()
   @objc final public func setSessionPulesTimer(second: Swift.Double) -> Swift.String?
   @objc final public func setStreamingPulseTimer(second: Swift.Double) -> Swift.String?
+  final public var didTapSeeAllArtist: (() -> Swift.Void)?
+  final public var didTapArtistDetails: ((Shadhin_RYZE.ArtistDataModel, [Shadhin_RYZE.ArtistDataModel]) -> Swift.Void)?
+  final public func openArtistDetailsVC(artist: Shadhin_RYZE.ArtistDataModel, otherArtists: [Shadhin_RYZE.ArtistDataModel], navigationController: UIKit.UINavigationController, tabController: UIKit.UITabBarController? = nil)
   @objc deinit
 }
-extension Shadhin_RYZE.ShadhinBL : Shadhin_RYZE.ShadhinLogNotifier {
+extension Shadhin_RYZE.ShadhinRyze : Shadhin_RYZE.ShadhinLogNotifier {
   final public func handleMSDKPaymentEvent(eventName: Swift.String, data: [Swift.String : Any])
   final public func memberShipStatus(isValid: Swift.Bool, value: Swift.String)
   final public func linkRedirect(link: Swift.String)
@@ -831,6 +838,17 @@ extension Shadhin_RYZE.OTPStackView : UIKit.UITextFieldDelegate {
   @_Concurrency.MainActor @preconcurrency @objc dynamic public func textFieldDidBeginEditing(_ textField: UIKit.UITextField)
   @_Concurrency.MainActor @preconcurrency @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
   @_Concurrency.MainActor @preconcurrency @objc dynamic public func textField(_ textField: UIKit.UITextField, shouldChangeCharactersIn range: Foundation.NSRange, replacementString string: Swift.String) -> Swift.Bool
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @IBDesignable @objc @_Concurrency.MainActor @preconcurrency public class RYZEArtistView : UIKit.UIView {
+  @objc deinit
+}
+extension Shadhin_RYZE.RYZEArtistView : UIKit.UICollectionViewDataSource, UIKit.UICollectionViewDelegateFlowLayout {
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, numberOfItemsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, cellForItemAt indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewCell
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, didSelectItemAt indexPath: Foundation.IndexPath)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, sizeForItemAt indexPath: Foundation.IndexPath) -> CoreFoundation.CGSize
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, minimumLineSpacingForSectionAt section: Swift.Int) -> CoreFoundation.CGFloat
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, minimumInteritemSpacingForSectionAt section: Swift.Int) -> CoreFoundation.CGFloat
 }
 extension Shadhin_RYZE.FeatureType : Swift.Equatable {}
 extension Shadhin_RYZE.FeatureType : Swift.Hashable {}

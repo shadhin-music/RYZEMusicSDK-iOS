@@ -2,6 +2,7 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
     <device id="retina6_0" orientation="portrait" appearance="light"/>
     <dependencies>
+        <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
         <capability name="Named colors" minToolsVersion="9.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
@@ -29,7 +30,7 @@
                         <action selector="onGotoMusicPressed:" destination="-1" eventType="touchUpInside" id="ix9-gK-2Ur"/>
                     </connections>
                 </button>
-                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jyI-9x-btt" customClass="BLRadioView" customModule="Shadhin_BL">
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jyI-9x-btt" customClass="BLRadioView" customModule="Shadhin_RYZE">
                     <rect key="frame" x="0.0" y="47" width="390" height="240"/>
                     <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     <constraints>
@@ -51,7 +52,7 @@
     </objects>
     <resources>
         <namedColor name="tint">
-            <color red="0.55294120309999995" green="0.2941176593" blue="0.96470588450000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+            <color red="0.55294117647058827" green="0.29411764705882354" blue="0.96470588235294119" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </namedColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>

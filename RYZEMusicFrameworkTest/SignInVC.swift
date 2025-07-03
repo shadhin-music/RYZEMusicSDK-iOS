@@ -25,9 +25,9 @@ class SignInVC: UIViewController {
             return
         }
         sender.isEnabled = false
-        ShadhinBL.shared.login(number: number) { isDone, token in
+        ShadhinRyze.shared.login(number: number) { isDone, token in
             if isDone{
-                ShadhinBL.shared.initialize(with: token,isBL: PhoneNumberVerify.isBanglalink(number), delegate: self,tabController: self.tabBarController,navigationController: self.navigationController!)
+                ShadhinRyze.shared.initialize(with: token,isBL: PhoneNumberVerify.isBanglalink(number), delegate: self,tabController: self.tabBarController,navigationController: self.navigationController!)
             }else{
                 
             }

@@ -722,6 +722,34 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "ArtistDataModel",
+        "printedName": "ArtistDataModel",
+        "declKind": "Struct",
+        "usr": "s:12Shadhin_RYZE15ArtistDataModelV",
+        "mangledName": "$s12Shadhin_RYZE15ArtistDataModelV",
+        "moduleName": "Shadhin_RYZE",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
@@ -1801,8 +1829,8 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "Shadhin_RYZE",
         "declAttributes": [
@@ -1811,15 +1839,15 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "Shadhin_RYZE"
       },
       {
         "kind": "TypeDecl",
-        "name": "ShadhinBL",
-        "printedName": "ShadhinBL",
+        "name": "ShadhinRyze",
+        "printedName": "ShadhinRyze",
         "children": [
           {
             "kind": "Var",
@@ -1828,14 +1856,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "ShadhinBL",
-                "printedName": "Shadhin_RYZE.ShadhinBL",
-                "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL"
+                "name": "ShadhinRyze",
+                "printedName": "Shadhin_RYZE.ShadhinRyze",
+                "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze"
               }
             ],
             "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE0A2BLC6sharedACvpZ",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC6sharedACvpZ",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC6sharedACvpZ",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC6sharedACvpZ",
             "moduleName": "Shadhin_RYZE",
             "static": true,
             "declAttributes": [
@@ -1854,14 +1882,14 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ShadhinBL",
-                    "printedName": "Shadhin_RYZE.ShadhinBL",
-                    "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL"
+                    "name": "ShadhinRyze",
+                    "printedName": "Shadhin_RYZE.ShadhinRyze",
+                    "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE0A2BLC6sharedACvgZ",
-                "mangledName": "$s12Shadhin_RYZE0A2BLC6sharedACvgZ",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC6sharedACvgZ",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC6sharedACvgZ",
                 "moduleName": "Shadhin_RYZE",
                 "static": true,
                 "implicit": true,
@@ -1902,8 +1930,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)initializeWith:isBL:delegate:",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC10initialize4with02isC08delegateySS_SbAA0A12CoreNotifier_ptF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)initializeWith:isBL:delegate:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC10initialize4with4isBL8delegateySS_SbAA0A12CoreNotifier_ptF",
             "moduleName": "Shadhin_RYZE",
             "deprecated": true,
             "objc_name": "initializeWith:isBL:delegate:",
@@ -1965,8 +1993,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)initializeWith:isBL:delegate:tabController:navigationController:",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC10initialize4with02isC08delegate13tabController010navigationI0ySS_SbAA0A12CoreNotifier_pSo08UITabBarI0CSgSo012UINavigationI0CtF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)initializeWith:isBL:delegate:tabController:navigationController:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC10initialize4with4isBL8delegate13tabController010navigationJ0ySS_SbAA0A12CoreNotifier_pSo08UITabBarJ0CSgSo012UINavigationJ0CtF",
             "moduleName": "Shadhin_RYZE",
             "objc_name": "initializeWith:isBL:delegate:tabController:navigationController:",
             "declAttributes": [
@@ -2026,8 +2054,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)loginWithNumber:complete:",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC5login6number8completeySS_ySb_SStctF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)loginWithNumber:complete:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC5login6number8completeySS_ySb_SStctF",
             "moduleName": "Shadhin_RYZE",
             "objc_name": "loginWithNumber:complete:",
             "declAttributes": [
@@ -2084,8 +2112,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)gotoHomeWith:navigationController:membership:",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC8gotoHome4with20navigationController10membershipySo08UITabBarH0CSg_So012UINavigationH0CSSSgtF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)gotoHomeWith:navigationController:membership:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC8gotoHome4with20navigationController10membershipySo08UITabBarH0CSg_So012UINavigationH0CSSSgtF",
             "moduleName": "Shadhin_RYZE",
             "objc_name": "gotoHomeWith:navigationController:membership:",
             "declAttributes": [
@@ -2113,8 +2141,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)eventRegisterWith:",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC13eventRegister4withySo7UIEventC_tF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)eventRegisterWith:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC13eventRegister4withySo7UIEventC_tF",
             "moduleName": "Shadhin_RYZE",
             "objc_name": "eventRegisterWith:",
             "declAttributes": [
@@ -2163,8 +2191,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)openPatchWithPatchID:navigationController:tabController:",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC9openPatch7patchID20navigationController03tabI0ySS_So012UINavigationI0CSo08UITabBarI0CSgtF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)openPatchWithPatchID:navigationController:tabController:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC9openPatch7patchID20navigationController03tabI0ySS_So012UINavigationI0CSo08UITabBarI0CSgtF",
             "moduleName": "Shadhin_RYZE",
             "objc_name": "openPatchWithPatchID:navigationController:tabController:",
             "declAttributes": [
@@ -2201,10 +2229,32 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)radioViewWithIsAutoPlay:",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC9radioView10isAutoPlayAA07BLRadioE0CSgSb_tF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)radioViewWithIsAutoPlay:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC9radioView10isAutoPlayAA07BLRadioE0CSgSb_tF",
             "moduleName": "Shadhin_RYZE",
             "objc_name": "radioViewWithIsAutoPlay:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "artistView",
+            "printedName": "artistView()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)artistView",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC10artistViewyyF",
+            "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
               "AccessControl",
@@ -2236,8 +2286,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)radioInitialiseWithTabBarController:delegate:",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC15radioInitialise16tabBarController8delegateySo05UITabgH0C_AA13RadioCallBack_ptF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)radioInitialiseWithTabBarController:delegate:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC15radioInitialise16tabBarController8delegateySo05UITabgH0C_AA13RadioCallBack_ptF",
             "moduleName": "Shadhin_RYZE",
             "objc_name": "radioInitialiseWithTabBarController:delegate:",
             "declAttributes": [
@@ -2259,8 +2309,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)clearAllCache",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC13clearAllCacheyyF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)clearAllCache",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC13clearAllCacheyyF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2281,8 +2331,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)terminate",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC9terminateyyF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)terminate",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC9terminateyyF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2303,8 +2353,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)stopMusic",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC9stopMusicyyF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)stopMusic",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC9stopMusicyyF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2325,8 +2375,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)pauseMusic",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC10pauseMusicyyF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)pauseMusic",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC10pauseMusicyyF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2347,8 +2397,30 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)playMusic",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC9playMusicyyF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)playMusic",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC9playMusicyyF",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "hideMusicPlayer",
+            "printedName": "hideMusicPlayer()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)hideMusicPlayer",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC15hideMusicPlayeryyF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2384,8 +2456,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)setSessionPulesTimerWithSecond:",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC20setSessionPulesTimer6secondSSSgSd_tF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)setSessionPulesTimerWithSecond:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC20setSessionPulesTimer6secondSSSgSd_tF",
             "moduleName": "Shadhin_RYZE",
             "objc_name": "setSessionPulesTimerWithSecond:",
             "declAttributes": [
@@ -2422,14 +2494,449 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL(im)setStreamingPulseTimerWithSecond:",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC22setStreamingPulseTimer6secondSSSgSd_tF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)setStreamingPulseTimerWithSecond:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC22setStreamingPulseTimer6secondSSSgSd_tF",
             "moduleName": "Shadhin_RYZE",
             "objc_name": "setStreamingPulseTimerWithSecond:",
             "declAttributes": [
               "Final",
               "AccessControl",
               "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "didTapSeeAllArtist",
+            "printedName": "didTapSeeAllArtist",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC18didTapSeeAllArtistyycSgvp",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC18didTapSeeAllArtistyycSgvp",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC18didTapSeeAllArtistyycSgvg",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC18didTapSeeAllArtistyycSgvg",
+                "moduleName": "Shadhin_RYZE",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC18didTapSeeAllArtistyycSgvs",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC18didTapSeeAllArtistyycSgvs",
+                "moduleName": "Shadhin_RYZE",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC18didTapSeeAllArtistyycSgvM",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC18didTapSeeAllArtistyycSgvM",
+                "moduleName": "Shadhin_RYZE",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "didTapArtistDetails",
+            "printedName": "didTapArtistDetails",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((Shadhin_RYZE.ArtistDataModel, [Shadhin_RYZE.ArtistDataModel]) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Shadhin_RYZE.ArtistDataModel, [Shadhin_RYZE.ArtistDataModel]) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(Shadhin_RYZE.ArtistDataModel, [Shadhin_RYZE.ArtistDataModel])",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ArtistDataModel",
+                            "printedName": "Shadhin_RYZE.ArtistDataModel",
+                            "usr": "s:12Shadhin_RYZE15ArtistDataModelV"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Array",
+                            "printedName": "[Shadhin_RYZE.ArtistDataModel]",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "ArtistDataModel",
+                                "printedName": "Shadhin_RYZE.ArtistDataModel",
+                                "usr": "s:12Shadhin_RYZE15ArtistDataModelV"
+                              }
+                            ],
+                            "usr": "s:Sa"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC19didTapArtistDetailsyAA0F9DataModelV_SayAFGtcSgvp",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC19didTapArtistDetailsyAA0F9DataModelV_SayAFGtcSgvp",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((Shadhin_RYZE.ArtistDataModel, [Shadhin_RYZE.ArtistDataModel]) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Shadhin_RYZE.ArtistDataModel, [Shadhin_RYZE.ArtistDataModel]) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(Shadhin_RYZE.ArtistDataModel, [Shadhin_RYZE.ArtistDataModel])",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "ArtistDataModel",
+                                "printedName": "Shadhin_RYZE.ArtistDataModel",
+                                "usr": "s:12Shadhin_RYZE15ArtistDataModelV"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Array",
+                                "printedName": "[Shadhin_RYZE.ArtistDataModel]",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "ArtistDataModel",
+                                    "printedName": "Shadhin_RYZE.ArtistDataModel",
+                                    "usr": "s:12Shadhin_RYZE15ArtistDataModelV"
+                                  }
+                                ],
+                                "usr": "s:Sa"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC19didTapArtistDetailsyAA0F9DataModelV_SayAFGtcSgvg",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC19didTapArtistDetailsyAA0F9DataModelV_SayAFGtcSgvg",
+                "moduleName": "Shadhin_RYZE",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((Shadhin_RYZE.ArtistDataModel, [Shadhin_RYZE.ArtistDataModel]) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Shadhin_RYZE.ArtistDataModel, [Shadhin_RYZE.ArtistDataModel]) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(Shadhin_RYZE.ArtistDataModel, [Shadhin_RYZE.ArtistDataModel])",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "ArtistDataModel",
+                                "printedName": "Shadhin_RYZE.ArtistDataModel",
+                                "usr": "s:12Shadhin_RYZE15ArtistDataModelV"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Array",
+                                "printedName": "[Shadhin_RYZE.ArtistDataModel]",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "ArtistDataModel",
+                                    "printedName": "Shadhin_RYZE.ArtistDataModel",
+                                    "usr": "s:12Shadhin_RYZE15ArtistDataModelV"
+                                  }
+                                ],
+                                "usr": "s:Sa"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC19didTapArtistDetailsyAA0F9DataModelV_SayAFGtcSgvs",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC19didTapArtistDetailsyAA0F9DataModelV_SayAFGtcSgvs",
+                "moduleName": "Shadhin_RYZE",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC19didTapArtistDetailsyAA0F9DataModelV_SayAFGtcSgvM",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC19didTapArtistDetailsyAA0F9DataModelV_SayAFGtcSgvM",
+                "moduleName": "Shadhin_RYZE",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "openArtistDetailsVC",
+            "printedName": "openArtistDetailsVC(artist:otherArtists:navigationController:tabController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ArtistDataModel",
+                "printedName": "Shadhin_RYZE.ArtistDataModel",
+                "usr": "s:12Shadhin_RYZE15ArtistDataModelV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Shadhin_RYZE.ArtistDataModel]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArtistDataModel",
+                    "printedName": "Shadhin_RYZE.ArtistDataModel",
+                    "usr": "s:12Shadhin_RYZE15ArtistDataModelV"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UITabBarController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UITabBarController",
+                    "printedName": "UIKit.UITabBarController",
+                    "usr": "c:objc(cs)UITabBarController"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC19openArtistDetailsVC6artist12otherArtists20navigationController03tabL0yAA0E9DataModelV_SayAJGSo012UINavigationL0CSo08UITabBarL0CSgtF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC19openArtistDetailsVC6artist12otherArtists20navigationController03tabL0yAA0E9DataModelV_SayAJGSo012UINavigationL0CSo08UITabBarL0CSgtF",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -2470,8 +2977,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC22handleMSDKPaymentEvent9eventName4dataySS_SDySSypGtF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC22handleMSDKPaymentEvent9eventName4dataySS_SDySSypGtF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC22handleMSDKPaymentEvent9eventName4dataySS_SDySSypGtF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC22handleMSDKPaymentEvent9eventName4dataySS_SDySSypGtF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2504,8 +3011,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC16memberShipStatus7isValid5valueySb_SStF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC16memberShipStatus7isValid5valueySb_SStF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC16memberShipStatus7isValid5valueySb_SStF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC16memberShipStatus7isValid5valueySb_SStF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2532,8 +3039,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC12linkRedirect0D0ySS_tF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC12linkRedirect0D0ySS_tF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC12linkRedirect0D0ySS_tF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC12linkRedirect0D0ySS_tF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2578,8 +3085,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC5event0D4Name07contentE00F4Type05patchE0ySS_S3StF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC5event0D4Name07contentE00F4Type05patchE0ySS_S3StF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC5event0D4Name07contentE00F4Type05patchE0ySS_S3StF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC5event0D4Name07contentE00F4Type05patchE0ySS_S3StF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2617,8 +3124,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC17tokenFetchSuccess8completeyyyc_tF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC17tokenFetchSuccess8completeyyyc_tF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC17tokenFetchSuccess8completeyyyc_tF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC17tokenFetchSuccess8completeyyyc_tF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2639,8 +3146,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC19bkashPaymentSuccessyyF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC19bkashPaymentSuccessyyF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC19bkashPaymentSuccessyyF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC19bkashPaymentSuccessyyF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2668,8 +3175,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC6player5errorySS_tF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC6player5errorySS_tF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC6player5errorySS_tF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC6player5errorySS_tF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2710,8 +3217,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC11tokenStatus0D05errorySb_SSSgtF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC11tokenStatus0D05errorySb_SSSgtF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC11tokenStatus0D05errorySb_SSSgtF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC11tokenStatus0D05errorySb_SSSgtF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2738,8 +3245,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC10patchError5errorySS_tF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC10patchError5errorySS_tF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC10patchError5errorySS_tF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC10patchError5errorySS_tF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2774,8 +3281,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC13amarTuneError5errorySSSg_tF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC13amarTuneError5errorySSSg_tF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC13amarTuneError5errorySSSg_tF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC13amarTuneError5errorySSSg_tF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2810,8 +3317,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC7rcError5errorySSSg_tF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC7rcError5errorySSSg_tF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC7rcError5errorySSSg_tF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC7rcError5errorySSSg_tF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2850,8 +3357,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC18shareContentWithRC5title5image2rcySS_S2StF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC18shareContentWithRC5title5image2rcySS_S2StF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC18shareContentWithRC5title5image2rcySS_S2StF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC18shareContentWithRC5title5image2rcySS_S2StF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2872,8 +3379,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE0A2BLC16bkashPaymentInityyF",
-            "mangledName": "$s12Shadhin_RYZE0A2BLC16bkashPaymentInityyF",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC16bkashPaymentInityyF",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC16bkashPaymentInityyF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -2884,8 +3391,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinBL",
-        "mangledName": "$s12Shadhin_RYZE0A2BLC",
+        "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze",
+        "mangledName": "$s12Shadhin_RYZE0A4RyzeC",
         "moduleName": "Shadhin_RYZE",
         "declAttributes": [
           "AccessControl",
@@ -36411,6 +36918,379 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "RYZEArtistView",
+        "printedName": "RYZEArtistView",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:numberOfItemsInSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@Shadhin_RYZE@objc(cs)RYZEArtistView(im)collectionView:numberOfItemsInSection:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC010collectionD0_22numberOfItemsInSectionSiSo012UICollectionD0C_SitF",
+            "moduleName": "Shadhin_RYZE",
+            "objc_name": "collectionView:numberOfItemsInSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:cellForItemAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionViewCell",
+                "printedName": "UIKit.UICollectionViewCell",
+                "usr": "c:objc(cs)UICollectionViewCell"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@Shadhin_RYZE@objc(cs)RYZEArtistView(im)collectionView:cellForItemAtIndexPath:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC010collectionD0_13cellForItemAtSo012UICollectionD4CellCSo0jD0C_10Foundation9IndexPathVtF",
+            "moduleName": "Shadhin_RYZE",
+            "objc_name": "collectionView:cellForItemAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:didSelectItemAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@Shadhin_RYZE@objc(cs)RYZEArtistView(im)collectionView:didSelectItemAtIndexPath:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC010collectionD0_15didSelectItemAtySo012UICollectionD0C_10Foundation9IndexPathVtF",
+            "moduleName": "Shadhin_RYZE",
+            "objc_name": "collectionView:didSelectItemAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:layout:sizeForItemAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGSize",
+                "printedName": "CoreFoundation.CGSize",
+                "usr": "c:@S@CGSize"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionViewLayout",
+                "printedName": "UIKit.UICollectionViewLayout",
+                "usr": "c:objc(cs)UICollectionViewLayout"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@Shadhin_RYZE@objc(cs)RYZEArtistView(im)collectionView:layout:sizeForItemAtIndexPath:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC010collectionD0_6layout13sizeForItemAtSo6CGSizeVSo012UICollectionD0C_So0lD6LayoutC10Foundation9IndexPathVtF",
+            "moduleName": "Shadhin_RYZE",
+            "objc_name": "collectionView:layout:sizeForItemAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:layout:minimumLineSpacingForSectionAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionViewLayout",
+                "printedName": "UIKit.UICollectionViewLayout",
+                "usr": "c:objc(cs)UICollectionViewLayout"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@Shadhin_RYZE@objc(cs)RYZEArtistView(im)collectionView:layout:minimumLineSpacingForSectionAtIndex:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC010collectionD0_6layout30minimumLineSpacingForSectionAt12CoreGraphics7CGFloatVSo012UICollectionD0C_So0pD6LayoutCSitF",
+            "moduleName": "Shadhin_RYZE",
+            "objc_name": "collectionView:layout:minimumLineSpacingForSectionAtIndex:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectionView",
+            "printedName": "collectionView(_:layout:minimumInteritemSpacingForSectionAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionView",
+                "printedName": "UIKit.UICollectionView",
+                "usr": "c:objc(cs)UICollectionView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UICollectionViewLayout",
+                "printedName": "UIKit.UICollectionViewLayout",
+                "usr": "c:objc(cs)UICollectionViewLayout"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@Shadhin_RYZE@objc(cs)RYZEArtistView(im)collectionView:layout:minimumInteritemSpacingForSectionAtIndex:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC010collectionD0_6layout35minimumInteritemSpacingForSectionAt12CoreGraphics7CGFloatVSo012UICollectionD0C_So0pD6LayoutCSitF",
+            "moduleName": "Shadhin_RYZE",
+            "objc_name": "collectionView:layout:minimumInteritemSpacingForSectionAtIndex:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Shadhin_RYZE@objc(cs)RYZEArtistView",
+        "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC",
+        "moduleName": "Shadhin_RYZE",
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC",
+          "IBDesignable"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Shadhin_RYZE",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
@@ -44366,7 +45246,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Common\/Protocol\/ArtistDataModel.swift",
       "kind": "StringLiteral",
-      "offset": 203,
+      "offset": 210,
       "length": 3,
       "value": "\"A\""
     },
@@ -44520,70 +45400,70 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/BLWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 25840,
+      "offset": 26570,
       "length": 24,
       "value": "\"SDK initialises failed\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinBL.swift",
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 8578,
+      "offset": 9589,
       "length": 7,
       "value": "\"RC201\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinBL.swift",
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 8612,
+      "offset": 9623,
       "length": 7,
       "value": "\"RC202\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinBL.swift",
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 8646,
+      "offset": 9657,
       "length": 7,
       "value": "\"RC203\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinBL.swift",
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 8680,
+      "offset": 9691,
       "length": 7,
       "value": "\"RC204\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinBL.swift",
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 8714,
+      "offset": 9725,
       "length": 10,
       "value": "\"BNMAIN01\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinBL.swift",
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 8754,
+      "offset": 9765,
       "length": 9,
       "value": "\"BNALL01\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinBL.swift",
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 8795,
+      "offset": 9806,
       "length": 24,
       "value": "\"0000_TERMSANDCONDITION\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinBL.swift",
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 8850,
+      "offset": 9861,
       "length": 12,
       "value": "\"0000_BKASH\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinBL.swift",
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 8887,
+      "offset": 9898,
       "length": 7,
       "value": "\"RADIO\""
     },
@@ -57918,14 +58798,14 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 29708,
+      "offset": 29956,
       "length": 18,
       "value": "\"Congratulations!\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 29748,
+      "offset": 29996,
       "length": 49,
       "value": "\"Plan purchase request is successfully submitted\""
     },
@@ -59038,14 +59918,14 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/ViewController\/PopuarArtistBrandVC\/PopularArtistBrandVC.swift",
       "kind": "Array",
-      "offset": 578,
+      "offset": 579,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/ViewController\/PopuarArtistBrandVC\/PopularArtistBrandVC.swift",
       "kind": "StringLiteral",
-      "offset": 617,
+      "offset": 618,
       "length": 2,
       "value": "\"\""
     },
@@ -59440,6 +60320,20 @@
       "offset": 571,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Common\/RYZETopArtist\/RYZEArtistView.swift",
+      "kind": "StringLiteral",
+      "offset": 363,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Common\/RYZETopArtist\/RYZEArtistView.swift",
+      "kind": "Array",
+      "offset": 465,
+      "length": 2,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/ViewController\/TopTrendingMusicVideoVC\/TopTrendingMusicVideoAdapter.swift",

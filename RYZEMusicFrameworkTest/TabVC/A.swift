@@ -41,7 +41,8 @@ class A: UIViewController {
         guard let nav = self.navigationController else{
             return
         }
-        ShadhinBL.shared.gotoHome(with: self.tabBarController, navigationController: nav)
+        ShadhinRyze.shared
+            .gotoHome(with: self.tabBarController, navigationController: nav)
     }
 
 }
@@ -52,7 +53,7 @@ extension A : RadioCallBack{
     
     func fetchTokenForRadio(complete: @escaping (String, Bool) -> Void) {
         debugPrint("need token ")
-        ShadhinBL.shared.login(number: "8801954545813") { isDone, token in
+        ShadhinRyze.shared.login(number: "8801954545813") { isDone, token in
             if isDone{
                 complete(token,true)
             }

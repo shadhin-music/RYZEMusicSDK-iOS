@@ -25,7 +25,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     override func remoteControlReceived(with event: UIEvent?) {
         if let event = event {
             //register event
-            ShadhinBL.shared.eventRegister(with: event)
+            ShadhinRyze.shared.eventRegister(with: event)
             
         }
     }
