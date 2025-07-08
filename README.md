@@ -23,7 +23,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
         //received music control from notification bar
         application.beginReceivingRemoteControlEvents()
         //initilize sdk with token
-        ShadhinBL.shared.initialize(with: "", delegate: self)
+        ShadhinRyze.shared.initialize(with: "", delegate: self)
         return true
     }
     
@@ -33,7 +33,7 @@ Media control setup from AppDelegate
  override func remoteControlReceived(with event: UIEvent?) {
         if let event = event {
             //register event
-            ShadhinBL.shared.eventRegister(with: event)
+            ShadhinRyze.shared.eventRegister(with: event)
             
         }
     }
@@ -43,7 +43,7 @@ Get Music home controller you need to pass root navigation controller for naviga
 We provide that direct push to navigation controller and membership parameter
 Here need to pass the value for membership status. 
 ```ruby
-ShadhinBL.shared.gotoHome(with: self.tabBarController, navigationController: self.navigationController!,membership ="silver")
+ShadhinRyze.shared.gotoHome(with: self.tabBarController, navigationController: self.navigationController!,membership ="silver")
 ```
 There is other feature we implemented that can direct navigate to our controller 
 
