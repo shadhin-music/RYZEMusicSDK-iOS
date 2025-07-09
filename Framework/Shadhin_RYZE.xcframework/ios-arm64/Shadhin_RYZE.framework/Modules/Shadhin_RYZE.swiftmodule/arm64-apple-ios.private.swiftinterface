@@ -58,6 +58,7 @@ public struct EntryPoint {
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class ShadhinRyze : ObjectiveC.NSObject {
   public static let shared: Shadhin_RYZE.ShadhinRyze
+  @objc final public var config: Shadhin_RYZE.ShadhinRyzeConfig
   @available(*, deprecated, message: "This method will be deprecated.")
   @objc final public func initialize(with token: Swift.String, isBL: Swift.Bool, delegate: any Shadhin_RYZE.ShadhinCoreNotifier)
   @objc final public func initialize(with token: Swift.String, isBL: Swift.Bool, delegate: any Shadhin_RYZE.ShadhinCoreNotifier, tabController: UIKit.UITabBarController?, navigationController: UIKit.UINavigationController)
@@ -111,6 +112,12 @@ public enum FeatureType : Swift.String {
   public var rawValue: Swift.String {
     get
   }
+}
+@_inheritsConvenienceInitializers @objc public class ShadhinRyzeConfig : ObjectiveC.NSObject {
+  @objc public var shouldHideMusicBarOnExit: Swift.Bool
+  @objc override dynamic public init()
+  @objc public init(shouldHideMusicBarOnExit: Swift.Bool)
+  @objc deinit
 }
 @objc public protocol ShadhinCoreNotifier : ObjectiveC.NSObjectProtocol {
   @objc func tokenStatus(token isValid: Swift.Bool, error: Swift.String?)
