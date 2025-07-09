@@ -8,7 +8,7 @@
 
 ## Installation
 
-MYBLMusicSDK is available through [CocoaPods](https://cocoapods.org). To install
+RYZEMusicSDK is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
@@ -23,7 +23,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
         //received music control from notification bar
         application.beginReceivingRemoteControlEvents()
         //initilize sdk with token
-        ShadhinBL.shared.initialize(with: "", delegate: self)
+        ShadhinRyze.shared.initialize(with: "", delegate: self)
         return true
     }
     
@@ -33,7 +33,7 @@ Media control setup from AppDelegate
  override func remoteControlReceived(with event: UIEvent?) {
         if let event = event {
             //register event
-            ShadhinBL.shared.eventRegister(with: event)
+            ShadhinRyze.shared.eventRegister(with: event)
             
         }
     }
@@ -43,57 +43,57 @@ Get Music home controller you need to pass root navigation controller for naviga
 We provide that direct push to navigation controller and membership parameter
 Here need to pass the value for membership status. 
 ```ruby
-ShadhinBL.shared.gotoHome(with: self.tabBarController, navigationController: self.navigationController!,membership ="silver")
+ShadhinRyze.shared.gotoHome(with: self.tabBarController, navigationController: self.navigationController!,membership ="silver")
 ```
 There is other feature we implemented that can direct navigate to our controller 
 
 ## POPULAR ARTIST 
 ```ruby
- ShadhinBL.shared.openPatch(patchID: FeatureType.POPULAR_ARTIST.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
+ ShadhinRyze.shared.openPatch(patchID: FeatureType.POPULAR_ARTIST.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
 ```
 ## LATEST RELEASE 
 ```ruby
- ShadhinBL.shared.openPatch(patchID:FeatureType.LATEST_RELEASE.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
+ ShadhinRyze.shared.openPatch(patchID:FeatureType.LATEST_RELEASE.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
 ```
 ## POPULAR VIDEO
 ```ruby
- ShadhinBL.shared.openPatch(patchID: FeatureType.POPULAR_VIDEO.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
+ ShadhinRyze.shared.openPatch(patchID: FeatureType.POPULAR_VIDEO.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
 ```
 ## PODCAST 
 ```ruby
- ShadhinBL.shared.openPatch(patchID: FeatureType.PODCAST.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
+ ShadhinRyze.shared.openPatch(patchID: FeatureType.PODCAST.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
 ```
 ## AMAR TUNE 
 ```ruby
-ShadhinBL.shared.openPatch(patchID: FeatureType.AMAR_TUNE.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
+ShadhinRyze.shared.openPatch(patchID: FeatureType.AMAR_TUNE.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
  ```
 ## AMAR TUNE TOP 100
 ```ruby
- ShadhinBL.shared.openPatch(patchID: FeatureType.AMAR_TUNE_TOP_100.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
+ ShadhinRyze.shared.openPatch(patchID: FeatureType.AMAR_TUNE_TOP_100.rawValue, navigationController: self.navigationController!,tabController: self.tabBarController)
 ```
 ## Goto Radio
 ```ruby
-ShadhinBL.shared.gotoRadio(nav: self.navigationController!,tabController: self.tabBarController)
+ShadhinRyze.shared.gotoRadio(nav: self.navigationController!,tabController: self.tabBarController)
 ```
 ## Stop Music
 ```ruby
-ShadhinBL.shared.stopMusic()
+ShadhinRyze.shared.stopMusic()
 ```
 ## Play Music
 ```ruby
-ShadhinBL.shared.playMusic()
+ShadhinRyze.shared.playMusic()
 ```
 ## Pause Music
 ```ruby
-ShadhinBL.shared.pauseMusic()
+ShadhinRyze.shared.pauseMusic()
 ```
 ## Clear All Cache
 ```ruby
-ShadhinBL.shared.clearAllCache()
+ShadhinRyze.shared.clearAllCache()
 ```
 ## Open RC Code
 ```ruby
-ShadhinBL.shared.openPatch(patchID: "MjM1OV9QREJD", navigationController: self.navigationController!, tabController: self.tabBarController)
+ShadhinRyze.shared.openPatch(patchID: "MjM1OV9QREJD", navigationController: self.navigationController!, tabController: self.tabBarController)
 ```
 
 ## PERMISSION 
