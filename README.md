@@ -95,6 +95,17 @@ ShadhinRyze.shared.clearAllCache()
 ```ruby
 ShadhinRyze.shared.openPatch(patchID: "MjM1OV9QREJD", navigationController: self.navigationController!, tabController: self.tabBarController)
 ```
+Hide music player
+The hideMusicPlayer() function is used to hide the mini music player bar (popup music bar) from the interface. This is particularly useful when the SDK exits or when the client app transitions to a view where the music UI should be hidden, but the music itself continues to play in the background.
+
+
+You can call this method anywhere after the SDK is initialized using:
+If you want to automatically hide the music bar when exiting the SDK, set this in your AppDelegate.swift or 
+Inside viewWillAppear of the client’s UIViewController only if necessary
+"You can set it to true to hide the music player, or set it to false to keep it visible.
+
+ShadhinRyze.shared.config = ShadhinRyzeConfig(shouldHideMusicBarOnExit: true)
+
 
 ## PERMISSION 
 Add App Transport Security to your info.plist
