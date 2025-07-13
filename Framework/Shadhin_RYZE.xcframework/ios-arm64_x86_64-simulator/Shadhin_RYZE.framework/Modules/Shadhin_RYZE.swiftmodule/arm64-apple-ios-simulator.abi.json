@@ -59130,21 +59130,21 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 24530,
-      "length": 4,
-      "value": "true"
+      "offset": 24535,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 30757,
+      "offset": 30660,
       "length": 18,
       "value": "\"Congratulations!\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 30797,
+      "offset": 30700,
       "length": 49,
       "value": "\"Plan purchase request is successfully submitted\""
     },
@@ -60731,1232 +60731,1232 @@
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 630,
       "length": 13,
       "value": "\"artistTopBG\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 778,
       "length": 17,
       "value": "\"backgroundColor\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 922,
       "length": 13,
       "value": "\"selectColor\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1066,
       "length": 15,
       "value": "\"subtitleColor\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1204,
       "length": 11,
       "value": "\"textColor\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1338,
       "length": 11,
       "value": "\"tintColor\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1474,
       "length": 12,
       "value": "\"titleColor\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1709,
       "length": 6,
       "value": "\"Rank\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1867,
       "length": 24,
       "value": "\"VGPlayer_ic_fullscreen\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2052,
       "length": 29,
       "value": "\"VGPlayer_ic_fullscreen_exit\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2228,
       "length": 22,
       "value": "\"VGPlayer_ic_nav_back\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2392,
       "length": 19,
       "value": "\"VGPlayer_ic_pause\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2551,
       "length": 18,
       "value": "\"VGPlayer_ic_play\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2713,
       "length": 20,
       "value": "\"VGPlayer_ic_replay\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2888,
       "length": 26,
       "value": "\"VGPlayer_ic_slider_thumb\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3058,
       "length": 20,
       "value": "\"add_favourite_menu\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3199,
       "length": 8,
       "value": "\"add_ic\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3349,
       "length": 19,
       "value": "\"add_playlist_menu\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3509,
       "length": 19,
       "value": "\"add_to_queue_menu\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3675,
       "length": 22,
       "value": "\"add_watch_later_menu\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3827,
       "length": 12,
       "value": "\"adsFreeSub\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3961,
       "length": 8,
       "value": "\"avater\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4087,
       "length": 6,
       "value": "\"back\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4235,
       "length": 19,
       "value": "\"backward.end.fill\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4374,
       "length": 7,
       "value": "\"batch\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4501,
       "length": 7,
       "value": "\"bkash\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4634,
       "length": 10,
       "value": "\"bkashPay\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4760,
       "length": 5,
       "value": "\"box\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4913,
       "length": 22,
       "value": "\"btn_commecnt_disable\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5079,
       "length": 20,
       "value": "\"btn_comment_active\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5241,
       "length": 18,
       "value": "\"buttonBackground\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5387,
       "length": 11,
       "value": "\"checkMark\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5531,
       "length": 14,
       "value": "\"chevron_left\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5680,
       "length": 15,
       "value": "\"chevron_right\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5826,
       "length": 13,
       "value": "\"circle.done\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5971,
       "length": 13,
       "value": "\"commentSend\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6116,
       "length": 13,
       "value": "\"concertDate\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6269,
       "length": 17,
       "value": "\"concertLocation\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6404,
       "length": 6,
       "value": "\"copy\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6554,
       "length": 19,
       "value": "\"createPlaylistSub\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6699,
       "length": 11,
       "value": "\"crop_bg_f\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6836,
       "length": 11,
       "value": "\"crop_bg_s\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6973,
       "length": 11,
       "value": "\"crop_bg_t\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7120,
       "length": 15,
       "value": "\"crossPlaylist\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7255,
       "length": 7,
       "value": "\"crown\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7397,
       "length": 15,
       "value": "\"default_album\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7549,
       "length": 16,
       "value": "\"default_artist\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7706,
       "length": 18,
       "value": "\"default_playlist\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 7859,
       "length": 15,
       "value": "\"default_radio\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8007,
       "length": 14,
       "value": "\"default_song\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8156,
       "length": 15,
       "value": "\"default_video\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8295,
       "length": 9,
       "value": "\"diamond\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8426,
       "length": 8,
       "value": "\"dimond\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8550,
       "length": 5,
       "value": "\"dob\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8681,
       "length": 10,
       "value": "\"download\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8829,
       "length": 16,
       "value": "\"downloadTicket\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 8980,
       "length": 15,
       "value": "\"download_menu\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9136,
       "length": 18,
       "value": "\"download_outline\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9302,
       "length": 22,
       "value": "\"download_remove_menu\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9444,
       "length": 7,
       "value": "\"empty\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9571,
       "length": 7,
       "value": "\"event\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9724,
       "length": 20,
       "value": "\"exclusiveRadioShow\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 9875,
       "length": 13,
       "value": "\"expand_more\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10004,
       "length": 5,
       "value": "\"faq\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10148,
       "length": 17,
       "value": "\"favorite_border\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10300,
       "length": 15,
       "value": "\"favorite_fill\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10451,
       "length": 15,
       "value": "\"featureCircle\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10606,
       "length": 18,
       "value": "\"forward.end.fill\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10746,
       "length": 8,
       "value": "\"getPro\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 10892,
       "length": 17,
       "value": "\"goto_album_menu\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11033,
       "length": 9,
       "value": "\"history\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11168,
       "length": 10,
       "value": "\"homeMenu\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11316,
       "length": 17,
       "value": "\"ic_add_comments\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11456,
       "length": 9,
       "value": "\"ic_live\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11601,
       "length": 16,
       "value": "\"ic_scroll_down\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11749,
       "length": 14,
       "value": "\"ic_scroll_up\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 11877,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12013,
       "length": 13,
       "value": "\"leaderboard\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12167,
       "length": 18,
       "value": "\"leaderboard-star\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12325,
       "length": 17,
       "value": "\"leadertopRankBg\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12473,
       "length": 13,
       "value": "\"library_add\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12611,
       "length": 10,
       "value": "\"live_eye\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12746,
       "length": 10,
       "value": "\"live_tag\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 12874,
       "length": 6,
       "value": "\"love\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13007,
       "length": 11,
       "value": "\"love.fill\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13136,
       "length": 6,
       "value": "\"mail\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13264,
       "length": 8,
       "value": "\"marker\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13402,
       "length": 12,
       "value": "\"membership\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13534,
       "length": 7,
       "value": "\"minus\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13659,
       "length": 6,
       "value": "\"more\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13785,
       "length": 7,
       "value": "\"music\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 13929,
       "length": 16,
       "value": "\"music_download\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14074,
       "length": 12,
       "value": "\"music_wave\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14212,
       "length": 10,
       "value": "\"muteIcon\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14352,
       "length": 12,
       "value": "\"myDownload\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14496,
       "length": 13,
       "value": "\"myFavourite\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14639,
       "length": 12,
       "value": "\"myPlaylist\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14787,
       "length": 15,
       "value": "\"newTrendySong\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 14928,
       "length": 10,
       "value": "\"noReward\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15060,
       "length": 8,
       "value": "\"number\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15214,
       "length": 20,
       "value": "\"offlineDownloadSub\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15360,
       "length": 10,
       "value": "\"onReward\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15523,
       "length": 25,
       "value": "\"pause_fill_circle_music\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15679,
       "length": 13,
       "value": "\"pause_music\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15823,
       "length": 13,
       "value": "\"pause_radio\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 15960,
       "length": 9,
       "value": "\"payment\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16107,
       "length": 16,
       "value": "\"placeHolderImg\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16255,
       "length": 13,
       "value": "\"planArtwork\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16392,
       "length": 9,
       "value": "\"planTop\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16531,
       "length": 12,
       "value": "\"playButton\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16687,
       "length": 20,
       "value": "\"play_circle_filled\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 16862,
       "length": 26,
       "value": "\"play_circle_filled_music\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17017,
       "length": 12,
       "value": "\"play_radio\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17155,
       "length": 10,
       "value": "\"playlist\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17303,
       "length": 16,
       "value": "\"playlistDelete\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17437,
       "length": 6,
       "value": "\"plus\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17589,
       "length": 20,
       "value": "\"premiumPodcastShow\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17729,
       "length": 7,
       "value": "\"print\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 17864,
       "length": 11,
       "value": "\"proBanner\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 18011,
       "length": 15,
       "value": "\"profileAvater\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 18157,
       "length": 13,
       "value": "\"queue_music\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 18320,
       "length": 22,
       "value": "\"radioGroupItemNormal\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 18492,
       "length": 22,
       "value": "\"radioGroupItemSelect\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 18642,
       "length": 11,
       "value": "\"radioLive\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 18803,
       "length": 22,
       "value": "\"radioViewSeeAllArrow\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 19070,
       "length": 7,
       "value": "\"rank1\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 19197,
       "length": 7,
       "value": "\"rank2\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 19324,
       "length": 7,
       "value": "\"rank3\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 19461,
       "length": 12,
       "value": "\"rbtChecked\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 19603,
       "length": 12,
       "value": "\"rbtDivider\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 19739,
       "length": 9,
       "value": "\"rbtDone\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 19874,
       "length": 10,
       "value": "\"rbtError\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 20018,
       "length": 14,
       "value": "\"rbtUnchecked\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 20154,
       "length": 8,
       "value": "\"reload\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 20312,
       "length": 23,
       "value": "\"remove_favourite_menu\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 20486,
       "length": 24,
       "value": "\"remove_watch_list_menu\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 20634,
       "length": 8,
       "value": "\"repeat\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 20769,
       "length": 11,
       "value": "\"repeat_on\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 20914,
       "length": 15,
       "value": "\"repeat_one_on\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 21051,
       "length": 8,
       "value": "\"reward\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 21190,
       "length": 13,
       "value": "\"right_arrow\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 21325,
       "length": 8,
       "value": "\"search\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 21457,
       "length": 9,
       "value": "\"shadhin\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 21586,
       "length": 7,
       "value": "\"share\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 21722,
       "length": 12,
       "value": "\"share_menu\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 21858,
       "length": 9,
       "value": "\"shuffle\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 21996,
       "length": 12,
       "value": "\"shuffle_on\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 22130,
       "length": 8,
       "value": "\"slider\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 22283,
       "length": 21,
       "value": "\"speaker.wave.2.fill\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 22432,
       "length": 11,
       "value": "\"streaming\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 22571,
       "length": 11,
       "value": "\"subCancel\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 22722,
       "length": 17,
       "value": "\"subCancelOption\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 22853,
       "length": 4,
       "value": "\"tc\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 22989,
       "length": 13,
       "value": "\"termsOfUses\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 23130,
       "length": 11,
       "value": "\"thumbFill\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 23265,
       "length": 9,
       "value": "\"thumbUp\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 23396,
       "length": 8,
       "value": "\"ticket\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 23550,
       "length": 20,
       "value": "\"ticketDoneBottomBG\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 23698,
       "length": 11,
       "value": "\"ticketFaq\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 23847,
       "length": 16,
       "value": "\"ticketHeaderBG\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 23995,
       "length": 13,
       "value": "\"ticketRadio\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 24152,
       "length": 19,
       "value": "\"ticketRadioSelect\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 24291,
       "length": 7,
       "value": "\"timer\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 24414,
       "length": 5,
       "value": "\"tmp\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 24538,
       "length": 7,
       "value": "\"tmp 1\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 24677,
       "length": 13,
       "value": "\"topCouponBG\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 24818,
       "length": 11,
       "value": "\"topRankBG\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 24961,
       "length": 13,
       "value": "\"unCheckMark\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 25118,
       "length": 19,
       "value": "\"unlimitedPlaylist\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 25255,
       "length": 6,
       "value": "\"user\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 25394,
       "length": 14,
       "value": "\"user_premium\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 25537,
       "length": 12,
       "value": "\"video_play\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 25671,
       "length": 8,
       "value": "\"volume\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 25811,
       "length": 13,
       "value": "\"volumeThumb\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 25962,
       "length": 16,
       "value": "\"watchLaterHome\""
     },
     {
-      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE_Example-ctsblbmbqpxwqwckphkaljxulfzn\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE_Example.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/macbookpro\/Library\/Developer\/Xcode\/DerivedData\/Shadhin_RYZE-cdclndfffdajuvcwjlrwlpihvbab\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Shadhin_RYZE\/IntermediateBuildFilesPath\/Shadhin_RYZE.build\/Release-iphonesimulator\/Shadhin_RYZE.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 26124,
       "length": 21,
