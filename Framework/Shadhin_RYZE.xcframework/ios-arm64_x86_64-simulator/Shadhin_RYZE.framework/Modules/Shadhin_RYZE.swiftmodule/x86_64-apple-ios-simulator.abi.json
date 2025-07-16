@@ -2508,6 +2508,35 @@
           },
           {
             "kind": "Function",
+            "name": "setMusicPlayerVisibility",
+            "printedName": "setMusicPlayerVisibility(isVisible:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)setMusicPlayerVisibilityWithIsVisible:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC24setMusicPlayerVisibility9isVisibleySb_tF",
+            "moduleName": "Shadhin_RYZE",
+            "objc_name": "setMusicPlayerVisibilityWithIsVisible:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "hideMusicPlayer",
             "printedName": "hideMusicPlayer()",
             "children": [
@@ -2520,6 +2549,28 @@
             "declKind": "Func",
             "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)hideMusicPlayer",
             "mangledName": "$s12Shadhin_RYZE0A4RyzeC15hideMusicPlayeryyF",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "showMusicPlayer",
+            "printedName": "showMusicPlayer()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)showMusicPlayer",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC15showMusicPlayeryyF",
             "moduleName": "Shadhin_RYZE",
             "declAttributes": [
               "Final",
@@ -37256,6 +37307,240 @@
         "children": [
           {
             "kind": "Function",
+            "name": "setBgColor",
+            "printedName": "setBgColor(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)RYZEArtistView(im)setBgColor:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC10setBgColoryySo7UIColorCF",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setTitle",
+            "printedName": "setTitle(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)RYZEArtistView(im)setTitle:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC8setTitleyySSF",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setTitleColor",
+            "printedName": "setTitleColor(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)RYZEArtistView(im)setTitleColor:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC13setTitleColoryySo7UIColorCF",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "hideTitle",
+            "printedName": "hideTitle(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)RYZEArtistView(im)hideTitle:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC9hideTitleyySbF",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setSeeAllColor",
+            "printedName": "setSeeAllColor(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)RYZEArtistView(im)setSeeAllColor:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC14setSeeAllColoryySo7UIColorCF",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "hideSeeAll",
+            "printedName": "hideSeeAll(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)RYZEArtistView(im)hideSeeAll:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC10hideSeeAllyySbF",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setArtistNameColor",
+            "printedName": "setArtistNameColor(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)RYZEArtistView(im)setArtistNameColor:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC18setArtistNameColoryySo7UIColorCF",
+            "moduleName": "Shadhin_RYZE",
+            "intro_iOS": "13.0",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC",
+              "Available"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "hideArtistName",
+            "printedName": "hideArtistName(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)RYZEArtistView(im)hideArtistName:",
+            "mangledName": "$s12Shadhin_RYZE14RYZEArtistViewC14hideArtistNameyySbF",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "collectionView",
             "printedName": "collectionView(_:numberOfItemsInSection:)",
             "children": [
@@ -45674,6 +45959,13 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Common\/CircularCellCV.swift",
+      "kind": "BooleanLiteral",
+      "offset": 349,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Common\/EmptyView.swift",
       "kind": "BooleanLiteral",
       "offset": 268,
@@ -45732,77 +46024,77 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/BLWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 26570,
+      "offset": 26638,
       "length": 24,
       "value": "\"SDK initialises failed\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 9667,
+      "offset": 9951,
       "length": 7,
       "value": "\"RC201\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 9701,
+      "offset": 9985,
       "length": 7,
       "value": "\"RC202\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 9735,
+      "offset": 10019,
       "length": 7,
       "value": "\"RC203\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 9769,
+      "offset": 10053,
       "length": 7,
       "value": "\"RC204\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 9803,
+      "offset": 10087,
       "length": 10,
       "value": "\"BNMAIN01\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 9843,
+      "offset": 10127,
       "length": 9,
       "value": "\"BNALL01\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 9884,
+      "offset": 10168,
       "length": 24,
       "value": "\"0000_TERMSANDCONDITION\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 9939,
+      "offset": 10223,
       "length": 12,
       "value": "\"0000_BKASH\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 9976,
+      "offset": 10260,
       "length": 7,
       "value": "\"RADIO\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "BooleanLiteral",
-      "offset": 10090,
+      "offset": 10374,
       "length": 5,
       "value": "false"
     },
@@ -59137,14 +59429,14 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 30660,
+      "offset": 31394,
       "length": 18,
       "value": "\"Congratulations!\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZEMusicSDK\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 30700,
+      "offset": 31434,
       "length": 49,
       "value": "\"Plan purchase request is successfully submitted\""
     },

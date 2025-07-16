@@ -74,7 +74,9 @@ public struct EntryPoint {
   @objc final public func stopMusic()
   @objc final public func pauseMusic()
   @objc final public func playMusic()
+  @objc final public func setMusicPlayerVisibility(isVisible: Swift.Bool)
   @objc final public func hideMusicPlayer()
+  @objc final public func showMusicPlayer()
   @objc final public func setSessionPulesTimer(second: Swift.Double) -> Swift.String?
   @objc final public func setStreamingPulseTimer(second: Swift.Double) -> Swift.String?
   final public var didTapSeeAllArtist: (() -> Swift.Void)?
@@ -848,6 +850,15 @@ extension Shadhin_RYZE.OTPStackView : UIKit.UITextFieldDelegate {
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @IBDesignable @objc @_Concurrency.MainActor @preconcurrency public class RYZEArtistView : UIKit.UIView {
   @objc deinit
+  @objc @_Concurrency.MainActor @preconcurrency public func setBgColor(_ color: UIKit.UIColor)
+  @objc @_Concurrency.MainActor @preconcurrency public func setTitle(_ text: Swift.String)
+  @objc @_Concurrency.MainActor @preconcurrency public func setTitleColor(_ color: UIKit.UIColor)
+  @objc @_Concurrency.MainActor @preconcurrency public func hideTitle(_ isHide: Swift.Bool)
+  @objc @_Concurrency.MainActor @preconcurrency public func setSeeAllColor(_ color: UIKit.UIColor)
+  @objc @_Concurrency.MainActor @preconcurrency public func hideSeeAll(_ isHide: Swift.Bool)
+  @available(iOS 13.0, *)
+  @objc @_Concurrency.MainActor @preconcurrency public func setArtistNameColor(_ color: UIKit.UIColor)
+  @objc @_Concurrency.MainActor @preconcurrency public func hideArtistName(_ isHide: Swift.Bool)
 }
 extension Shadhin_RYZE.RYZEArtistView : UIKit.UICollectionViewDataSource, UIKit.UICollectionViewDelegateFlowLayout {
   @_Concurrency.MainActor @preconcurrency @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, numberOfItemsInSection section: Swift.Int) -> Swift.Int
