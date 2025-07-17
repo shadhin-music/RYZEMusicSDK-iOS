@@ -21,10 +21,10 @@ class TabBarVC: UITabBarController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        let aItem = UITabBarItem(title: "Home",image: UIImage(named: "home"), tag: 0)
-        let bItem = UITabBarItem(title: "A", image: UIImage(named: "home"), tag: 1)
-        let cItem = UITabBarItem(title: "C", image: UIImage(named: "home"), tag: 2)
-        let BItem = UITabBarItem(title: "B", image: UIImage(named: "home"), tag: 3)
+        let aItem = UITabBarItem(title: "Home", image: UIImage(systemName: "house"), tag: 0)
+        let bItem = UITabBarItem(title: "Radio", image: UIImage(systemName: "dot.radiowaves.left.and.right"), tag: 1)
+        let cItem = UITabBarItem(title: "Music", image: UIImage(systemName: "music.note.list"), tag: 2)
+        let dItem = UITabBarItem(title: "Artist", image: UIImage(systemName: "person.crop.square"), tag: 3)
         let a = HomeVC()
         let aNav = UINavigationController(rootViewController: a)
         aNav.isNavigationBarHidden = true
@@ -44,7 +44,7 @@ class TabBarVC: UITabBarController {
         let bTab = ArtistViewVC()
         let bNavView = UINavigationController(rootViewController: bTab)
         bNavView.isNavigationBarHidden = true
-        bNavView.tabBarItem = BItem
+        bNavView.tabBarItem = dItem
         
         viewControllers = [aNav,bNav,nav,bNavView]
       
