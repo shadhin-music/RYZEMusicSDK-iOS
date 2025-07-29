@@ -6,8 +6,7 @@
 //  Copyright © 2015 Leo Natan. All rights reserved.
 //
 
-#import <Shadhin_RYZE/UIViewController+LNPopupSupport.h>
-
+#import "UIViewController+LNPopupSupport.h"
 
 @class LNPopupController;
 

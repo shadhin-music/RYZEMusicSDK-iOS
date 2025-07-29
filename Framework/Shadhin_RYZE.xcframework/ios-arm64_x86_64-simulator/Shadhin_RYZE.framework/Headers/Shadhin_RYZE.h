@@ -1,19 +1,20 @@
 //
-//  Shadhin_RYZE.h
-//  Shadhin_RYZE
+//  Shadhin_BL.h
+//  Shadhin-BL
 //
-//  Created by Maruf on 17/6/25.
+//  Created by Joy on 21/8/22.
 //
 
 #import <Foundation/Foundation.h>
 
-//! Project version number for Shadhin_RYZE.
-FOUNDATION_EXPORT double Shadhin_RYZEVersionNumber;
+//! Project version number for Shadhin_BL.
+FOUNDATION_EXPORT double Shadhin_BLVersionNumber;
 
-//! Project version string for Shadhin_RYZE.
-FOUNDATION_EXPORT const unsigned char Shadhin_RYZEVersionString[];
+//! Project version string for Shadhin_BL.
+FOUNDATION_EXPORT const unsigned char Shadhin_BLVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <Shadhin_RYZE/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import <Shadhin_BL/PublicHeader.h>
 
-#import <Shadhin_RYZE/LNPopupController.h>
-#import <Shadhin_RYZE/LNChevronView.h>
+
+#import "LNPopupController.h"
+#import "LNChevronView.h"

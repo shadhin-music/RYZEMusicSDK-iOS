@@ -6,8 +6,7 @@
 //  Copyright © 2015 Leo Natan. All rights reserved.
 //
 
-#import <Shadhin_RYZE/LNPopupBar.h>
-
+#import "LNPopupBar.h"
 
 extern const CGFloat LNPopupBarHeightCompact;
 extern const CGFloat LNPopupBarHeightProminent;

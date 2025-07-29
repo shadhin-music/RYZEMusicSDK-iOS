@@ -4,3 +4,8 @@ framework module Shadhin_RYZE {
 
   module * { export * }
 }
+
+module Shadhin_RYZE.Swift {
+  header "Shadhin_RYZE-Swift.h"
+  requires objc
+}

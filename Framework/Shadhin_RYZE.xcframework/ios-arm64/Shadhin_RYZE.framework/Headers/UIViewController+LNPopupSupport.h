@@ -7,9 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <Shadhin_RYZE/LNPopupContentView.h>
-#import <Shadhin_RYZE/LNPopupBar.h>
-#import <Shadhin_RYZE/LNPopupItem.h>
+#import "LNPopupContentView.h"
+#import "LNPopupBar.h"
+#import "LNPopupItem.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

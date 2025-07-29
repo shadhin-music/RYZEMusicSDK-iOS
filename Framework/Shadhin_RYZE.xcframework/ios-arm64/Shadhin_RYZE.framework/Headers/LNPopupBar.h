@@ -7,8 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <Shadhin_RYZE/LNPopupItem.h>
-#import <Shadhin_RYZE/LNPopupCustomBarViewController.h>
+#import "LNPopupItem.h"
+#import "LNPopupCustomBarViewController.h"
 
 #define LN_DEPRECATED_API(x) __attribute__((deprecated(x)))
 #define LN_DEPRECATED_PREVIEWING_MSG "Add context menu interaction or register for previewing directly on the popup bar view. This API will be removed soon."

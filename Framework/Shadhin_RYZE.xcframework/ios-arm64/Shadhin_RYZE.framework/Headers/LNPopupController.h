@@ -7,10 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <Shadhin_RYZE/LNPopupBar+Private.h>
-#import <Shadhin_RYZE/UIViewController+LNPopupSupportPrivate.h>
-#import <Shadhin_RYZE/LNPopupCloseButton.h>
-#import <Shadhin_RYZE/LNPopupContentView.h>
+#import "LNPopupBar+Private.h"
+#import "UIViewController+LNPopupSupportPrivate.h"
+#import "LNPopupCloseButton.h"
+#import "LNPopupContentView.h"
 
 @interface LNPopupContentView ()
 

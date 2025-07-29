@@ -7,8 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <Shadhin_RYZE/LNPopupCloseButton.h>
-
+#import "LNPopupCloseButton.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

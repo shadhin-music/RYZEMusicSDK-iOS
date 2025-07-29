@@ -21,7 +21,6 @@ class ArtistViewVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        ShadhinRyze.shared.artistView()
         ShadhinRyze.shared.didTapSeeAllArtist = { [weak self] in
             guard let self = self,let nav = self.navigationController, let tab = self.tabBarController else { return }
             ShadhinRyze.shared.openPatch(patchID: FeatureType.POPULAR_ARTIST.rawValue, navigationController: nav, tabController: tab)
@@ -31,13 +30,5 @@ class ArtistViewVC: UIViewController {
             ShadhinRyze.shared.openArtistDetailsVC( artist: artist, otherArtists: others, navigationController: nav, tabController: tab)
         }
     }
-    
-    
-    override func viewWillAppear(_ animated: Bool) {
-        super.viewWillAppear(animated)
-        ShadhinRyze.shared.hideMusicPlayer()
-    }
-
-
 
 }
