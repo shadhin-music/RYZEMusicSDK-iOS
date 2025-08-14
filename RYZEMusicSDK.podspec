@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name              = 'RYZEMusicSDK' # Name for your pod
-    s.version           = '0.0.11'
+    s.version           = '0.0.12'
     s.summary           = 'Sample Spec'
     s.homepage          = 'https://github.com/shadhin-music/RYZEMusicSDK-iOS'
 
