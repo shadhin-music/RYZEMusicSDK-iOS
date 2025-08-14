@@ -11,6 +11,7 @@ import CoreData
 import CoreGraphics
 import CoreImage
 import CoreMedia
+import CoreText
 import DeveloperToolsSupport
 import Dispatch
 import Foundation
@@ -320,6 +321,7 @@ public class HubConnection {
   @objc final public func initialize(with token: Swift.String, isBL: Swift.Bool, delegate: any Shadhin_RYZE.ShadhinCoreNotifier)
   @objc final public func initialize(with token: Swift.String, isBL: Swift.Bool, delegate: any Shadhin_RYZE.ShadhinCoreNotifier, tabController: UIKit.UITabBarController?, navigationController: UIKit.UINavigationController)
   @objc final public func login(number: Swift.String, complete: @escaping (_ isDone: Swift.Bool, _ token: Swift.String) -> Swift.Void)
+  @objc final public func triggerMusicPlayerFromControlCenter()
   @objc final public func gotoHome(with tabController: UIKit.UITabBarController?, navigationController: UIKit.UINavigationController, membership: Swift.String? = nil)
   @objc final public func gotoHomeForground()
   @objc final public func eventRegister(with event: UIKit.UIEvent)
@@ -332,6 +334,7 @@ public class HubConnection {
   @objc final public func pauseMusic()
   @objc final public func playMusic()
   @objc final public func setMusicPlayerVisibility(isVisible: Swift.Bool)
+  @objc final public func getMusicPlayerVisibility() -> Swift.Bool
   @objc final public func setSessionPulesTimer(second: Swift.Double) -> Swift.String?
   @objc final public func setStreamingPulseTimer(second: Swift.Double) -> Swift.String?
   final public var didTapSeeAllArtist: (() -> Swift.Void)?
@@ -543,6 +546,33 @@ public protocol Transport : AnyObject {
   func start(url: Foundation.URL, options: Shadhin_RYZE.HttpConnectionOptions)
   func send(data: Foundation.Data, sendDidComplete: @escaping (_ error: (any Swift.Error)?) -> Swift.Void)
   func close()
+}
+public enum ProximaFont : Swift.String {
+  case regular
+  case bold
+  case black
+  case extrabold
+  case light
+  case semibold
+  case thin
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+extension UIKit.UIFont {
+  public static func proxima(_ style: Shadhin_RYZE.ProximaFont, size: CoreFoundation.CGFloat) -> UIKit.UIFont
+}
+@objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor @preconcurrency public class ProximaLabel : UIKit.UILabel {
+  @objc @IBInspectable @_Concurrency.MainActor @preconcurrency public var weight: Swift.String {
+    @objc get
+    @objc set
+  }
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func prepareForInterfaceBuilder()
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
 }
 infix operator |> : AdditionPrecedence
 public class JSONHubProtocol : Shadhin_RYZE.HubProtocol {
@@ -880,6 +910,9 @@ extension Shadhin_RYZE.OTPAnimationTypes : Swift.Hashable {}
 extension Shadhin_RYZE.FeatureType : Swift.Equatable {}
 extension Shadhin_RYZE.FeatureType : Swift.Hashable {}
 extension Shadhin_RYZE.FeatureType : Swift.RawRepresentable {}
+extension Shadhin_RYZE.ProximaFont : Swift.Equatable {}
+extension Shadhin_RYZE.ProximaFont : Swift.Hashable {}
+extension Shadhin_RYZE.ProximaFont : Swift.RawRepresentable {}
 extension Shadhin_RYZE.LogLevel : Swift.Equatable {}
 extension Shadhin_RYZE.LogLevel : Swift.Hashable {}
 extension Shadhin_RYZE.LogLevel : Swift.RawRepresentable {}

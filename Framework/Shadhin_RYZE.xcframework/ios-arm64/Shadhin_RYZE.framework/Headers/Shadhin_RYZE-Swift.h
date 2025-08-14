@@ -359,6 +359,15 @@ SWIFT_CLASS("_TtC12Shadhin_RYZE12OTPStackView")
 @end
 
 IB_DESIGNABLE
+SWIFT_CLASS("_TtC12Shadhin_RYZE12ProximaLabel")
+@interface ProximaLabel : UILabel
+@property (nonatomic, copy) IBInspectable NSString * _Nonnull weight;
+- (void)prepareForInterfaceBuilder;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+IB_DESIGNABLE
 SWIFT_CLASS("_TtC12Shadhin_RYZE14RYZEArtistView")
 @interface RYZEArtistView : UIView
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
@@ -415,6 +424,7 @@ SWIFT_CLASS("_TtC12Shadhin_RYZE11ShadhinRyze")
 - (void)initializeWith:(NSString * _Nonnull)token isBL:(BOOL)isBL delegate:(id <ShadhinCoreNotifier> _Nonnull)delegate SWIFT_DEPRECATED_MSG("This method will be deprecated.");
 - (void)initializeWith:(NSString * _Nonnull)token isBL:(BOOL)isBL delegate:(id <ShadhinCoreNotifier> _Nonnull)delegate tabController:(UITabBarController * _Nullable)tabController navigationController:(UINavigationController * _Nonnull)navigationController;
 - (void)loginWithNumber:(NSString * _Nonnull)number complete:(void (^ _Nonnull)(BOOL, NSString * _Nonnull))complete;
+- (void)triggerMusicPlayerFromControlCenter;
 - (void)gotoHomeWith:(UITabBarController * _Nullable)tabController navigationController:(UINavigationController * _Nonnull)navigationController membership:(NSString * _Nullable)membership;
 - (void)gotoHomeForground;
 - (void)eventRegisterWith:(UIEvent * _Nonnull)event;
@@ -427,6 +437,7 @@ SWIFT_CLASS("_TtC12Shadhin_RYZE11ShadhinRyze")
 - (void)pauseMusic;
 - (void)playMusic;
 - (void)setMusicPlayerVisibilityWithIsVisible:(BOOL)isVisible;
+- (BOOL)getMusicPlayerVisibility SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)setSessionPulesTimerWithSecond:(double)second SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)setStreamingPulseTimerWithSecond:(double)second SWIFT_WARN_UNUSED_RESULT;
 @end

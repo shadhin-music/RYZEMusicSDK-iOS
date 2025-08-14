@@ -52,6 +52,12 @@ class HomeVC: UIViewController {
     }
     override func viewWillAppear(_ animated: Bool) {
         ShadhinRyze.shared.setMusicPlayerVisibility(isVisible: false)
+        if ShadhinRyze.shared.getMusicPlayerVisibility() {
+            print(true)
+        }
+        else {
+            print(false)
+        }
     }
 
 
