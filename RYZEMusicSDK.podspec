@@ -7,19 +7,25 @@
 #
 
 Pod::Spec.new do |s|
-    s.name              = 'RYZEMusicSDK' # Name for your pod
-    s.version           = '0.0.13'
-    s.summary           = 'Sample Spec'
-    s.homepage          = 'https://github.com/shadhin-music/RYZEMusicSDK-iOS'
+  s.name                  = 'RYZEMusicSDK'
+  s.version               = '0.0.13'
+  s.summary               = 'Sample Spec'
+  s.homepage              = 'https://github.com/shadhin-music/RYZEMusicSDK-iOS'
 
-    s.author            = { 'Md Maruf Prodhan' => 'mdmaruf@shadhinmusic.com' }
-    s.license      = { :type => "MIT", :file => "LICENSE" }
+  s.author                = { 'Md Maruf Prodhan' => 'mdmaruf@shadhinmusic.com' }
+  s.license               = { :type => 'MIT', :file => 'LICENSE' }
 
-    s.platform          = :ios
-    # change the source location
-    s.source            = { :git => "https://github.com/shadhin-music/RYZEMusicSDK-iOS", :tag => "#{s.version}" }
-    s.ios.deployment_target = '13.0'
-    s.swift_version = "5.7"
-   s.ios.vendored_frameworks = 'Framework/Shadhin_RYZE.xcframework'
-    s.requires_arc = true
+  # You can remove s.platform if you want; this is fine:
+  s.ios.deployment_target = '13.0'
+  s.swift_version         = '5.7'
+
+  # IMPORTANT: include .git
+  s.source = { :git => 'https://github.com/shadhin-music/RYZEMusicSDK-iOS.git', :tag => s.version.to_s }
+
+  # If your xcframework contains Swift, CocoaPods typically works better with:
+  s.static_framework = true
+
+  s.ios.vendored_frameworks = 'Framework/Shadhin_RYZE.xcframework'
+  s.requires_arc            = true
 end
+
