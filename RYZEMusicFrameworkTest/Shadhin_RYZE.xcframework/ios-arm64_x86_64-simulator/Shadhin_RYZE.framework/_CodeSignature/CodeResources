@@ -70,7 +70,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ErGZ6rR0jZHOZOf6DfnRLCRrcyk=
+		krQ48xQnyf5yE7NLSrIJ8Rm/528=
 		</data>
 		<key>AudioAdsView.nib</key>
 		<data>
@@ -394,11 +394,11 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		AjS3WNoYEi9rvCgrWfiTdLaqsr4=
+		cWPM0T1qgPo7Tzb276S1q+Z6DGs=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		7AGEiwIpzbKaekZb95x+3NKp/L8=
+		Da5r4nqVB81I+zIUSPuts+VPvfU=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -406,19 +406,19 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		7AGEiwIpzbKaekZb95x+3NKp/L8=
+		Da5r4nqVB81I+zIUSPuts+VPvfU=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GQXAOuTo6ckVK8+o5Sl/PyJ68fA=
+		idqGHJ9WDiMHd5RWS37l+zj3hV4=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		AjS3WNoYEi9rvCgrWfiTdLaqsr4=
+		cWPM0T1qgPo7Tzb276S1q+Z6DGs=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		rPMnj2r/1ReF379g1aXVXtwtrBU=
+		rkwsiifwWigaPgKv7/bQtZ7+LFg=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -426,11 +426,11 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rPMnj2r/1ReF379g1aXVXtwtrBU=
+		rkwsiifwWigaPgKv7/bQtZ7+LFg=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		eoZFCfMr1PhFrs4jUVUMqPOJHFY=
+		oOKf4QYnhgQu6EfthuO1QwtR1Fk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1084,7 +1084,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3dT9ZOM29aWU392tORjRfI4QYDbyZg+ax7U+uLEGqjg=
+			A9ERB+4v+oW9yDEUSiqfSGQqzvbFKBKQWk6JFnnuqGM=
 			</data>
 		</dict>
 		<key>AudioAdsView.nib</key>
@@ -1644,14 +1644,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h0wH5lu4h1fqL+buTAQnJW2BKRX7ioK8uAG9xM8ABsY=
+			UJ7WxTvIf8U86S299oaXQ6Lxw/rkymTxnHPeEaSLH8E=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p9uhuiv7pFM7Vqyt+m+YJ487Pxl4X4ExYPxIg3Zc8A4=
+			KeazxCJ2z6bl6pqtVUB6Yq/Iopy2wz+fq3D+0Q31TjU=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1665,28 +1665,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p9uhuiv7pFM7Vqyt+m+YJ487Pxl4X4ExYPxIg3Zc8A4=
+			KeazxCJ2z6bl6pqtVUB6Yq/Iopy2wz+fq3D+0Q31TjU=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BjASEgZnmhqdPOFJTpsEHJ3fDWXqq30OeVuFtNuNkjk=
+			kcGnMB+hUM26dqqLVzxEYiTb0WzuVV0G5CyE/zNJ0B8=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h0wH5lu4h1fqL+buTAQnJW2BKRX7ioK8uAG9xM8ABsY=
+			UJ7WxTvIf8U86S299oaXQ6Lxw/rkymTxnHPeEaSLH8E=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qx2jLPKCgaLPixdL5NkratXVqHInBCNabHp5yC+qcjg=
+			VMKmRx2HmSV84WvwbfNEW+obhL8nxErQzb1cxvgI2jQ=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1700,14 +1700,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qx2jLPKCgaLPixdL5NkratXVqHInBCNabHp5yC+qcjg=
+			VMKmRx2HmSV84WvwbfNEW+obhL8nxErQzb1cxvgI2jQ=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z+uAEFdp3g3SA2Yvajiwzr937UE3tjLCtu7JUjAVquQ=
+			24CBKIBzx1svBnBdkW27uVGx3X2dThop3arhNHy632o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
