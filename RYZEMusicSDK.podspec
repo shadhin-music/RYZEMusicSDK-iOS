@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   # You can remove s.platform if you want; this is fine:
   s.ios.deployment_target = '13.0'
-  s.swift_version         = '5.7'
+  s.swift_version         = '5.9'
 
   # IMPORTANT: include .git
   s.source = { :git => 'https://github.com/shadhin-music/RYZEMusicSDK-iOS.git', :tag => s.version.to_s }
