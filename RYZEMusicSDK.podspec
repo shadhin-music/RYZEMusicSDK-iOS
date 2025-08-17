@@ -23,9 +23,9 @@ Pod::Spec.new do |s|
   s.source = { :git => 'https://github.com/shadhin-music/RYZEMusicSDK-iOS.git', :tag => s.version.to_s }
 
   # If your xcframework contains Swift, CocoaPods typically works better with:
-  s.static_framework = true
-
-  s.ios.vendored_frameworks = 'Framework/Shadhin_RYZE.xcframework'
+ 
+  s.ios.vendored_frameworks = 'Frameworks/Shadhin_RYZE.xcframework'
   s.requires_arc            = true
+  s.static_framework = true
 end
 
