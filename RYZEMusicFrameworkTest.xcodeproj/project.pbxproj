@@ -24,7 +24,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		5243BEDB2E1E7942005AF79F /* Exceptions for "RYZEMusicFrameworkTest" folder in "RYZEMusicFrameworkTest" target */ = {
+		5239C2722E53339800821CB1 /* Exceptions for "RYZEMusicFrameworkTest" folder in "RYZEMusicFrameworkTest" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -34,7 +34,7 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		52050B922E51ECC000EBF3A2 /* Exceptions for "Framework" folder in "Embed Frameworks" phase from "RYZEMusicFrameworkTest" target */ = {
+		5239C2712E53334D00821CB1 /* Exceptions for "Framework" folder in "Embed Frameworks" phase from "RYZEMusicFrameworkTest" target */ = {
 			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
 			attributesByRelativePath = {
 				Shadhin_RYZE.xcframework = (CodeSignOnCopy, RemoveHeadersOnCopy, );
@@ -50,7 +50,7 @@
 		528D26112E093F6400E905AA /* Framework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				52050B922E51ECC000EBF3A2 /* Exceptions for "Framework" folder in "Embed Frameworks" phase from "RYZEMusicFrameworkTest" target */,
+				5239C2712E53334D00821CB1 /* Exceptions for "Framework" folder in "Embed Frameworks" phase from "RYZEMusicFrameworkTest" target */,
 			);
 			path = Framework;
 			sourceTree = "<group>";
@@ -58,7 +58,7 @@
 		52B04B852E081C0400B80762 /* RYZEMusicFrameworkTest */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				5243BEDB2E1E7942005AF79F /* Exceptions for "RYZEMusicFrameworkTest" folder in "RYZEMusicFrameworkTest" target */,
+				5239C2722E53339800821CB1 /* Exceptions for "RYZEMusicFrameworkTest" folder in "RYZEMusicFrameworkTest" target */,
 			);
 			path = RYZEMusicFrameworkTest;
 			sourceTree = "<group>";

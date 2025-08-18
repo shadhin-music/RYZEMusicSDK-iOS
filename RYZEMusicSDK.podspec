@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name                  = 'RYZEMusicSDK'
-  s.version               = '0.0.13'
+  s.version               = '0.0.14'
   s.summary               = 'Sample Spec'
   s.homepage              = 'https://github.com/shadhin-music/RYZEMusicSDK-iOS'
 
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
   # If your xcframework contains Swift, CocoaPods typically works better with:
  
-  s.ios.vendored_frameworks = 'Frameworks/Shadhin_RYZE.xcframework'
+  s.ios.vendored_frameworks = 'Framework/Shadhin_RYZE.xcframework'
   s.requires_arc            = true
   s.static_framework = true
 end
