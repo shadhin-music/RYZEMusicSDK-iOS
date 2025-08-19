@@ -30,5 +30,18 @@ class ArtistViewVC: UIViewController {
             ShadhinRyze.shared.openArtistDetailsVC( artist: artist, otherArtists: others, navigationController: nav, tabController: tab)
         }
     }
-
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        ShadhinRyze.shared.onPlayerVisibilityChanged = { [weak self] isHidden in
+            guard let self = self else { return }
+            if isHidden {
+                print(" Player hidden from SDK = \(isHidden)")
+                
+            } else {
+                print("Player visible from SDK = \(isHidden)")
+            }
+        }
+        
+    }
 }

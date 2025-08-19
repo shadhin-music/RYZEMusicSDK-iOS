@@ -316,6 +316,7 @@ public class HubConnection {
   @objc final public var config: Shadhin_RYZE.ShadhinRyzeConfig
   public static let shared: Shadhin_RYZE.ShadhinRyze
   final public var musicPlayerVisibleState: Swift.Bool
+  final public var onPlayerVisibilityChanged: ((Swift.Bool) -> Swift.Void)?
   @objc deinit
   final public var shouldOpenPlayer: Swift.Bool
   @available(*, deprecated, message: "This method will be deprecated.")

@@ -13616,6 +13616,162 @@
           },
           {
             "kind": "Var",
+            "name": "onPlayerVisibilityChanged",
+            "printedName": "onPlayerVisibilityChanged",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((Swift.Bool) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.Bool) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC25onPlayerVisibilityChangedySbcSgvp",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC25onPlayerVisibilityChangedySbcSgvp",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((Swift.Bool) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Swift.Bool) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Bool",
+                            "printedName": "Swift.Bool",
+                            "usr": "s:Sb"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC25onPlayerVisibilityChangedySbcSgvg",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC25onPlayerVisibilityChangedySbcSgvg",
+                "moduleName": "Shadhin_RYZE",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "((Swift.Bool) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Swift.Bool) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Bool",
+                            "printedName": "Swift.Bool",
+                            "usr": "s:Sb"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC25onPlayerVisibilityChangedySbcSgvs",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC25onPlayerVisibilityChangedySbcSgvs",
+                "moduleName": "Shadhin_RYZE",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC25onPlayerVisibilityChangedySbcSgvM",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC25onPlayerVisibilityChangedySbcSgvM",
+                "moduleName": "Shadhin_RYZE",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "shouldOpenPlayer",
             "printedName": "shouldOpenPlayer",
             "children": [
@@ -14287,7 +14443,8 @@
             "declAttributes": [
               "Final",
               "AccessControl",
-              "ObjC"
+              "ObjC",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -45545,56 +45702,56 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 15547,
+      "offset": 15748,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 15933,
+      "offset": 16134,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "Array",
-      "offset": 18657,
+      "offset": 18858,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 24264,
+      "offset": 24465,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 25736,
+      "offset": 25937,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 28477,
+      "offset": 28678,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 33706,
+      "offset": 33907,
       "length": 18,
       "value": "\"Congratulations!\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 33746,
+      "offset": 33947,
       "length": 49,
       "value": "\"Plan purchase request is successfully submitted\""
     },
@@ -45776,84 +45933,84 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "BooleanLiteral",
-      "offset": 999,
+      "offset": 1068,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11045,
+      "offset": 11506,
       "length": 7,
       "value": "\"RC201\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11079,
+      "offset": 11540,
       "length": 7,
       "value": "\"RC202\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11113,
+      "offset": 11574,
       "length": 7,
       "value": "\"RC203\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11147,
+      "offset": 11608,
       "length": 7,
       "value": "\"RC204\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11181,
+      "offset": 11642,
       "length": 10,
       "value": "\"BNMAIN01\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11221,
+      "offset": 11682,
       "length": 9,
       "value": "\"BNALL01\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11262,
+      "offset": 11723,
       "length": 24,
       "value": "\"0000_TERMSANDCONDITION\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11317,
+      "offset": 11778,
       "length": 12,
       "value": "\"0000_BKASH\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11354,
+      "offset": 11815,
       "length": 7,
       "value": "\"RADIO\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11459,
+      "offset": 11920,
       "length": 23,
       "value": "\"shouldOpenMusicPlayer\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "BooleanLiteral",
-      "offset": 11590,
+      "offset": 12051,
       "length": 5,
       "value": "false"
     },
@@ -52839,7 +52996,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/RYZEWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 26873,
+      "offset": 26874,
       "length": 24,
       "value": "\"SDK initialises failed\""
     },
@@ -53777,7 +53934,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVM.swift",
       "kind": "BooleanLiteral",
-      "offset": 4768,
+      "offset": 5038,
       "length": 5,
       "value": "false"
     },
