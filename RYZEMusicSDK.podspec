@@ -8,27 +8,24 @@
 
 Pod::Spec.new do |s|
   s.name                  = 'RYZEMusicSDK'
-  s.version               = '0.0.15'
-  s.summary               = 'Music SDK with popup player'
+  s.version               = '0.0.16'
+  s.summary               = 'Sample Spec'
   s.homepage              = 'https://github.com/shadhin-music/RYZEMusicSDK-iOS'
-  s.license               = { :type => 'MIT', :file => 'LICENSE' }
-  s.author                = { 'Md Maruf Prodhan' => 'mdmaruf@shadhinmusic.com' }
 
+  s.author                = { 'Md Maruf Prodhan' => 'mdmaruf@shadhinmusic.com' }
+  s.license               = { :type => 'MIT', :file => 'LICENSE' }
+
+  # You can remove s.platform if you want; this is fine:
   s.ios.deployment_target = '13.0'
   s.swift_version         = '5.9'
-  s.requires_arc          = true
 
-  s.source                = { :git => 'https://github.com/shadhin-music/RYZEMusicSDK-iOS.git',
-                              :tag => s.version.to_s }
+  # IMPORTANT: include .git
+  s.source = { :git => 'https://github.com/shadhin-music/RYZEMusicSDK-iOS.git', :tag => s.version.to_s }
 
-  # Vendored binary
+  # If your xcframework contains Swift, CocoaPods typically works better with:
+ 
   s.ios.vendored_frameworks = 'Framework/Shadhin_RYZE.xcframework'
-
-  # Helpful for Obj-C categories (e.g., popup controller APIs)
-  s.pod_target_xcconfig   = { 'OTHER_LDFLAGS' => '-ObjC' }
-
-  # System frameworks actually used by the SDK
-  s.frameworks = 'UIKit', 'AVFoundation', 'MediaPlayer'
-  s.static_framework        = true
-
+  s.requires_arc            = true
+  s.static_framework = true
 end
+
