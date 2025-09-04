@@ -45695,63 +45695,63 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 9329,
+      "offset": 9327,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 15748,
+      "offset": 15746,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 16134,
+      "offset": 16132,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "Array",
-      "offset": 18858,
+      "offset": 18856,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 24465,
+      "offset": 24463,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 25937,
+      "offset": 25935,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 28678,
+      "offset": 28676,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 33907,
+      "offset": 33905,
       "length": 18,
       "value": "\"Congratulations!\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 33947,
+      "offset": 33945,
       "length": 49,
       "value": "\"Plan purchase request is successfully submitted\""
     },
@@ -45940,77 +45940,77 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11506,
+      "offset": 11501,
       "length": 7,
       "value": "\"RC201\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11540,
+      "offset": 11535,
       "length": 7,
       "value": "\"RC202\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11574,
+      "offset": 11569,
       "length": 7,
       "value": "\"RC203\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11608,
+      "offset": 11603,
       "length": 7,
       "value": "\"RC204\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11642,
+      "offset": 11637,
       "length": 10,
       "value": "\"BNMAIN01\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11682,
+      "offset": 11677,
       "length": 9,
       "value": "\"BNALL01\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11723,
+      "offset": 11718,
       "length": 24,
       "value": "\"0000_TERMSANDCONDITION\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11778,
+      "offset": 11773,
       "length": 12,
       "value": "\"0000_BKASH\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11815,
+      "offset": 11810,
       "length": 7,
       "value": "\"RADIO\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11920,
+      "offset": 11915,
       "length": 23,
       "value": "\"shouldOpenMusicPlayer\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "BooleanLiteral",
-      "offset": 12051,
+      "offset": 12046,
       "length": 5,
       "value": "false"
     },
@@ -47375,7 +47375,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 20226,
+      "offset": 20227,
       "length": 5,
       "value": "false"
     },
@@ -47676,63 +47676,70 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 369,
+      "offset": 375,
+      "length": 42,
+      "value": "\"https:\/\/ryze.api.shadhinmusic.com\/api\/v1\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
+      "kind": "StringLiteral",
+      "offset": 447,
       "length": 41,
       "value": "\"https:\/\/blmusic.shadhinmusic.com\/api\/v1\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 441,
+      "offset": 519,
       "length": 31,
       "value": "\"http:\/\/118.67.219.130\/rbt\/api\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 509,
+      "offset": 587,
       "length": 23,
       "value": "\"http:\/\/118.67.219.130\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 564,
+      "offset": 642,
       "length": 32,
       "value": "\"http:\/\/socket.shadhinmusic.com\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 632,
+      "offset": 710,
       "length": 39,
       "value": "\"https:\/\/subscription.payment-app.info\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 700,
+      "offset": 778,
       "length": 5,
       "value": "\"128\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 730,
+      "offset": 808,
       "length": 8,
       "value": "\"Client\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 763,
+      "offset": 841,
       "length": 12,
       "value": "\"clienttype\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 806,
+      "offset": 884,
       "length": 41,
       "value": "\"https:\/\/api.payment-app.info\/banglalink\""
     },
@@ -48673,20 +48680,6 @@
       "offset": 441,
       "length": 1,
       "value": "\"\/BanglalinkRbt\""
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Model\/TermsAndConditionResponse.swift",
-      "kind": "StringLiteral",
-      "offset": 296,
-      "length": 7,
-      "value": "\"Title\""
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Model\/TermsAndConditionResponse.swift",
-      "kind": "StringLiteral",
-      "offset": 323,
-      "length": 5,
-      "value": "\"Url\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
@@ -51505,28 +51498,28 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/HomeVC\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 691,
+      "offset": 570,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/HomeVC\/HomeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 725,
+      "offset": 604,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/HomeVC\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 756,
+      "offset": 635,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/HomeVC\/HomeVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 787,
+      "offset": 666,
       "length": 5,
       "value": "false"
     },
@@ -51911,7 +51904,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/HomeVC\/HomeVM.swift",
       "kind": "Array",
-      "offset": 687,
+      "offset": 613,
       "length": 2,
       "value": "[]"
     },
@@ -52996,7 +52989,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Core\/RYZEWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 26874,
+      "offset": 26876,
       "length": 24,
       "value": "\"SDK initialises failed\""
     },
@@ -53899,42 +53892,49 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVM.swift",
       "kind": "Array",
-      "offset": 712,
+      "offset": 809,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVM.swift",
+      "kind": "Array",
+      "offset": 913,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVM.swift",
       "kind": "BooleanLiteral",
-      "offset": 841,
+      "offset": 1134,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVM.swift",
       "kind": "IntegerLiteral",
-      "offset": 1098,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVM.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1278,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVM.swift",
-      "kind": "BooleanLiteral",
       "offset": 1307,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVM.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1474,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVM.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1503,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVM.swift",
       "kind": "BooleanLiteral",
-      "offset": 5038,
+      "offset": 7421,
       "length": 5,
       "value": "false"
     },
@@ -58547,9 +58547,51 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/VolumeVC\/VolumeVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 435,
+      "offset": 568,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/VolumeVC\/VolumeVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 590,
       "length": 1,
       "value": "1"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/VolumeVC\/VolumeVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 699,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/VolumeVC\/VolumeVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 796,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/VolumeVC\/VolumeVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 521,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/VolumeVC\/VolumeVC.swift",
+      "kind": "FloatLiteral",
+      "offset": 907,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/VolumeVC\/VolumeVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 943,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Library\/Kingfisher\/Networking\/KFSessionDelegate.swift",
@@ -58814,27 +58856,27 @@
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Home.swift",
       "kind": "StringLiteral",
       "offset": 553,
-      "length": 60,
+      "length": 68,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Home.swift",
       "kind": "StringLiteral",
-      "offset": 565,
+      "offset": 573,
       "length": 1,
       "value": "\"\/ClientTermsAndConditions\/GetTermsAndConditions\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Home.swift",
       "kind": "StringLiteral",
-      "offset": 651,
-      "length": 42,
+      "offset": 659,
+      "length": 50,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Home.swift",
       "kind": "StringLiteral",
-      "offset": 663,
+      "offset": 679,
       "length": 1,
       "value": "\"\/ClientTermsAndConditions\/FAQ\""
     },
@@ -62600,14 +62642,14 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Podcast.swift",
       "kind": "StringLiteral",
-      "offset": 2519,
+      "offset": 2562,
       "length": 4,
       "value": "\"PD\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Podcast.swift",
       "kind": "StringLiteral",
-      "offset": 3286,
+      "offset": 3329,
       "length": 4,
       "value": "\"PD\""
     },
@@ -62796,9 +62838,23 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/RYZETopArtist\/RYZEArtistView.swift",
       "kind": "Array",
-      "offset": 566,
+      "offset": 506,
       "length": 2,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/RYZETopArtist\/RYZEArtistView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 944,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/ViewController\/RYZETopArtist\/RYZEArtistView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 985,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Library\/Kingfisher\/Image\/ImageDrawing.swift",

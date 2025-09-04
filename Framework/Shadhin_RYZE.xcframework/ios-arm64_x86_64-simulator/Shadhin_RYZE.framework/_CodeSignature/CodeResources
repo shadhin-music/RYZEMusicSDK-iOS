@@ -70,7 +70,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		krQ48xQnyf5yE7NLSrIJ8Rm/528=
+		uQtLBG4LHw5GPde+xle2MH+xXSU=
 		</data>
 		<key>AudioAdsView.nib</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>BkashSubsriptionVC.nib/objects-14.0+.nib</key>
 		<data>
-		O/190zzwuaeSCXdynozsJxcjsUg=
+		bmNpW6rrganu+d/9QwqLz/bWO4A=
 		</data>
 		<key>BkashSubsriptionVC.nib/runtime.nib</key>
 		<data>
-		5Yih2+6+XB15D9S1Alhhk2Org5s=
+		ryR8MTJMlFEM1u+ZXdxEJX0s6oQ=
 		</data>
 		<key>BookTicketFormCell.nib</key>
 		<data>
@@ -354,7 +354,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ulaK5DmJhXasEyhpr9FKwJ4/qmI=
+		xve0HPuQ3blI/UdvEM9WXdJAlls=
 		</data>
 		<key>LatestReleaseWatchLaterVC.nib/objects-14.0+.nib</key>
 		<data>
@@ -394,7 +394,7 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6vxRxIZ+7pNwh4Qe4zCRwUIKeMI=
+		6hMsCGgOWpN978fZtRGK5Rd+pBE=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -410,11 +410,11 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cUZ3OMx/PA9sG0pclJXkcFJ0yYE=
+		WRoR5KVSVkg+1BbUAatTWmEffPI=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		6vxRxIZ+7pNwh4Qe4zCRwUIKeMI=
+		6hMsCGgOWpN978fZtRGK5Rd+pBE=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -430,7 +430,7 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gUbHFyLAct11M2QyDw0a7882qWU=
+		a1JyVVJFkwL62MEZ4ku75jc/VvM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -926,7 +926,7 @@
 		</data>
 		<key>VolumeVC.nib</key>
 		<data>
-		xY7gO7eOAOzYKGjUBCugyr4Hlxo=
+		xpGYBeRyRAbsA/gGB2sF3rg1jPA=
 		</data>
 		<key>WTSongCell.nib</key>
 		<data>
@@ -1084,7 +1084,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A9ERB+4v+oW9yDEUSiqfSGQqzvbFKBKQWk6JFnnuqGM=
+			fz+Y7+YLYfl6J+V3wmIAjAABDO1Iq+AoMz9vLE6AWsA=
 			</data>
 		</dict>
 		<key>AudioAdsView.nib</key>
@@ -1147,14 +1147,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VNxZdncuksAjz/t/p3g9bC1GmuNUiVJhv50j1XcVtAE=
+			pP1lpHN4Hr7ieHg1AGFIfjZ2k7t4gMJGhsD2G8ffI+A=
 			</data>
 		</dict>
 		<key>BkashSubsriptionVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			utK0cIYeGh13mtcj8B0I8jseMEelyHTomuY0WXsjGAM=
+			oSSGTTunc8zUrAuoRQmnyThuyNMPBnbt41z2U8qA7Bw=
 			</data>
 		</dict>
 		<key>BookTicketFormCell.nib</key>
@@ -1644,7 +1644,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c1Pxixy24hkOjAsjbKFHgt0icDtoMZlUyeOZVE77XXY=
+			toAD1p+fYhuH9sctSXd1c+bhKNOkMe9DfY09Z/9lSKI=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1672,14 +1672,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LhRXMi8kiiKBFDYUN4XzV9ZvXK7JKcmorZQlj8nRYkY=
+			81jngfKio8Qc1rK5zdIEsGH9Ia7o2ZInd5nO/R3SoG0=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c1Pxixy24hkOjAsjbKFHgt0icDtoMZlUyeOZVE77XXY=
+			toAD1p+fYhuH9sctSXd1c+bhKNOkMe9DfY09Z/9lSKI=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1707,7 +1707,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EEISsPUYSFd7NDwi6PamvSAtejZtp5ABrhopjl/tu3s=
+			hEiHV0TJz6QDdvdZU7vCeiO5Ry/EJFpS0DtVlfqjbvs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2575,7 +2575,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DfOkFS+39MwiEn4kAkq1TdRvWcNppqpPN/4B6fcTlj0=
+			n2dPAdLL18rXjmuJjCzae3kkC7EjckibrM6V54i5FJ0=
 			</data>
 		</dict>
 		<key>WTSongCell.nib</key>
