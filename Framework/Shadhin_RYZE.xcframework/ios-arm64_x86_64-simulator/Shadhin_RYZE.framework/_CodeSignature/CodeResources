@@ -98,19 +98,19 @@
 		</data>
 		<key>BkashPlanCell.nib/objects-14.0+.nib</key>
 		<data>
-		O4O0fDHHVVsq/tJMfFlttJFeTg8=
+		a3onSR1XsbpoimRNnH2ISh4KRVc=
 		</data>
 		<key>BkashPlanCell.nib/runtime.nib</key>
 		<data>
-		dAeuq9rERJQY3+We33ah4AyULgc=
+		rJuwDjeQjHMTU7F9m04OwXVNlK8=
 		</data>
 		<key>BkashSubsriptionVC.nib/objects-14.0+.nib</key>
 		<data>
-		bmNpW6rrganu+d/9QwqLz/bWO4A=
+		OxCL0yQNx2XAGUnsuTSgSiHll6M=
 		</data>
 		<key>BkashSubsriptionVC.nib/runtime.nib</key>
 		<data>
-		ryR8MTJMlFEM1u+ZXdxEJX0s6oQ=
+		xR8ppp8rX1ba9LNujCuOtGb3Trk=
 		</data>
 		<key>BookTicketFormCell.nib</key>
 		<data>
@@ -394,7 +394,7 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6hMsCGgOWpN978fZtRGK5Rd+pBE=
+		m8HVKJnvmlWxh/BX0dcG193smtQ=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -414,7 +414,7 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		6hMsCGgOWpN978fZtRGK5Rd+pBE=
+		m8HVKJnvmlWxh/BX0dcG193smtQ=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -1133,28 +1133,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mfVtxDZTFg3x/mj7Eo53EPwEaJ+lLUJtpXfPcA8kCxk=
+			nXr54gCDn9NLx869/36m3wr2MwBXTCxLRu4xyWA3u3g=
 			</data>
 		</dict>
 		<key>BkashPlanCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zuvi/Rm3cguFEKD+mawjcU/3nw7vB7X3p3Rm5iMSV1k=
+			zpossPgXJ9QOtp/yG/eTKyMsVZJ/SdFV0bhme72sHwo=
 			</data>
 		</dict>
 		<key>BkashSubsriptionVC.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pP1lpHN4Hr7ieHg1AGFIfjZ2k7t4gMJGhsD2G8ffI+A=
+			FFOmP5aTRnJif737W8NXhy3Fd7p/IaFoqHHhIBZbV6o=
 			</data>
 		</dict>
 		<key>BkashSubsriptionVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oSSGTTunc8zUrAuoRQmnyThuyNMPBnbt41z2U8qA7Bw=
+			7Wvslr0VtieDBT9YsZyMcTSnLqIS1PnBzVyLQia5cZ4=
 			</data>
 		</dict>
 		<key>BookTicketFormCell.nib</key>
@@ -1644,7 +1644,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			toAD1p+fYhuH9sctSXd1c+bhKNOkMe9DfY09Z/9lSKI=
+			VgD3eOjaXHF3Rez0gRDxMNM5d22AYPMGjQNjLI5AcJY=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1679,7 +1679,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			toAD1p+fYhuH9sctSXd1c+bhKNOkMe9DfY09Z/9lSKI=
+			VgD3eOjaXHF3Rez0gRDxMNM5d22AYPMGjQNjLI5AcJY=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
