@@ -45695,63 +45695,63 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 9327,
+      "offset": 9329,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 15746,
+      "offset": 15748,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 16132,
+      "offset": 16134,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "Array",
-      "offset": 18856,
+      "offset": 18858,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 24463,
+      "offset": 24465,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 25935,
+      "offset": 25937,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 28676,
+      "offset": 28678,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 33905,
+      "offset": 33907,
       "length": 18,
       "value": "\"Congratulations!\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 33945,
+      "offset": 33947,
       "length": 49,
       "value": "\"Plan purchase request is successfully submitted\""
     },
@@ -47655,98 +47655,91 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 233,
+      "offset": 161,
       "length": 39,
       "value": "\"https:\/\/testservice.shadhin.co\/api\/v5\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 300,
+      "offset": 228,
       "length": 37,
       "value": "\"https:\/\/api.shadhinmusic.com\/api\/v5\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 369,
+      "offset": 297,
       "length": 42,
       "value": "\"https:\/\/ryze.api.shadhinmusic.com\/api\/v5\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 447,
+      "offset": 375,
       "length": 42,
       "value": "\"https:\/\/ryze.api.shadhinmusic.com\/api\/v1\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 519,
+      "offset": 447,
       "length": 41,
       "value": "\"https:\/\/blmusic.shadhinmusic.com\/api\/v1\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 591,
+      "offset": 519,
       "length": 31,
       "value": "\"http:\/\/118.67.219.130\/rbt\/api\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 659,
+      "offset": 587,
       "length": 23,
       "value": "\"http:\/\/118.67.219.130\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 714,
+      "offset": 642,
       "length": 32,
       "value": "\"http:\/\/socket.shadhinmusic.com\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 782,
+      "offset": 710,
       "length": 39,
       "value": "\"https:\/\/subscription.payment-app.info\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 850,
+      "offset": 778,
       "length": 5,
       "value": "\"128\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 888,
-      "length": 3,
-      "value": "\"2\""
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
-      "kind": "StringLiteral",
-      "offset": 916,
+      "offset": 808,
       "length": 8,
       "value": "\"Client\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 949,
+      "offset": 841,
       "length": 12,
       "value": "\"clienttype\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 992,
+      "offset": 884,
       "length": 41,
       "value": "\"https:\/\/api.payment-app.info\/banglalink\""
     },
@@ -56826,20 +56819,20 @@
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+BLToken.swift",
       "kind": "StringLiteral",
       "offset": 198,
-      "length": 32,
+      "length": 27,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+BLToken.swift",
       "kind": "StringLiteral",
-      "offset": 213,
+      "offset": 210,
       "length": 1,
-      "value": "\"\/user\/ryze-login\""
+      "value": "\"\/mybl\/gettoken\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+BLToken.swift",
       "kind": "StringLiteral",
-      "offset": 287,
+      "offset": 282,
       "length": 15,
       "value": "\"8801900000000\""
     },
@@ -60095,20 +60088,20 @@
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Patch.swift",
       "kind": "StringLiteral",
       "offset": 256,
-      "length": 55,
+      "length": 59,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Patch.swift",
       "kind": "StringLiteral",
-      "offset": 268,
+      "offset": 272,
       "length": 1,
       "value": "\"\/patch\/getpatchdata?patchCode=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Patch.swift",
       "kind": "StringLiteral",
-      "offset": 310,
+      "offset": 314,
       "length": 1,
       "value": "\"\""
     },
