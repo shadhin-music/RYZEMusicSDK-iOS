@@ -47725,21 +47725,28 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 808,
+      "offset": 816,
+      "length": 3,
+      "value": "\"2\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
+      "kind": "StringLiteral",
+      "offset": 844,
       "length": 8,
       "value": "\"Client\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 841,
+      "offset": 877,
       "length": 12,
       "value": "\"clienttype\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore.swift",
       "kind": "StringLiteral",
-      "offset": 884,
+      "offset": 920,
       "length": 41,
       "value": "\"https:\/\/api.payment-app.info\/banglalink\""
     },
@@ -56819,20 +56826,20 @@
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+BLToken.swift",
       "kind": "StringLiteral",
       "offset": 198,
-      "length": 27,
+      "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+BLToken.swift",
       "kind": "StringLiteral",
-      "offset": 210,
+      "offset": 213,
       "length": 1,
-      "value": "\"\/mybl\/gettoken\""
+      "value": "\"\/user\/ryze-login\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+BLToken.swift",
       "kind": "StringLiteral",
-      "offset": 282,
+      "offset": 287,
       "length": 15,
       "value": "\"8801900000000\""
     },
@@ -60088,20 +60095,20 @@
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Patch.swift",
       "kind": "StringLiteral",
       "offset": 256,
-      "length": 59,
+      "length": 55,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Patch.swift",
       "kind": "StringLiteral",
-      "offset": 272,
+      "offset": 268,
       "length": 1,
       "value": "\"\/patch\/getpatchdata?patchCode=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/BLMusiciOS-main\/Shadhin_RYZE\/APIService\/APIServiceCore+Patch.swift",
       "kind": "StringLiteral",
-      "offset": 314,
+      "offset": 310,
       "length": 1,
       "value": "\"\""
     },
