@@ -30,7 +30,7 @@
 		</data>
 		<key>AlbumTopCell.nib</key>
 		<data>
-		NExKkAsQhsjxUlkv9JjNi5SIx2M=
+		H0InOgdt3a6IzzobmMWAZQDC9QA=
 		</data>
 		<key>AllGenreVC.nib/objects-14.0+.nib</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>ArtistTopCell.nib</key>
 		<data>
-		17Rw/O1T2gS9MaM5PoI4WtgKthM=
+		qgIQAVIGZAm0ugFSqqN+yH0H6m8=
 		</data>
 		<key>Assets.car</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>BiographyCell.nib</key>
 		<data>
-		Z2TkQKCtrUSN2G8nUD/ujZsPd3g=
+		lx4Okl+6MkggdbcoQu2wiKA+qu0=
 		</data>
 		<key>BkashCancelOptionVC.nib</key>
 		<data>
@@ -338,11 +338,11 @@
 		</data>
 		<key>HomeVC.nib/objects-14.0+.nib</key>
 		<data>
-		u+e/hOeplPTIV1JFg+coBVEtfjQ=
+		5259/1lrM61pfZ1MLM8Oni6TEEE=
 		</data>
 		<key>HomeVC.nib/runtime.nib</key>
 		<data>
-		BYVGNrQcCRR1Of+RAhukaD/bpOo=
+		dqV/d83qX3JqwQcG6DeO0cCDvfQ=
 		</data>
 		<key>HomeVideoCell.nib</key>
 		<data>
@@ -394,7 +394,7 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		utGcOudhDH4+q1A/p+GWKf8Fm7s=
+		Sovx59rqRtEal+aAZTXjhU8vK5U=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -410,11 +410,11 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HMy0ybhICxrnmqNLUOTVMKWjlqQ=
+		EaOX4eCCoUp1wdnynrA9aKx8oTA=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		utGcOudhDH4+q1A/p+GWKf8Fm7s=
+		Sovx59rqRtEal+aAZTXjhU8vK5U=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -430,7 +430,7 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		d7kARAcv1SJ1GiMYuS0JR892lE4=
+		3uNrFjvVNtiIBTdC15SbmweiouY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -454,11 +454,11 @@
 		</data>
 		<key>MusicVideoTopCell.nib</key>
 		<data>
-		S3JjD69ZGfPJl9DjqaNcB5wAja4=
+		ufseHoCVrfA6K8TbJwH73Mxw1oE=
 		</data>
 		<key>MusicVideoTopView.nib</key>
 		<data>
-		+xyzcru9FGSDRgZPm6cu2hsXPfM=
+		oi5ReRJXfMEiBc1MAuWPdKPFXrM=
 		</data>
 		<key>MyDownloadVC.nib/objects-14.0+.nib</key>
 		<data>
@@ -506,11 +506,11 @@
 		</data>
 		<key>OTPVerifyPopupView.nib/objects-14.0+.nib</key>
 		<data>
-		IWMM8kgyKBrCTtMiTkQAj8Y614Y=
+		TBh2GZnskq/EiaKtSj89Y2nUavk=
 		</data>
 		<key>OTPVerifyPopupView.nib/runtime.nib</key>
 		<data>
-		IWMM8kgyKBrCTtMiTkQAj8Y614Y=
+		TBh2GZnskq/EiaKtSj89Y2nUavk=
 		</data>
 		<key>OTPaymentCell.nib</key>
 		<data>
@@ -586,11 +586,11 @@
 		</data>
 		<key>PodcastAudioVC.nib/objects-14.0+.nib</key>
 		<data>
-		Q82RIrnDNHqKZv38MP91HR39MPU=
+		xokli+SzGGYkTfZhW1vVvk+fO/A=
 		</data>
 		<key>PodcastAudioVC.nib/runtime.nib</key>
 		<data>
-		UrvplR13jnexiLhCBBM4ZfxbRZ8=
+		bCl+udstKiIe6+/x+VU86q3P8jo=
 		</data>
 		<key>PodcastHomeVC.nib/objects-14.0+.nib</key>
 		<data>
@@ -1014,7 +1014,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XpEqy6/0BcrCeiMVEcg3/1ukRzdZyWwti3Lj8m2aC2s=
+			CK2HSX33DDU564slsYAvHyhg/chCJpJsTzyMeQQb7YY=
 			</data>
 		</dict>
 		<key>AllGenreVC.nib/objects-14.0+.nib</key>
@@ -1077,7 +1077,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VCouP2pwsOn0W11aGS8/0rl46rNVTuogDkAGgX4HHCA=
+			fM+41xyO3toK8d9jETCfqBOmlsQPvSlDCSULsi31qK0=
 			</data>
 		</dict>
 		<key>Assets.car</key>
@@ -1112,7 +1112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DaHN+MP0NoCvLCWXCagFHVslLpNd1WlOnrlN2bsrkLc=
+			8mU9mAjI4owuCu9nUzalr0NVBRGzDlUK/3bwKcIwZus=
 			</data>
 		</dict>
 		<key>BkashCancelOptionVC.nib</key>
@@ -1553,14 +1553,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zRMo1JrfR39DtYNNUFJ1dOasd1IIRcIvCJ6Ek92fXTM=
+			E9Lj3HndFNzTU35mL0eCcKXz/y6n8oTh8Ccc72lK9Zc=
 			</data>
 		</dict>
 		<key>HomeVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			axOSCahKxjJoOyP9sZETXBorkrq93jVT/Lnh0Lzw1W4=
+			/SqxQohSAiHuB3mKlvCHJvqHa9QO5dXGei+UI3Tz05U=
 			</data>
 		</dict>
 		<key>HomeVideoCell.nib</key>
@@ -1644,7 +1644,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YVk0MKhkko24XwfR7dDgeoXbdz5a0MSbFQGz3mlzhZg=
+			uW71LozBKtP18zmCFBkF/p8vlrggrjZ70j9E1r13/sI=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1672,14 +1672,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lMLp/lSDoRQiv7lgeXXej9oyNRTmOBFUTmx8qtyItdA=
+			MvLfzw99JhKZ3E4EwO9TX4jNRye9wJnvzKDGZ3Qcmes=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YVk0MKhkko24XwfR7dDgeoXbdz5a0MSbFQGz3mlzhZg=
+			uW71LozBKtP18zmCFBkF/p8vlrggrjZ70j9E1r13/sI=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1707,7 +1707,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YM6neQM9ivpMNdH/0MaXbg3adqOGTkbzv8Geb40Mu18=
+			R+p+qM6Yw7k/BdSsA4VcZvto2er1RKB+jNpTn5DfZD4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1749,14 +1749,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p1l/tIfF3468N5q9VAsEs/9PeEtoaldZBRFfELMtMdg=
+			C6DfawZXsmi5zLPwSsB9/O4qLoFuPpZl2r4Tl8GKqpM=
 			</data>
 		</dict>
 		<key>MusicVideoTopView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tCG141C961+Iwba2IaYvRVuRdYgKg++KUzIvqagzlCw=
+			KJPDdYsVbDgQb3U1cImHvtpv+EOOwsO6rf/Y5dGB9cU=
 			</data>
 		</dict>
 		<key>MyDownloadVC.nib/objects-14.0+.nib</key>
@@ -1840,14 +1840,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cALdh6LVC9NtrsB9G6NDDW1HRCrEzGlI1rEx+BwTQno=
+			4zfQHYxVHsT9TSM8fUhLTmFMOtxO0MVL5xV5Rdw9i1g=
 			</data>
 		</dict>
 		<key>OTPVerifyPopupView.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cALdh6LVC9NtrsB9G6NDDW1HRCrEzGlI1rEx+BwTQno=
+			4zfQHYxVHsT9TSM8fUhLTmFMOtxO0MVL5xV5Rdw9i1g=
 			</data>
 		</dict>
 		<key>OTPaymentCell.nib</key>
@@ -1980,14 +1980,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7xlBPHYvibwzAqPY5Nl+YDQ4lAr0PnxaDiMViOqA+9Q=
+			gM3GGIdZP2Sn6bYJQKgcj/JD69vReOkcFT3RPNTL6YA=
 			</data>
 		</dict>
 		<key>PodcastAudioVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h2uiaWaVm5OwbwPCKGj2eiSwVGb1ldQskmjrZnFKV24=
+			3yok7aTherJxZEDxgbGS8Rr8ygT7lsv25cYE6mCNAmY=
 			</data>
 		</dict>
 		<key>PodcastHomeVC.nib/objects-14.0+.nib</key>
