@@ -45738,20 +45738,20 @@
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
       "offset": 28651,
-      "length": 5,
-      "value": "false"
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 34552,
+      "offset": 34551,
       "length": 18,
       "value": "\"Congratulations!\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 34592,
+      "offset": 34591,
       "length": 49,
       "value": "\"Plan purchase request is successfully submitted\""
     },
