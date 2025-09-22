@@ -394,7 +394,7 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		bQNUxiJcQNTSB0eT3PYB+ecR5gA=
+		RHN/aXVSrFCWrFgwWCJqULFP9Ig=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -410,11 +410,11 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VkFSWo/87AAO7Urp5QchamjsM4w=
+		18MB9c4TghZr+0TlMpKo2IE2wZ8=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		bQNUxiJcQNTSB0eT3PYB+ecR5gA=
+		RHN/aXVSrFCWrFgwWCJqULFP9Ig=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -430,7 +430,7 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cVW0kegiMV6a8zTmQpJIjo/Ypgs=
+		Ds+RWc6IaysraEgc+uQWCyyCk0U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -630,11 +630,11 @@
 		</data>
 		<key>PopularArtistBrandVC.nib/objects-14.0+.nib</key>
 		<data>
-		aAqoc6sOKIHW/zfFyodmN34tXEg=
+		5Aw1AWeukVvRKio0Q6z/LJaw6B4=
 		</data>
 		<key>PopularArtistBrandVC.nib/runtime.nib</key>
 		<data>
-		mHkhwTcx/2jbuMg9O+lcBz2G1vU=
+		0QH90POo2qQE8FFrHWfmRSP19J0=
 		</data>
 		<key>PriceItem.nib</key>
 		<data>
@@ -894,11 +894,11 @@
 		</data>
 		<key>TopTrendingMusicVideoVC.nib/objects-14.0+.nib</key>
 		<data>
-		0rXcJXC+0gBbFWH4jJX5FEHjnbk=
+		WoeUhO9kY5dgGpCClvI5riqoClQ=
 		</data>
 		<key>TopTrendingMusicVideoVC.nib/runtime.nib</key>
 		<data>
-		pKEVWv6TDwNylOBpmR0/JJTpnvo=
+		y9NNjRlolxAh9k88gCterHnkm8I=
 		</data>
 		<key>TrackCell.nib</key>
 		<data>
@@ -1644,7 +1644,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4sfZBAXQg14AflMrgrE0PMtBsgaVH+M4kdimqDGv6MY=
+			ZlE+sPZs0FZm9mW1gqME65+B/7W3JyPlEctTIsgWJV8=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1672,14 +1672,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DSG+vwO2h0wFUqqQ4/NINIUpyg6q1PwOTywICONI0tE=
+			G7yjfIPf2qtyh4vLr4VRuNm4I1bl5IluQpwFFCZQzHo=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4sfZBAXQg14AflMrgrE0PMtBsgaVH+M4kdimqDGv6MY=
+			ZlE+sPZs0FZm9mW1gqME65+B/7W3JyPlEctTIsgWJV8=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1707,7 +1707,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZvORF0brsWuYsPH8Cq1CYrckTJwjvd4i3zud841k6p8=
+			QKG0ScsYkJAlQigukLn6P42nzVHcIuxZuGSVX117z0I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2057,14 +2057,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p9jAQKGXwk1h2KrQS4swM8XjAvaPcT8ve914GcN912M=
+			kDuacvNz4pJBSctL8bpak7XtzCuVVSSazas+l/OyJ64=
 			</data>
 		</dict>
 		<key>PopularArtistBrandVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S8qh2SiBKGMwMbWikQFltZQZibM0NN7Ax2uT2qZSQeg=
+			rvc3bD4SfekXd2+O/I6z0mIF8Ga18wORoixBfJAfITI=
 			</data>
 		</dict>
 		<key>PriceItem.nib</key>
@@ -2519,14 +2519,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uAkfeCU1xupFgOKF+k0K7sCCZqBgZsomd8T1WIm52So=
+			gqFkJuvz/4K+UKASMrawGsOXKrc5lvU3wwNwvVY8AkA=
 			</data>
 		</dict>
 		<key>TopTrendingMusicVideoVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J+TmNfRnuSsJm7oHr7bpfhAloXUMW8h1O+n9/LufxDM=
+			rl/qSYK/D7/NgQDftupiEyysnWjp8RZrovGlsa16LmM=
 			</data>
 		</dict>
 		<key>TrackCell.nib</key>
