@@ -393,7 +393,7 @@ public class HubConnection {
   @objc final public func stopMusic()
   @objc final public func pauseMusic()
   @objc final public func playMusic()
-  @objc final public func setMusicPlayerVisibility(offset: CoreFoundation.CGFloat, duration: CoreFoundation.CGFloat = 0.2)
+  @objc final public func setMusicPlayerVisibility(isVisibility: Swift.Bool, duration: CoreFoundation.CGFloat = 0.0, isWillDisapper: Swift.Bool = false)
   @objc final public func getMusicPlayerVisibility() -> Swift.Bool
   #if compiler(>=5.3) && $NonescapableTypes
   @objc final public func setSessionPulesTimer(second: Swift.Double) -> Swift.String?

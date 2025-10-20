@@ -436,7 +436,7 @@ SWIFT_CLASS("_TtC12Shadhin_RYZE11ShadhinRyze")
 - (void)stopMusic;
 - (void)pauseMusic;
 - (void)playMusic;
-- (void)setMusicPlayerVisibilityWithOffset:(CGFloat)offset duration:(CGFloat)duration;
+- (void)setMusicPlayerVisibilityWithIsVisibility:(BOOL)isVisibility duration:(CGFloat)duration isWillDisapper:(BOOL)isWillDisapper;
 - (BOOL)getMusicPlayerVisibility SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)setSessionPulesTimerWithSecond:(double)second SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)setStreamingPulseTimerWithSecond:(double)second SWIFT_WARN_UNUSED_RESULT;
@@ -915,7 +915,7 @@ SWIFT_CLASS("_TtC12Shadhin_RYZE11ShadhinRyze")
 - (void)stopMusic;
 - (void)pauseMusic;
 - (void)playMusic;
-- (void)setMusicPlayerVisibilityWithOffset:(CGFloat)offset duration:(CGFloat)duration;
+- (void)setMusicPlayerVisibilityWithIsVisibility:(BOOL)isVisibility duration:(CGFloat)duration isWillDisapper:(BOOL)isWillDisapper;
 - (BOOL)getMusicPlayerVisibility SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)setSessionPulesTimerWithSecond:(double)second SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)setStreamingPulseTimerWithSecond:(double)second SWIFT_WARN_UNUSED_RESULT;
