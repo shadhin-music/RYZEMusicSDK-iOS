@@ -2142,6 +2142,13 @@
                 "printedName": "Sendable",
                 "usr": "s:s8SendableP",
                 "mangledName": "$ss8SendableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "SendableMetatype",
+                "printedName": "SendableMetatype",
+                "usr": "s:s16SendableMetatypeP",
+                "mangledName": "$ss16SendableMetatypeP"
               }
             ]
           },
@@ -6965,6 +6972,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           },
           {
             "kind": "Conformance",
@@ -14398,7 +14412,7 @@
           {
             "kind": "Function",
             "name": "setMusicPlayerVisibility",
-            "printedName": "setMusicPlayerVisibility(isVisible:)",
+            "printedName": "setMusicPlayerVisibility(offset:duration:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -14407,16 +14421,23 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "hasDefaultArg": true,
+                "usr": "s:14CoreFoundation7CGFloatV"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)setMusicPlayerVisibilityWithIsVisible:",
-            "mangledName": "$s12Shadhin_RYZE0A4RyzeC24setMusicPlayerVisibility9isVisibleySb_tF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)setMusicPlayerVisibilityWithOffset:duration:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC24setMusicPlayerVisibility6offset8durationy12CoreGraphics7CGFloatV_AItF",
             "moduleName": "Shadhin_RYZE",
-            "objc_name": "setMusicPlayerVisibilityWithIsVisible:",
+            "objc_name": "setMusicPlayerVisibilityWithOffset:duration:",
             "declAttributes": [
               "Final",
               "AccessControl",
@@ -17611,6 +17632,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -18623,6 +18651,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -20144,6 +20179,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -23584,6 +23626,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -30945,6 +30994,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -37471,6 +37527,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -39205,6 +39268,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -39615,6 +39685,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -40141,6 +40218,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Encodable",
             "printedName": "Encodable",
             "usr": "s:SE",
@@ -40159,35 +40243,6 @@
             "printedName": "_HasContiguousBytes",
             "usr": "s:s19_HasContiguousBytesP",
             "mangledName": "$ss19_HasContiguousBytesP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_ObjectiveCBridgeable",
-            "printedName": "_ObjectiveCBridgeable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "_ObjectiveCType",
-                "printedName": "_ObjectiveCType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "NSArray",
-                    "printedName": "Foundation.NSArray",
-                    "usr": "c:objc(cs)NSArray"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s21_ObjectiveCBridgeableP",
-            "mangledName": "$ss21_ObjectiveCBridgeableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
           },
           {
             "kind": "Conformance",
@@ -40285,6 +40340,49 @@
           },
           {
             "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSArray",
+                    "printedName": "Foundation.NSArray",
+                    "usr": "c:objc(cs)NSArray"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Content",
+            "printedName": "Content",
+            "usr": "s:So17CMSampleBufferRefa9CoreMediaE7ContentP",
+            "mangledName": "$sSo17CMSampleBufferRefa9CoreMediaE7ContentP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ContentWithFormatDescription",
+            "printedName": "ContentWithFormatDescription",
+            "usr": "s:So17CMSampleBufferRefa9CoreMediaE28ContentWithFormatDescriptionP",
+            "mangledName": "$sSo17CMSampleBufferRefa9CoreMediaE28ContentWithFormatDescriptionP"
+          },
+          {
+            "kind": "Conformance",
             "name": "AccelerateMutableBuffer",
             "printedName": "AccelerateMutableBuffer",
             "usr": "s:10Accelerate0A13MutableBufferP",
@@ -40310,6 +40408,27 @@
             ],
             "usr": "s:10Accelerate0A6BufferP",
             "mangledName": "$s10Accelerate0A6BufferP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "OperationParameter",
+            "printedName": "OperationParameter",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Accelerate9BNNSGraphO7BuilderV18OperationParameterP",
+            "mangledName": "$s10Accelerate9BNNSGraphO7BuilderV18OperationParameterP"
           }
         ]
       },
@@ -40484,6 +40603,118 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIApplication",
+        "printedName": "UIApplication",
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIApplication",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIApplication",
+        "declAttributes": [
+          "Preconcurrency",
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIResponder",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -40795,6 +41026,13 @@
             "printedName": "_HasCustomAnyHashableRepresentation",
             "usr": "s:s35_HasCustomAnyHashableRepresentationP",
             "mangledName": "$ss35_HasCustomAnyHashableRepresentationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -41008,6 +41246,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "_ExpressibleByImageLiteral",
             "printedName": "_ExpressibleByImageLiteral",
             "usr": "s:s26_ExpressibleByImageLiteralP",
@@ -41215,6 +41460,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -41310,6 +41562,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -41436,6 +41695,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           },
           {
             "kind": "Conformance",
@@ -42116,6 +42382,7 @@
         "intro_tvOS": "9.0",
         "intro_watchOS": "2.0",
         "declAttributes": [
+          "AddressableForDependencies",
           "Frozen",
           "Available",
           "Available",
@@ -42481,6 +42748,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Sequence",
             "printedName": "Sequence",
             "children": [
@@ -42703,6 +42977,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Copyable",
             "printedName": "Copyable",
             "usr": "s:s8CopyableP",
@@ -42804,6 +43085,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "TopLevelDecoder",
             "printedName": "TopLevelDecoder",
             "children": [
@@ -42823,6 +43111,13 @@
             ],
             "usr": "s:7Combine15TopLevelDecoderP",
             "mangledName": "$s7Combine15TopLevelDecoderP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "NetworkDecoder",
+            "printedName": "NetworkDecoder",
+            "usr": "s:7Network0A7DecoderP",
+            "mangledName": "$s7Network0A7DecoderP"
           }
         ]
       },
@@ -42870,6 +43165,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "TopLevelDecoder",
             "printedName": "TopLevelDecoder",
             "children": [
@@ -42889,6 +43191,13 @@
             ],
             "usr": "s:7Combine15TopLevelDecoderP",
             "mangledName": "$s7Combine15TopLevelDecoderP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "NetworkDecoder",
+            "printedName": "NetworkDecoder",
+            "usr": "s:7Network0A7DecoderP",
+            "mangledName": "$s7Network0A7DecoderP"
           }
         ]
       },
@@ -43023,104 +43332,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "UIApplication",
-        "printedName": "UIApplication",
-        "declKind": "Class",
-        "usr": "c:objc(cs)UIApplication",
-        "moduleName": "UIKit",
-        "isOpen": true,
-        "intro_iOS": "2.0",
-        "objc_name": "UIApplication",
-        "declAttributes": [
-          "Preconcurrency",
-          "Available",
-          "ObjC",
-          "NonSendable",
-          "Custom",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)UIResponder",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -43190,6 +43408,13 @@
             "printedName": "Hashable",
             "usr": "s:SH",
             "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           },
           {
             "kind": "Conformance",
@@ -43439,6 +43664,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -43450,21 +43682,14 @@
         "usr": "s:Sq",
         "mangledName": "$sSq",
         "moduleName": "Swift",
-        "genericSig": "<τ_0_0 where τ_0_0 : ~Copyable>",
-        "sugared_genericSig": "<Wrapped where Wrapped : ~Copyable>",
+        "genericSig": "<τ_0_0 where τ_0_0 : ~Copyable, τ_0_0 : ~Escapable>",
+        "sugared_genericSig": "<Wrapped where Wrapped : ~Copyable, Wrapped : ~Escapable>",
         "declAttributes": [
           "Frozen"
         ],
         "isExternal": true,
         "isEnumExhaustive": true,
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
           {
             "kind": "Conformance",
             "name": "Encodable",
@@ -43488,10 +43713,10 @@
           },
           {
             "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -43499,6 +43724,20 @@
             "printedName": "BitwiseCopyable",
             "usr": "s:s15BitwiseCopyableP",
             "mangledName": "$ss15BitwiseCopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           },
           {
             "kind": "Conformance",
@@ -43600,6 +43839,47 @@
           },
           {
             "kind": "Conformance",
+            "name": "AttributedTextFormattingDefinition",
+            "printedName": "AttributedTextFormattingDefinition",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUICore.AttributedTextFormattingDefinition<Wrapped.Scope>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AttributedTextFormattingDefinition",
+                        "printedName": "SwiftUICore.AttributedTextFormattingDefinition",
+                        "usr": "s:7SwiftUI34AttributedTextFormattingDefinitionP"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Scope",
+                "printedName": "Scope",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DependentMember",
+                    "printedName": "τ_0_0.Scope"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI34AttributedTextFormattingDefinitionP",
+            "mangledName": "$s7SwiftUI34AttributedTextFormattingDefinitionP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Gesture",
             "printedName": "Gesture",
             "children": [
@@ -43653,6 +43933,27 @@
             ],
             "usr": "s:7SwiftUI4ViewP",
             "mangledName": "$s7SwiftUI4ViewP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "AtomicRepresentable",
+            "printedName": "AtomicRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "AtomicRepresentation",
+                "printedName": "AtomicRepresentation",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DependentMember",
+                    "printedName": "τ_0_0.AtomicOptionalRepresentation"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:15Synchronization19AtomicRepresentableP",
+            "mangledName": "$s15Synchronization19AtomicRepresentableP"
           },
           {
             "kind": "Conformance",
@@ -43794,6 +44095,55 @@
             ],
             "usr": "s:7SwiftUI15TableRowContentP",
             "mangledName": "$s7SwiftUI15TableRowContentP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SliderTickContent",
+            "printedName": "SliderTickContent",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Value",
+                "printedName": "Value",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DependentMember",
+                    "printedName": "τ_0_0.Value"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[SwiftUI.SliderTick<τ_0_0.Value>]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SliderTick",
+                        "printedName": "SwiftUI.SliderTick<τ_0_0.Value>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "DependentMember",
+                            "printedName": "τ_0_0.Value"
+                          }
+                        ],
+                        "usr": "s:7SwiftUI10SliderTickV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI17SliderTickContentP",
+            "mangledName": "$s7SwiftUI17SliderTickContentP"
           },
           {
             "kind": "Conformance",
@@ -43997,6 +44347,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -44099,6 +44456,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           },
           {
             "kind": "Conformance",
@@ -44313,6 +44677,8 @@
         "moduleName": "Security",
         "declAttributes": [
           "SynthesizedProtocol",
+          "SynthesizedProtocol",
+          "Sendable",
           "ObjC",
           "Dynamic"
         ],
@@ -44341,10 +44707,24 @@
           },
           {
             "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Hashable",
             "printedName": "Hashable",
             "usr": "s:SH",
             "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           },
           {
             "kind": "Conformance",
@@ -44591,6 +44971,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "SIMDScalar",
             "printedName": "SIMDScalar",
             "children": [
@@ -44764,6 +45151,35 @@
           },
           {
             "kind": "Conformance",
+            "name": "NetworkFixedWidthInteger",
+            "printedName": "NetworkFixedWidthInteger",
+            "usr": "s:7Network0A17FixedWidthIntegerP",
+            "mangledName": "$s7Network0A17FixedWidthIntegerP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "AtomicRepresentable",
+            "printedName": "AtomicRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "AtomicRepresentation",
+                "printedName": "AtomicRepresentation",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "_Atomic32BitStorage",
+                    "printedName": "Synchronization._Atomic32BitStorage",
+                    "usr": "s:15Synchronization19_Atomic32BitStorageV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:15Synchronization19AtomicRepresentableP",
+            "mangledName": "$s15Synchronization19AtomicRepresentableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "vDSP_IntegerConvertable",
             "printedName": "vDSP_IntegerConvertable",
             "usr": "s:10Accelerate23vDSP_IntegerConvertableP",
@@ -44852,6 +45268,13 @@
             "printedName": "Hashable",
             "usr": "s:SH",
             "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       }
@@ -45701,64 +46124,71 @@
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7796,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 10059,
+      "offset": 12211,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 17030,
+      "offset": 18436,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 17416,
+      "offset": 18822,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "Array",
-      "offset": 20139,
+      "offset": 21545,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 25746,
+      "offset": 27152,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 27218,
+      "offset": 28624,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 29962,
+      "offset": 32842,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 36345,
+      "offset": 38414,
       "length": 18,
       "value": "\"Congratulations!\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 36385,
+      "offset": 38454,
       "length": 49,
       "value": "\"Plan purchase request is successfully submitted\""
     },
@@ -45946,78 +46376,85 @@
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
+      "kind": "FloatLiteral",
+      "offset": 7242,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11312,
+      "offset": 11216,
       "length": 7,
       "value": "\"RC201\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11346,
+      "offset": 11250,
       "length": 7,
       "value": "\"RC202\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11380,
+      "offset": 11284,
       "length": 7,
       "value": "\"RC203\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11414,
+      "offset": 11318,
       "length": 7,
       "value": "\"RC204\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11448,
+      "offset": 11352,
       "length": 10,
       "value": "\"BNMAIN01\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11488,
+      "offset": 11392,
       "length": 9,
       "value": "\"BNALL01\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11529,
+      "offset": 11433,
       "length": 24,
       "value": "\"0000_TERMSANDCONDITION\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11584,
+      "offset": 11488,
       "length": 12,
       "value": "\"0000_BKASH\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11621,
+      "offset": 11525,
       "length": 7,
       "value": "\"RADIO\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11726,
+      "offset": 11630,
       "length": 23,
       "value": "\"shouldOpenMusicPlayer\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "BooleanLiteral",
-      "offset": 11857,
+      "offset": 11761,
       "length": 5,
       "value": "false"
     },
@@ -47375,7 +47812,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 20263,
+      "offset": 20525,
       "length": 5,
       "value": "false"
     },
@@ -52988,8 +53425,15 @@
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/RYZEWrapper.swift",
+      "kind": "FloatLiteral",
+      "offset": 24068,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/RYZEWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 27398,
+      "offset": 27513,
       "length": 24,
       "value": "\"SDK initialises failed\""
     },
