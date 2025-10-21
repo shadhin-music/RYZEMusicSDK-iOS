@@ -57,6 +57,8 @@
 - (void)openPopupAnimated:(BOOL)animated completion:(void(^)(void))completionBlock;
 - (void)closePopupAnimated:(BOOL)animated completion:(void(^)(void))completionBlock;
 - (void)dismissPopupBarAnimated:(BOOL)animated completion:(void(^)(void))completionBlock;
+- (void)visiblePopupAnimated:(BOOL)animated completion:(void(^)(void))completionBlock;
+- (void)hidePopupAnimated:(BOOL)animated completion:(void(^)(void))completionBlock;
 
 - (void)_configurePopupBarFromBottomBar;
 

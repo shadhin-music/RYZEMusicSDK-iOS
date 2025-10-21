@@ -7,15 +7,18 @@
 
 import UIKit
 import Shadhin_RYZE
+import LinkPresentation
+
 class SignInVC: UIViewController {
 
     @IBOutlet weak var textField: UITextField!
+    @IBOutlet weak var radioView: UIView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        textField.text = "8801917748626"
+        textField.text = "8801930186707" // 8801930186707 pro // 8801409900051
     }
 
     @IBAction func onLoginPressed(_ sender: UIButton) {
@@ -25,83 +28,84 @@ class SignInVC: UIViewController {
             return
         }
         sender.isEnabled = false
+        
         ShadhinRyze.shared.login(number: number) { isDone, token in
             if isDone{
+                //ShadhinBL.shared.tokenInitialize(with: token,isBL: PhoneNumberVerify.isBanglalink(number))
                 ShadhinRyze.shared.initialize(with: token,isBL: PhoneNumberVerify.isBanglalink(number), delegate: self,tabController: self.tabBarController,navigationController: self.navigationController!)
             }else{
-                
+                let alert = UIAlertController(title: "Login Failed", message: "Please try again.", preferredStyle: .alert)
+                alert.addAction(UIAlertAction(title: "OK", style: .default))
+                self.present(alert, animated: true)
+                sender.isEnabled = true
             }
         }
         
     }
-    @IBAction func onWithoutLogin(_ sender: Any) {
+    @IBAction func signInWithoutNumberPressed(_ sender: Any) {
         let home = TabBarVC()
         self.navigationController?.pushViewController(home, animated: true)
-        
     }
-    @IBAction func onDarkMood(_ sender: Any) {
-        if #available(iOS 13.0, *) {
-            let scenes = UIApplication.shared.connectedScenes
-            let windowScene = scenes.first as? UIWindowScene
-            let window = windowScene?.windows.first
-            let interfaceStyle = window?.overrideUserInterfaceStyle == .unspecified ? UIScreen.main.traitCollection.userInterfaceStyle : window?.overrideUserInterfaceStyle
-            
-            if interfaceStyle != .dark {
-                window?.overrideUserInterfaceStyle = .dark
-            } else {
-                window?.overrideUserInterfaceStyle = .light
-            }
-        } else {
-            // Fallback on earlier versions
-        }
-                
-    }
-    
 }
 extension SignInVC : ShadhinCoreNotifier{
     func handleMSDKPaymentEvent(eventName: String, data: [String : Any]) {
-        Log.info("MSDK Payment Event - Name: \(eventName), Data: \(data)")
-        print("🔍 Debug MSDK Event -> Name: \(eventName) \(data)")
-        for (key, value) in data {
-            print("   \(key): \(value)")
-        }
-
+        
     }
+
     func memberShipStatus(isValid: Bool, value: String) {
         print("\(isValid) \(value)")
+       // print("\(isValid)", to: "\(value)")
     }
 
     func linkRedirect(link: String) {
-        
+        print(link)
+        guard let url = URL(string: link), UIApplication.shared.canOpenURL(url)else {return}
+        UIApplication.shared.open(url)
     }
     
-    func event(eventName: String, content: [String : String]) {
-        
-    }
-    
-    func shareContentWithRC(title: String, image: String, rc code: String) {
-        print(title,image,code)
+    func event(eventName: String, data content: [String : String]) {
+        print(eventName)
     }
     
     func bkashPaymentInit() {
+        print("payment pop up show")
+    }
+    
+    func shareContentWithRC(title: String, image: String, rc code: String) {
+        
+//        DispatchQueue.global(qos: .background).async{
+//            if let url = URL(string: image), let data = try? Data(contentsOf: url){
+//                //subtile must be a valid url link. thats redirect to app
+//                let item = ShareableImage(image: UIImage(data: data), title: title,subtitle: url)
+//                DispatchQueue.main.async {
+//                    if let topVC = UIApplication.shared.topMostViewController(){
+//
+//                        let share = UIActivityViewController(activityItems: [item], applicationActivities: nil)
+//                        share.title = title
+//                        topVC.present(share, animated: true)
+//                    }
+//                }
+//
+//
+//            }
+//        }
+        print("RC Code : ",code,image,title)
+        ShadhinRyze.shared.openPatch(patchID: code,navigationController: self.navigationController!,tabController: self.tabBarController)
+        UIPasteboard.general.string = code
         
     }
     
     func bksahPaymentSuccess() {
-        print("payment success")
+        print("subscription done")
     }
     
-    //music play pause state error catch 
     func player(error: String) {
         print(error)
     }
     
-    func shareContentWithRC(rc code: String) {
-        print(code)
-    }
     
     func rcError(error: String?) {
-        print(error as Any)
+        print(error)
     }
     
     func amarTuneError(error: String?) {
@@ -121,18 +125,4 @@ extension SignInVC : ShadhinCoreNotifier{
     
     
 }
-class PhoneNumberVerify {
-    static func isBanglalink(_ number : String) -> Bool{
-        let phone = number.replacingOccurrences(of: "+", with: "")
-        let banglalinkRegex =  "^8801[49]\\d{8}$"
-        do {
-            let regex = try NSRegularExpression(pattern: banglalinkRegex)
-            let nsString = phone as NSString
-            let results = regex.matches(in: phone, range: NSRange(location: 0, length: nsString.length))
-            return !results.isEmpty
-        } catch let error {
-            debugPrint(error.localizedDescription)
-            return false
-        }
-    }
-}
+
