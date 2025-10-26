@@ -437,8 +437,8 @@ SWIFT_CLASS("_TtC12Shadhin_RYZE11ShadhinRyze")
 - (void)pauseMusic;
 - (void)playMusic;
 - (void)setMusicPlayerVisibilityWithIsVisibility:(BOOL)isVisibility duration:(CGFloat)duration isWillDisapper:(BOOL)isWillDisapper;
-- (void)reCreatePlayerWithAnimate:(BOOL)animate;
-- (void)dimissMusicPopupBar;
+- (void)reCreatePlayerWithTabbarController:(UITabBarController * _Nonnull)tabbarController;
+- (void)dimissMusicPopupBarWithTabbarController:(UITabBarController * _Nonnull)tabbarController;
 - (BOOL)getMusicPlayerVisibility SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)setSessionPulesTimerWithSecond:(double)second SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)setStreamingPulseTimerWithSecond:(double)second SWIFT_WARN_UNUSED_RESULT;

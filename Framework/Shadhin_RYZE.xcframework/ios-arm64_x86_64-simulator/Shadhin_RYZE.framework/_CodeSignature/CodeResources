@@ -70,7 +70,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		kaVf5mzQEP3Ib4wFV8TIJ62cuxY=
+		CbZcPiAvCYV5jpyGRkQBCZouTeU=
 		</data>
 		<key>AudioAdsView.nib</key>
 		<data>
@@ -294,7 +294,7 @@
 		</data>
 		<key>Headers/Shadhin_RYZE-Swift.h</key>
 		<data>
-		lImOInnTBRl0gTLYHREeDbqfW4M=
+		EfpiWCIg7Tx9agl7Z9xe2/mgeks=
 		</data>
 		<key>Headers/Shadhin_RYZE.h</key>
 		<data>
@@ -394,11 +394,11 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		g55pdDOWUUKoY7dFhFI8rIYauiY=
+		gRaO/eeWjE6L9EN9G81FAc2VSCs=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		lkZ7UfbdYCNFIMkqtBmqBu0D0Dk=
+		bRTEo0nNsXAmu9ohKb+CMks0BdA=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -406,19 +406,19 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lkZ7UfbdYCNFIMkqtBmqBu0D0Dk=
+		bRTEo0nNsXAmu9ohKb+CMks0BdA=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IRykMkSo1Sfp4+NuC7qHFE78zSU=
+		5naIzPJCAw4jhyKP7wIFSALeOsg=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		g55pdDOWUUKoY7dFhFI8rIYauiY=
+		gRaO/eeWjE6L9EN9G81FAc2VSCs=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Nir+58Q7CHkpOpGW6qle3r5/vgo=
+		yrqmruOGNs/dekL2k76foz4bFEc=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -426,11 +426,11 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Nir+58Q7CHkpOpGW6qle3r5/vgo=
+		yrqmruOGNs/dekL2k76foz4bFEc=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DXgIhJ+Kvzn/Y69q0ZHE5p2IvD4=
+		y2NhKiYnyc3viNjggccF3pfGKpk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1084,7 +1084,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZPiVwIOKJKNMGab+6GjpG4ubJVUaK+uDYeBBk3OMDd8=
+			vgF/1/O3W4SgqqJcYt3pr+hJ91KrQno3xovgpZydBrY=
 			</data>
 		</dict>
 		<key>AudioAdsView.nib</key>
@@ -1476,7 +1476,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			31LsSspCoUTAjJCI4ZhYrshaPjElMeAzSLqhyhgp9/w=
+			2HXQG51k0EeC7B58JEOIbsytji/BTmhhnKx2tJ7L/ZY=
 			</data>
 		</dict>
 		<key>Headers/Shadhin_RYZE.h</key>
@@ -1644,14 +1644,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7QzysIl2unb4Df1eDPgRtrLCO+LM83ioIb/foKGD1x4=
+			xCZSXH8KMmezgx+kV5Ame1J6FcjXYTKryXtteZ2vvn8=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pLUlLH3WhR7LgUdqs04vw5RSmOKCQxFUMIGY42oqTso=
+			JDeLwvKgCxE/CKrmohNlf203gKC0Q8hrJgmBSXPkFcs=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1665,28 +1665,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pLUlLH3WhR7LgUdqs04vw5RSmOKCQxFUMIGY42oqTso=
+			JDeLwvKgCxE/CKrmohNlf203gKC0Q8hrJgmBSXPkFcs=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1S6nhFtjaGW0mmj0JWDJvcbpQ7qNXw1SHSDDlRtTBFk=
+			mO1HHDeO0Pc6pLwYwcrwioi1CTvyEzU7NT5m1/K9t7M=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7QzysIl2unb4Df1eDPgRtrLCO+LM83ioIb/foKGD1x4=
+			xCZSXH8KMmezgx+kV5Ame1J6FcjXYTKryXtteZ2vvn8=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EzFCnHLMcXcOd7VplcwJypXBGJjwWI8x1hbW6OE5xw0=
+			sZkBIX9O9MFPec54SCLMlSrLaxxEu/6s1iUoPZxOJzo=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1700,14 +1700,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EzFCnHLMcXcOd7VplcwJypXBGJjwWI8x1hbW6OE5xw0=
+			sZkBIX9O9MFPec54SCLMlSrLaxxEu/6s1iUoPZxOJzo=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O5lwwo8FfRCt4L/JeXs/Rv8RKwExkA3nerIfVCiY5kA=
+			dAle2iVatzXHfANCR15ZiWPyOo0TiP5OlPuzI4NYXbo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

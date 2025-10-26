@@ -13630,6 +13630,94 @@
           },
           {
             "kind": "Var",
+            "name": "isPlayingMusinc",
+            "printedName": "isPlayingMusinc",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC15isPlayingMusincSbvp",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC15isPlayingMusincSbvp",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC15isPlayingMusincSbvg",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC15isPlayingMusincSbvg",
+                "moduleName": "Shadhin_RYZE",
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isCreatedPopUpBar",
+            "printedName": "isCreatedPopUpBar",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Shadhin_RYZE0A4RyzeC17isCreatedPopUpBarSbvp",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC17isCreatedPopUpBarSbvp",
+            "moduleName": "Shadhin_RYZE",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE0A4RyzeC17isCreatedPopUpBarSbvg",
+                "mangledName": "$s12Shadhin_RYZE0A4RyzeC17isCreatedPopUpBarSbvg",
+                "moduleName": "Shadhin_RYZE",
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "onPlayerVisibilityChanged",
             "printedName": "onPlayerVisibilityChanged",
             "children": [
@@ -14455,7 +14543,7 @@
           {
             "kind": "Function",
             "name": "reCreatePlayer",
-            "printedName": "reCreatePlayer(animate:)",
+            "printedName": "reCreatePlayer(tabbarController:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -14464,17 +14552,16 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "hasDefaultArg": true,
-                "usr": "s:Sb"
+                "name": "UITabBarController",
+                "printedName": "UIKit.UITabBarController",
+                "usr": "c:objc(cs)UITabBarController"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)reCreatePlayerWithAnimate:",
-            "mangledName": "$s12Shadhin_RYZE0A4RyzeC14reCreatePlayer7animateySb_tF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)reCreatePlayerWithTabbarController:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC14reCreatePlayer16tabbarControllerySo08UITabBarH0C_tF",
             "moduleName": "Shadhin_RYZE",
-            "objc_name": "reCreatePlayerWithAnimate:",
+            "objc_name": "reCreatePlayerWithTabbarController:",
             "declAttributes": [
               "Final",
               "AccessControl",
@@ -14485,18 +14572,25 @@
           {
             "kind": "Function",
             "name": "dimissMusicPopupBar",
-            "printedName": "dimissMusicPopupBar()",
+            "printedName": "dimissMusicPopupBar(tabbarController:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "Void",
                 "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITabBarController",
+                "printedName": "UIKit.UITabBarController",
+                "usr": "c:objc(cs)UITabBarController"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)dimissMusicPopupBar",
-            "mangledName": "$s12Shadhin_RYZE0A4RyzeC19dimissMusicPopupBaryyF",
+            "usr": "c:@M@Shadhin_RYZE@objc(cs)ShadhinRyze(im)dimissMusicPopupBarWithTabbarController:",
+            "mangledName": "$s12Shadhin_RYZE0A4RyzeC19dimissMusicPopupBar16tabbarControllerySo05UITabgI0C_tF",
             "moduleName": "Shadhin_RYZE",
+            "objc_name": "dimissMusicPopupBarWithTabbarController:",
             "declAttributes": [
               "Final",
               "AccessControl",
@@ -46205,63 +46299,63 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 8622,
+      "offset": 6370,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 14918,
+      "offset": 10916,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 15304,
+      "offset": 11302,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "Array",
-      "offset": 18027,
+      "offset": 14025,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 23634,
+      "offset": 19632,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 25106,
+      "offset": 21104,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 27854,
+      "offset": 23852,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 33590,
+      "offset": 29588,
       "length": 18,
       "value": "\"Congratulations!\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 33630,
+      "offset": 29628,
       "length": 49,
       "value": "\"Plan purchase request is successfully submitted\""
     },
@@ -46443,105 +46537,98 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "BooleanLiteral",
-      "offset": 1068,
+      "offset": 1242,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "FloatLiteral",
-      "offset": 7245,
+      "offset": 7419,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "BooleanLiteral",
-      "offset": 7273,
+      "offset": 7447,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7463,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11522,
+      "offset": 11798,
       "length": 7,
       "value": "\"RC201\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11556,
+      "offset": 11832,
       "length": 7,
       "value": "\"RC202\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11590,
+      "offset": 11866,
       "length": 7,
       "value": "\"RC203\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11624,
+      "offset": 11900,
       "length": 7,
       "value": "\"RC204\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11658,
+      "offset": 11934,
       "length": 10,
       "value": "\"BNMAIN01\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11698,
+      "offset": 11974,
       "length": 9,
       "value": "\"BNALL01\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11739,
+      "offset": 12015,
       "length": 24,
       "value": "\"0000_TERMSANDCONDITION\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11794,
+      "offset": 12070,
       "length": 12,
       "value": "\"0000_BKASH\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11831,
+      "offset": 12107,
       "length": 7,
       "value": "\"RADIO\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "StringLiteral",
-      "offset": 11936,
+      "offset": 12212,
       "length": 23,
       "value": "\"shouldOpenMusicPlayer\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/ShadhinRyze.swift",
       "kind": "BooleanLiteral",
-      "offset": 12067,
+      "offset": 12343,
       "length": 5,
       "value": "false"
     },
@@ -46877,14 +46964,14 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/ArtistDetailsVC\/ArtistDetailsVC.swift",
       "kind": "StringLiteral",
-      "offset": 865,
+      "offset": 849,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/ArtistDetailsVC\/ArtistDetailsVC.swift",
       "kind": "Array",
-      "offset": 927,
+      "offset": 911,
       "length": 2,
       "value": "[]"
     },
@@ -47863,43 +47950,50 @@
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1237,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1405,
+      "offset": 1437,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVC.swift",
       "kind": "Array",
-      "offset": 3141,
+      "offset": 3173,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 3166,
+      "offset": 3198,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3193,
+      "offset": 3225,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 3536,
+      "offset": 3568,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 20691,
+      "offset": 20725,
       "length": 5,
       "value": "false"
     },
@@ -50739,6 +50833,13 @@
       "value": "1.0"
     },
     {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/Ryze.swift",
+      "kind": "BooleanLiteral",
+      "offset": 213,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Library\/Alamofire\/Session.swift",
       "kind": "Array",
       "offset": 4429,
@@ -53513,7 +53614,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Core\/RYZEWrapper.swift",
       "kind": "StringLiteral",
-      "offset": 27351,
+      "offset": 27465,
       "length": 24,
       "value": "\"SDK initialises failed\""
     },

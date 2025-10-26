@@ -366,6 +366,12 @@ public class HubConnection {
   @objc final public var config: Shadhin_RYZE.ShadhinRyzeConfig
   public static let shared: Shadhin_RYZE.ShadhinRyze
   final public var musicPlayerVisibleState: Swift.Bool
+  final public var isPlayingMusinc: Swift.Bool {
+    get
+  }
+  final public var isCreatedPopUpBar: Swift.Bool {
+    get
+  }
   final public var onPlayerVisibilityChanged: ((Swift.Bool) -> Swift.Void)?
   @objc deinit
   final public var shouldOpenPlayer: Swift.Bool
@@ -394,8 +400,8 @@ public class HubConnection {
   @objc final public func pauseMusic()
   @objc final public func playMusic()
   @objc final public func setMusicPlayerVisibility(isVisibility: Swift.Bool, duration: CoreFoundation.CGFloat = 0.0, isWillDisapper: Swift.Bool = false)
-  @objc final public func reCreatePlayer(animate: Swift.Bool = true)
-  @objc final public func dimissMusicPopupBar()
+  @objc final public func reCreatePlayer(tabbarController: UIKit.UITabBarController)
+  @objc final public func dimissMusicPopupBar(tabbarController: UIKit.UITabBarController)
   @objc final public func getMusicPlayerVisibility() -> Swift.Bool
   #if compiler(>=5.3) && $NonescapableTypes
   @objc final public func setSessionPulesTimer(second: Swift.Double) -> Swift.String?
