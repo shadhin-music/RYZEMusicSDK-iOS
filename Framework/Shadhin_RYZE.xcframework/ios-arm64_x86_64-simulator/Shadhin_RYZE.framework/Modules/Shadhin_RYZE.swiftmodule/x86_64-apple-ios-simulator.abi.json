@@ -46306,56 +46306,56 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 10916,
+      "offset": 10910,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 11302,
+      "offset": 11296,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "Array",
-      "offset": 14025,
+      "offset": 14019,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 19632,
+      "offset": 19626,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 21104,
+      "offset": 21098,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 23852,
+      "offset": 23846,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 29588,
+      "offset": 29221,
       "length": 18,
       "value": "\"Congratulations!\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 29628,
+      "offset": 29261,
       "length": 49,
       "value": "\"Plan purchase request is successfully submitted\""
     },
@@ -47993,7 +47993,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/MusicPlayerVC\/MusicPlayerVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 20725,
+      "offset": 20557,
       "length": 5,
       "value": "false"
     },
