@@ -46348,14 +46348,14 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 29166,
+      "offset": 29121,
       "length": 18,
       "value": "\"Congratulations!\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Pattarn\/MainCoordinator.swift",
       "kind": "StringLiteral",
-      "offset": 29206,
+      "offset": 29161,
       "length": 49,
       "value": "\"Plan purchase request is successfully submitted\""
     },
@@ -46692,265 +46692,272 @@
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
       "offset": 728,
-      "length": 69,
-      "value": "\"https:\/\/api.payment-app.info\/bkash\/checkout\/create_checkout_session\""
+      "length": 41,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 917,
+      "offset": 747,
+      "length": 1,
+      "value": "\"\/payment\/init-payment\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
+      "kind": "StringLiteral",
+      "offset": 889,
       "length": 33,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 929,
+      "offset": 901,
       "length": 1,
       "value": "\"\/Payment\/CheckStatus\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 996,
+      "offset": 968,
       "length": 50,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1012,
+      "offset": 984,
       "length": 1,
       "value": "\"\/checkout\/create-checkout-session\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1091,
+      "offset": 1063,
       "length": 50,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1107,
+      "offset": 1079,
       "length": 1,
       "value": "\"\/checkout\/verify-checkout-session\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1190,
+      "offset": 1162,
       "length": 72,
       "value": "\"https:\/\/api.payment-app.info\/banglalink\/billing\/v2\/cancel-subscription\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1312,
+      "offset": 1284,
       "length": 64,
       "value": "\"https:\/\/api.payment-app.info\/bkash\/billing\/cancel_subscription\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1427,
+      "offset": 1395,
       "length": 45,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1442,
+      "offset": 1410,
       "length": 1,
       "value": "\"\/payment\/subscription-details\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1520,
+      "offset": 1488,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1570,
+      "offset": 1538,
       "length": 39,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1588,
+      "offset": 1556,
       "length": 1,
       "value": "\"\/api\/bkpaycancelsubs\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1656,
+      "offset": 1624,
       "length": 30,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1668,
+      "offset": 1636,
       "length": 1,
       "value": "\"\/Payment\/OnCancel\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1730,
+      "offset": 1698,
       "length": 37,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1748,
+      "offset": 1716,
       "length": 1,
       "value": "\"\/api\/bkpaymentinfo\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1815,
+      "offset": 1783,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1833,
+      "offset": 1801,
       "length": 1,
       "value": "\"\/api\/bksubscriptioninfo\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1907,
+      "offset": 1875,
       "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 1925,
+      "offset": 1893,
       "length": 1,
       "value": "\"\/api\/bkpaymenthistoryuser\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2008,
+      "offset": 1976,
       "length": 47,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2027,
+      "offset": 1995,
       "length": 1,
       "value": "\"\/payment\/check-subscription\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2170,
+      "offset": 2138,
       "length": 62,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2188,
+      "offset": 2156,
       "length": 1,
       "value": "\"\/api\/bksubsinforeqid\/?subreqid=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2231,
+      "offset": 2199,
       "length": 11,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2356,
+      "offset": 2324,
       "length": 58,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2374,
+      "offset": 2342,
       "length": 1,
       "value": "\"\/api\/bkpaymentinfosid\/?subsid=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2413,
+      "offset": 2381,
       "length": 11,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2536,
+      "offset": 2504,
       "length": 56,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2554,
+      "offset": 2522,
       "length": 1,
       "value": "\"\/api\/bkpaymentinfopid\/?payid=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2591,
+      "offset": 2559,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2731,
+      "offset": 2699,
       "length": 77,
       "value": "\"https:\/\/api.shadhinmusic.com\/api\/v5\/payment\/porducts?userType=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2807,
+      "offset": 2775,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 2950,
+      "offset": 2918,
       "length": 81,
       "value": "\"https:\/\/blmusic.shadhinmusic.com\/api\/v1\/payment\/products?userType=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 3030,
+      "offset": 2998,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Bkash.swift",
       "kind": "StringLiteral",
-      "offset": 6605,
+      "offset": 6573,
       "length": 2,
       "value": "\"\""
     },
