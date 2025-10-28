@@ -1,0 +1,11 @@
+framework module Shadhin_RYZE {
+  umbrella header "Shadhin_RYZE.h"
+  export *
+
+  module * { export * }
+}
+
+module Shadhin_RYZE.Swift {
+  header "Shadhin_RYZE-Swift.h"
+  requires objc
+}
