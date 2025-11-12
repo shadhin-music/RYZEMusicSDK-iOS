@@ -8081,533 +8081,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Shadhin_RYZE",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Shadhin_RYZE"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "OTPAnimationTypes",
-        "printedName": "OTPAnimationTypes",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "flipFromRight",
-            "printedName": "flipFromRight",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OTPAnimationTypes",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OTPAnimationTypes",
-                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO13flipFromRightyA2CmF",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO13flipFromRightyA2CmF",
-            "moduleName": "Shadhin_RYZE"
-          },
-          {
-            "kind": "Var",
-            "name": "flipFromLeft",
-            "printedName": "flipFromLeft",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OTPAnimationTypes",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OTPAnimationTypes",
-                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO12flipFromLeftyA2CmF",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO12flipFromLeftyA2CmF",
-            "moduleName": "Shadhin_RYZE"
-          },
-          {
-            "kind": "Var",
-            "name": "flash",
-            "printedName": "flash",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OTPAnimationTypes",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OTPAnimationTypes",
-                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO5flashyA2CmF",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO5flashyA2CmF",
-            "moduleName": "Shadhin_RYZE"
-          },
-          {
-            "kind": "Var",
-            "name": "shake",
-            "printedName": "shake",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OTPAnimationTypes",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OTPAnimationTypes",
-                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO5shakeyA2CmF",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO5shakeyA2CmF",
-            "moduleName": "Shadhin_RYZE"
-          },
-          {
-            "kind": "Var",
-            "name": "rotate",
-            "printedName": "rotate",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OTPAnimationTypes",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OTPAnimationTypes",
-                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO6rotateyA2CmF",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO6rotateyA2CmF",
-            "moduleName": "Shadhin_RYZE"
-          },
-          {
-            "kind": "Var",
-            "name": "expand",
-            "printedName": "expand",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OTPAnimationTypes",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OTPAnimationTypes",
-                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO6expandyA2CmF",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO6expandyA2CmF",
-            "moduleName": "Shadhin_RYZE"
-          },
-          {
-            "kind": "Var",
-            "name": "crossDissolve",
-            "printedName": "crossDissolve",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OTPAnimationTypes",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OTPAnimationTypes",
-                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO13crossDissolveyA2CmF",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO13crossDissolveyA2CmF",
-            "moduleName": "Shadhin_RYZE"
-          },
-          {
-            "kind": "Var",
-            "name": "curlDown",
-            "printedName": "curlDown",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OTPAnimationTypes",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OTPAnimationTypes",
-                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO8curlDownyA2CmF",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO8curlDownyA2CmF",
-            "moduleName": "Shadhin_RYZE"
-          },
-          {
-            "kind": "Var",
-            "name": "curlUp",
-            "printedName": "curlUp",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OTPAnimationTypes",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OTPAnimationTypes",
-                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO6curlUpyA2CmF",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO6curlUpyA2CmF",
-            "moduleName": "Shadhin_RYZE"
-          },
-          {
-            "kind": "Var",
-            "name": "none",
-            "printedName": "none",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "OTPAnimationTypes",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OTPAnimationTypes",
-                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO4noneyA2CmF",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO4noneyA2CmF",
-            "moduleName": "Shadhin_RYZE"
-          },
-          {
-            "kind": "Function",
-            "name": "==",
-            "printedName": "==(_:_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "OTPAnimationTypes",
-                "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "OTPAnimationTypes",
-                "printedName": "Shadhin_RYZE.OTPAnimationTypes",
-                "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO2eeoiySbAC_ACtFZ",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO2eeoiySbAC_ACtFZ",
-            "moduleName": "Shadhin_RYZE",
-            "static": true,
-            "implicit": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Var",
-            "name": "hashValue",
-            "printedName": "hashValue",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO9hashValueSivp",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO9hashValueSivp",
-            "moduleName": "Shadhin_RYZE",
-            "implicit": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO9hashValueSivg",
-                "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO9hashValueSivg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "hash",
-            "printedName": "hash(into:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Hasher",
-                "printedName": "Swift.Hasher",
-                "paramValueOwnership": "InOut",
-                "usr": "s:s6HasherV"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO4hash4intoys6HasherVz_tF",
-            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO4hash4intoys6HasherVz_tF",
-            "moduleName": "Shadhin_RYZE",
-            "implicit": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Enum",
-        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO",
-        "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO",
-        "moduleName": "Shadhin_RYZE",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -16643,23 +16116,6 @@
       },
       {
         "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "Shadhin_RYZE",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Shadhin_RYZE"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -16746,16 +16202,6 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Shadhin_RYZE",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "Shadhin_RYZE",
         "declAttributes": [
@@ -19224,23 +18670,6 @@
         "kind": "Import",
         "name": "CoreData",
         "printedName": "CoreData",
-        "declKind": "Import",
-        "moduleName": "Shadhin_RYZE"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Shadhin_RYZE",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "Shadhin_RYZE"
       },
@@ -24809,6 +24238,530 @@
         "moduleName": "Shadhin_RYZE",
         "declAttributes": [
           "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Shadhin_RYZE"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Shadhin_RYZE"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "OTPAnimationTypes",
+        "printedName": "OTPAnimationTypes",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "flipFromRight",
+            "printedName": "flipFromRight",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTPAnimationTypes",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OTPAnimationTypes",
+                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO13flipFromRightyA2CmF",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO13flipFromRightyA2CmF",
+            "moduleName": "Shadhin_RYZE"
+          },
+          {
+            "kind": "Var",
+            "name": "flipFromLeft",
+            "printedName": "flipFromLeft",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTPAnimationTypes",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OTPAnimationTypes",
+                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO12flipFromLeftyA2CmF",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO12flipFromLeftyA2CmF",
+            "moduleName": "Shadhin_RYZE"
+          },
+          {
+            "kind": "Var",
+            "name": "flash",
+            "printedName": "flash",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTPAnimationTypes",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OTPAnimationTypes",
+                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO5flashyA2CmF",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO5flashyA2CmF",
+            "moduleName": "Shadhin_RYZE"
+          },
+          {
+            "kind": "Var",
+            "name": "shake",
+            "printedName": "shake",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTPAnimationTypes",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OTPAnimationTypes",
+                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO5shakeyA2CmF",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO5shakeyA2CmF",
+            "moduleName": "Shadhin_RYZE"
+          },
+          {
+            "kind": "Var",
+            "name": "rotate",
+            "printedName": "rotate",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTPAnimationTypes",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OTPAnimationTypes",
+                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO6rotateyA2CmF",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO6rotateyA2CmF",
+            "moduleName": "Shadhin_RYZE"
+          },
+          {
+            "kind": "Var",
+            "name": "expand",
+            "printedName": "expand",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTPAnimationTypes",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OTPAnimationTypes",
+                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO6expandyA2CmF",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO6expandyA2CmF",
+            "moduleName": "Shadhin_RYZE"
+          },
+          {
+            "kind": "Var",
+            "name": "crossDissolve",
+            "printedName": "crossDissolve",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTPAnimationTypes",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OTPAnimationTypes",
+                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO13crossDissolveyA2CmF",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO13crossDissolveyA2CmF",
+            "moduleName": "Shadhin_RYZE"
+          },
+          {
+            "kind": "Var",
+            "name": "curlDown",
+            "printedName": "curlDown",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTPAnimationTypes",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OTPAnimationTypes",
+                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO8curlDownyA2CmF",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO8curlDownyA2CmF",
+            "moduleName": "Shadhin_RYZE"
+          },
+          {
+            "kind": "Var",
+            "name": "curlUp",
+            "printedName": "curlUp",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTPAnimationTypes",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OTPAnimationTypes",
+                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO6curlUpyA2CmF",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO6curlUpyA2CmF",
+            "moduleName": "Shadhin_RYZE"
+          },
+          {
+            "kind": "Var",
+            "name": "none",
+            "printedName": "none",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Shadhin_RYZE.OTPAnimationTypes.Type) -> Shadhin_RYZE.OTPAnimationTypes",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OTPAnimationTypes",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                    "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Shadhin_RYZE.OTPAnimationTypes.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OTPAnimationTypes",
+                        "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO4noneyA2CmF",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO4noneyA2CmF",
+            "moduleName": "Shadhin_RYZE"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "OTPAnimationTypes",
+                "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "OTPAnimationTypes",
+                "printedName": "Shadhin_RYZE.OTPAnimationTypes",
+                "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO2eeoiySbAC_ACtFZ",
+            "moduleName": "Shadhin_RYZE",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO9hashValueSivp",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO9hashValueSivp",
+            "moduleName": "Shadhin_RYZE",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO9hashValueSivg",
+                "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO9hashValueSivg",
+                "moduleName": "Shadhin_RYZE",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO4hash4intoys6HasherVz_tF",
+            "moduleName": "Shadhin_RYZE",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:12Shadhin_RYZE17OTPAnimationTypesO",
+        "mangledName": "$s12Shadhin_RYZE17OTPAnimationTypesO",
+        "moduleName": "Shadhin_RYZE",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
         ]
       },
       {
@@ -32391,23 +32344,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Shadhin_RYZE",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Shadhin_RYZE"
-      },
-      {
-        "kind": "Import",
         "name": "MediaPlayer",
         "printedName": "MediaPlayer",
         "declKind": "Import",
@@ -36400,1294 +36336,6 @@
         "moduleName": "Shadhin_RYZE",
         "declAttributes": [
           "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "Shadhin_RYZE",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Shadhin_RYZE"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "OTPStackView",
-        "printedName": "OTPStackView",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "numberOfFields",
-            "printedName": "numberOfFields",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC14numberOfFieldsSivp",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC14numberOfFieldsSivp",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC14numberOfFieldsSivg",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC14numberOfFieldsSivg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC14numberOfFieldsSivs",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC14numberOfFieldsSivs",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC14numberOfFieldsSivM",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC14numberOfFieldsSivM",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "showsWarningColor",
-            "printedName": "showsWarningColor",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC17showsWarningColorSbvp",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC17showsWarningColorSbvp",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC17showsWarningColorSbvg",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC17showsWarningColorSbvg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC17showsWarningColorSbvs",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC17showsWarningColorSbvs",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC17showsWarningColorSbvM",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC17showsWarningColorSbvM",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "borderWid",
-            "printedName": "borderWid",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC9borderWid14CoreFoundation7CGFloatVvp",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9borderWid12CoreGraphics7CGFloatVvp",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGFloat",
-                    "printedName": "CoreGraphics.CGFloat",
-                    "usr": "s:14CoreFoundation7CGFloatV"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC9borderWid14CoreFoundation7CGFloatVvg",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9borderWid12CoreGraphics7CGFloatVvg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGFloat",
-                    "printedName": "CoreGraphics.CGFloat",
-                    "usr": "s:14CoreFoundation7CGFloatV"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC9borderWid14CoreFoundation7CGFloatVvs",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9borderWid12CoreGraphics7CGFloatVvs",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC9borderWid14CoreFoundation7CGFloatVvM",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9borderWid12CoreGraphics7CGFloatVvM",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "tfCornerRadius",
-            "printedName": "tfCornerRadius",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC14tfCornerRadiusSivp",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC14tfCornerRadiusSivp",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC14tfCornerRadiusSivg",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC14tfCornerRadiusSivg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC14tfCornerRadiusSivs",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC14tfCornerRadiusSivs",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC14tfCornerRadiusSivM",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC14tfCornerRadiusSivM",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "tfSpacing",
-            "printedName": "tfSpacing",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC9tfSpacingSivp",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9tfSpacingSivp",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC9tfSpacingSivg",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9tfSpacingSivg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC9tfSpacingSivs",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9tfSpacingSivs",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC9tfSpacingSivM",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9tfSpacingSivM",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "textFont",
-            "printedName": "textFont",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIFont?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIFont",
-                    "printedName": "UIKit.UIFont",
-                    "usr": "c:objc(cs)UIFont"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC8textFontSo6UIFontCSgvp",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC8textFontSo6UIFontCSgvp",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "UIKit.UIFont?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "UIFont",
-                        "printedName": "UIKit.UIFont",
-                        "usr": "c:objc(cs)UIFont"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC8textFontSo6UIFontCSgvg",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC8textFontSo6UIFontCSgvg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "UIKit.UIFont?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "UIFont",
-                        "printedName": "UIKit.UIFont",
-                        "usr": "c:objc(cs)UIFont"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC8textFontSo6UIFontCSgvs",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC8textFontSo6UIFontCSgvs",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC8textFontSo6UIFontCSgvM",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC8textFontSo6UIFontCSgvM",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "inactiveFieldBorderColor",
-            "printedName": "inactiveFieldBorderColor",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIColor",
-                "printedName": "UIKit.UIColor",
-                "usr": "c:objc(cs)UIColor"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC24inactiveFieldBorderColorSo7UIColorCvp",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC24inactiveFieldBorderColorSo7UIColorCvp",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIColor",
-                    "printedName": "UIKit.UIColor",
-                    "usr": "c:objc(cs)UIColor"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC24inactiveFieldBorderColorSo7UIColorCvg",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC24inactiveFieldBorderColorSo7UIColorCvg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIColor",
-                    "printedName": "UIKit.UIColor",
-                    "usr": "c:objc(cs)UIColor"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC24inactiveFieldBorderColorSo7UIColorCvs",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC24inactiveFieldBorderColorSo7UIColorCvs",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC24inactiveFieldBorderColorSo7UIColorCvM",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC24inactiveFieldBorderColorSo7UIColorCvM",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "textBackgroundColor",
-            "printedName": "textBackgroundColor",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIColor",
-                "printedName": "UIKit.UIColor",
-                "usr": "c:objc(cs)UIColor"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC19textBackgroundColorSo7UIColorCvp",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC19textBackgroundColorSo7UIColorCvp",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIColor",
-                    "printedName": "UIKit.UIColor",
-                    "usr": "c:objc(cs)UIColor"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC19textBackgroundColorSo7UIColorCvg",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC19textBackgroundColorSo7UIColorCvg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIColor",
-                    "printedName": "UIKit.UIColor",
-                    "usr": "c:objc(cs)UIColor"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC19textBackgroundColorSo7UIColorCvs",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC19textBackgroundColorSo7UIColorCvs",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC19textBackgroundColorSo7UIColorCvM",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC19textBackgroundColorSo7UIColorCvM",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "textColor",
-            "printedName": "textColor",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIColor",
-                "printedName": "UIKit.UIColor",
-                "usr": "c:objc(cs)UIColor"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC9textColorSo7UIColorCvp",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9textColorSo7UIColorCvp",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIColor",
-                    "printedName": "UIKit.UIColor",
-                    "usr": "c:objc(cs)UIColor"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC9textColorSo7UIColorCvg",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9textColorSo7UIColorCvg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIColor",
-                    "printedName": "UIKit.UIColor",
-                    "usr": "c:objc(cs)UIColor"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC9textColorSo7UIColorCvs",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9textColorSo7UIColorCvs",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC9textColorSo7UIColorCvM",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9textColorSo7UIColorCvM",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "activeFieldBorderColor",
-            "printedName": "activeFieldBorderColor",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIColor",
-                "printedName": "UIKit.UIColor",
-                "usr": "c:objc(cs)UIColor"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC22activeFieldBorderColorSo7UIColorCvp",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC22activeFieldBorderColorSo7UIColorCvp",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIColor",
-                    "printedName": "UIKit.UIColor",
-                    "usr": "c:objc(cs)UIColor"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC22activeFieldBorderColorSo7UIColorCvg",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC22activeFieldBorderColorSo7UIColorCvg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIColor",
-                    "printedName": "UIKit.UIColor",
-                    "usr": "c:objc(cs)UIColor"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC22activeFieldBorderColorSo7UIColorCvs",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC22activeFieldBorderColorSo7UIColorCvs",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC22activeFieldBorderColorSo7UIColorCvM",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC22activeFieldBorderColorSo7UIColorCvM",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "isBottomLineEnabled",
-            "printedName": "isBottomLineEnabled",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC19isBottomLineEnabledSbvp",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC19isBottomLineEnabledSbvp",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC19isBottomLineEnabledSbvg",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC19isBottomLineEnabledSbvg",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC19isBottomLineEnabledSbvs",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC19isBottomLineEnabledSbvs",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:12Shadhin_RYZE12OTPStackViewC19isBottomLineEnabledSbvM",
-                "mangledName": "$s12Shadhin_RYZE12OTPStackViewC19isBottomLineEnabledSbvM",
-                "moduleName": "Shadhin_RYZE",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "setupStackView",
-            "printedName": "setupStackView()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC010setupStackD0yyF",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC010setupStackD0yyF",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "Final",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "addOTPFields",
-            "printedName": "addOTPFields()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:12Shadhin_RYZE12OTPStackViewC12addOTPFieldsyyF",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC12addOTPFieldsyyF",
-            "moduleName": "Shadhin_RYZE",
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "Final",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "textFieldDidBeginEditing",
-            "printedName": "textFieldDidBeginEditing(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UITextField",
-                "printedName": "UIKit.UITextField",
-                "usr": "c:objc(cs)UITextField"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@Shadhin_RYZE@objc(cs)OTPStackView(im)textFieldDidBeginEditing:",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC24textFieldDidBeginEditingyySo06UITextF0CF",
-            "moduleName": "Shadhin_RYZE",
-            "objc_name": "textFieldDidBeginEditing:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "textFieldDidEndEditing",
-            "printedName": "textFieldDidEndEditing(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UITextField",
-                "printedName": "UIKit.UITextField",
-                "usr": "c:objc(cs)UITextField"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@Shadhin_RYZE@objc(cs)OTPStackView(im)textFieldDidEndEditing:",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC22textFieldDidEndEditingyySo06UITextF0CF",
-            "moduleName": "Shadhin_RYZE",
-            "objc_name": "textFieldDidEndEditing:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "textField",
-            "printedName": "textField(_:shouldChangeCharactersIn:replacementString:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UITextField",
-                "printedName": "UIKit.UITextField",
-                "usr": "c:objc(cs)UITextField"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "_NSRange",
-                "printedName": "Foundation._NSRange",
-                "usr": "c:@S@_NSRange"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@Shadhin_RYZE@objc(cs)OTPStackView(im)textField:shouldChangeCharactersInRange:replacementString:",
-            "mangledName": "$s12Shadhin_RYZE12OTPStackViewC9textField_24shouldChangeCharactersIn17replacementStringSbSo06UITextF0C_So8_NSRangeVSStF",
-            "moduleName": "Shadhin_RYZE",
-            "objc_name": "textField:shouldChangeCharactersInRange:replacementString:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@Shadhin_RYZE@objc(cs)OTPStackView",
-        "mangledName": "$s12Shadhin_RYZE12OTPStackViewC",
-        "moduleName": "Shadhin_RYZE",
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIStackView",
-        "hasMissingDesignatedInitializers": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIStackView",
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "SendableMetatype",
-            "printedName": "SendableMetatype",
-            "usr": "s:s16SendableMetatypeP",
-            "mangledName": "$ss16SendableMetatypeP"
-          }
         ]
       },
       {
@@ -45963,35 +44611,14 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Login.swift",
       "kind": "StringLiteral",
-      "offset": 197,
-      "length": 383,
-      "value": "\"Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkJlYXJlciJ9.eyJjbGllbnQiOiJNWUJMIiwiZnVsbE5hbWUiOiIiLCJtc2lzZG4iOiI4ODAxOTYwNjg1OTM1IiwiaW1hZ2VVUkwiOiIiLCJnZW5kZXIiOiIiLCJkZXZpY2VUb2tlbiI6IiIsIm5iZiI6MTY2NDY5MTI5OCwiZXhwIjoxNjY0NzcwOTQzLCJpYXQiOjE2NjQ2OTEyOTgsImlzcyI6IkJMTVVTSUMgIiwiYXVkIjoiU2hhZGhpbiAifQ.K-wFPctr7iqhEhEck-q-kLYLbuCXGO3_OcKSsGY-TGY-EatCne6zARMmSPgu3vrvWVXkTh4SIbyUcPzQZlT8sA\""
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Login.swift",
-      "kind": "StringLiteral",
-      "offset": 691,
-      "length": 24,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Login.swift",
-      "kind": "StringLiteral",
-      "offset": 703,
-      "length": 1,
-      "value": "\"\/mybl\/Login\""
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Login.swift",
-      "kind": "StringLiteral",
-      "offset": 759,
+      "offset": 300,
       "length": 27,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Login.swift",
       "kind": "StringLiteral",
-      "offset": 774,
+      "offset": 315,
       "length": 1,
       "value": "\"\/user\/login\""
     },
@@ -49316,16 +47943,198 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
       "kind": "StringLiteral",
-      "offset": 474,
-      "length": 17,
-      "value": "\"MonthlyListener\""
+      "offset": 330,
+      "length": 9,
+      "value": "\"Message\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
       "kind": "StringLiteral",
-      "offset": 1171,
-      "length": 17,
-      "value": "\"MonthlyListener\""
+      "offset": 363,
+      "length": 9,
+      "value": "\"Success\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 401,
+      "length": 14,
+      "value": "\"ResponseCode\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 436,
+      "length": 6,
+      "value": "\"Data\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 758,
+      "length": 24,
+      "value": "\"CampaignDetailsBlMusic\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 815,
+      "length": 24,
+      "value": "\"CampaignSegmentBlMusic\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 876,
+      "length": 22,
+      "value": "\"UserStreamingDetails\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 939,
+      "length": 26,
+      "value": "\"UserStreamingDetailsList\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1203,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1228,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1257,
+      "length": 8,
+      "value": "\"Prefix\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1287,
+      "length": 7,
+      "value": "\"IsDay\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1320,
+      "length": 11,
+      "value": "\"StartDate\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1355,
+      "length": 9,
+      "value": "\"EndDate\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1640,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1665,
+      "length": 6,
+      "value": "\"Name\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1696,
+      "length": 10,
+      "value": "\"IsActive\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1740,
+      "length": 19,
+      "value": "\"CampaignDetailsId\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1794,
+      "length": 20,
+      "value": "\"CampaignProviderId\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1850,
+      "length": 21,
+      "value": "\"CampaignSegmentDate\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2076,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2106,
+      "length": 11,
+      "value": "\"StartDate\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2141,
+      "length": 9,
+      "value": "\"EndDate\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2184,
+      "length": 19,
+      "value": "\"CampaignSegmentId\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2415,
+      "length": 10,
+      "value": "\"UserRank\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2448,
+      "length": 8,
+      "value": "\"Msisdn\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2486,
+      "length": 15,
+      "value": "\"TimeInSeconds\""
+    },
+    {
+      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Model\/UserRankingResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 2529,
+      "length": 13,
+      "value": "\"CurrentUser\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Common\/BLRadioView.swift",
@@ -51766,7 +50575,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/Top3RankCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2725,
+      "offset": 2724,
       "length": 1,
       "value": "0"
     },
@@ -54496,28 +53305,28 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Utility\/Enums.swift",
       "kind": "IntegerLiteral",
-      "offset": 266,
+      "offset": 298,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Utility\/Enums.swift",
       "kind": "IntegerLiteral",
-      "offset": 286,
+      "offset": 318,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Utility\/Enums.swift",
       "kind": "IntegerLiteral",
-      "offset": 307,
+      "offset": 339,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/Utility\/Enums.swift",
       "kind": "IntegerLiteral",
-      "offset": 318,
+      "offset": 350,
       "length": 7,
       "value": "4"
     },
@@ -58262,14 +57071,14 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/TopPlayerCell.swift",
       "kind": "Array",
-      "offset": 951,
+      "offset": 972,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/TopPlayerCell.swift",
       "kind": "Array",
-      "offset": 1006,
+      "offset": 1029,
       "length": 2,
       "value": "[]"
     },
@@ -58521,112 +57330,112 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 318,
+      "offset": 611,
       "length": 96,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 330,
+      "offset": 623,
       "length": 1,
       "value": "\"\/ClientLeaderboard\/UserStreamingDetails?campaignType=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 398,
+      "offset": 691,
       "length": 1,
       "value": "\"&onDate=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 413,
+      "offset": 706,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 616,
+      "offset": 913,
       "length": 128,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 628,
+      "offset": 925,
       "length": 1,
       "value": "\"\/ClientLeaderboard\/LeaderboardInfo?campaignType=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 691,
+      "offset": 988,
       "length": 1,
       "value": "\"&numberOfResults=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 726,
+      "offset": 1023,
       "length": 1,
       "value": "\"&onDate=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 743,
+      "offset": 1040,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 850,
+      "offset": 1147,
       "length": 83,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 862,
+      "offset": 1159,
       "length": 1,
       "value": "\"\/CampaignSchedule\/CampaignScheduleDetails?campaignName=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 932,
+      "offset": 1229,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 1064,
+      "offset": 1353,
       "length": 97,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 1076,
+      "offset": 1365,
       "length": 1,
       "value": "\"\/ClientLeaderboard\/UserStreamingDetailsNew?campaignType=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 1145,
+      "offset": 1434,
       "length": 1,
       "value": "\"&onDate=\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/APIService\/APIServiceCore+Leaderboard.swift",
       "kind": "StringLiteral",
-      "offset": 1160,
+      "offset": 1449,
       "length": 1,
       "value": "\"\""
     },
@@ -59487,189 +58296,189 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 212,
+      "offset": 211,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 248,
+      "offset": 247,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 293,
+      "offset": 292,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "StringLiteral",
-      "offset": 329,
+      "offset": 328,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 422,
+      "offset": 421,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 505,
+      "offset": 504,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 709,
+      "offset": 708,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 719,
+      "offset": 718,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 728,
+      "offset": 727,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 738,
+      "offset": 737,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "StringLiteral",
-      "offset": 808,
+      "offset": 807,
       "length": 11,
       "value": "\"tintColor\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "FloatLiteral",
-      "offset": 843,
+      "offset": 842,
       "length": 12,
       "value": "0.5568627715"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "FloatLiteral",
-      "offset": 864,
+      "offset": 863,
       "length": 12,
       "value": "0.3529411852"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "FloatLiteral",
-      "offset": 884,
+      "offset": 883,
       "length": 12,
       "value": "0.9686274529"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 905,
+      "offset": 904,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "BooleanLiteral",
-      "offset": 969,
+      "offset": 968,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1023,
+      "offset": 1022,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1142,
+      "offset": 1141,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "BooleanLiteral",
-      "offset": 1277,
+      "offset": 1276,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "BooleanLiteral",
-      "offset": 1359,
+      "offset": 1358,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "BooleanLiteral",
-      "offset": 1494,
+      "offset": 1493,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "FloatLiteral",
-      "offset": 1554,
+      "offset": 1553,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "FloatLiteral",
-      "offset": 1603,
+      "offset": 1602,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "IntegerLiteral",
-      "offset": 1657,
+      "offset": 1656,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "BooleanLiteral",
-      "offset": 1726,
+      "offset": 1725,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "StringLiteral",
-      "offset": 1861,
+      "offset": 1860,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPField.swift",
       "kind": "BooleanLiteral",
-      "offset": 1896,
+      "offset": 1895,
       "length": 5,
       "value": "false"
     },
@@ -61489,7 +60298,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/LeaderBoardVC.swift",
       "kind": "Array",
-      "offset": 449,
+      "offset": 428,
       "length": 2,
       "value": "[]"
     },
@@ -61797,91 +60606,7 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/LeaderBoardVM.swift",
       "kind": "BooleanLiteral",
-      "offset": 734,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "IntegerLiteral",
-      "offset": 207,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "IntegerLiteral",
-      "offset": 243,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "IntegerLiteral",
-      "offset": 289,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "StringLiteral",
-      "offset": 326,
-      "length": 3,
-      "value": "\"_\""
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "IntegerLiteral",
-      "offset": 416,
-      "length": 2,
-      "value": "30"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "IntegerLiteral",
-      "offset": 496,
-      "length": 2,
-      "value": "40"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "BooleanLiteral",
-      "offset": 810,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "IntegerLiteral",
-      "offset": 865,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "IntegerLiteral",
-      "offset": 986,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1122,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1204,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPField\/OTPFieldBuilder.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1373,
+      "offset": 802,
       "length": 4,
       "value": "true"
     },
@@ -62574,168 +61299,168 @@
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1037,
+      "offset": 1039,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1049,
+      "offset": 1051,
       "length": 5,
       "value": "0.275"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1062,
+      "offset": 1064,
       "length": 5,
       "value": "0.275"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1075,
+      "offset": 1077,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1131,
+      "offset": 1133,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1143,
+      "offset": 1145,
       "length": 5,
       "value": "0.275"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1156,
+      "offset": 1158,
       "length": 5,
       "value": "0.275"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1169,
+      "offset": 1171,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1228,
+      "offset": 1230,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1238,
+      "offset": 1240,
       "length": 5,
       "value": "0.737"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1251,
+      "offset": 1253,
       "length": 5,
       "value": "0.737"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1265,
+      "offset": 1267,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1347,
+      "offset": 1349,
       "length": 5,
       "value": "0.459"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1361,
+      "offset": 1363,
       "length": 5,
       "value": "0.459"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1374,
+      "offset": 1376,
       "length": 5,
       "value": "0.459"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1388,
+      "offset": 1390,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1442,
+      "offset": 1444,
       "length": 5,
       "value": "0.459"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1456,
+      "offset": 1458,
       "length": 5,
       "value": "0.459"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1469,
+      "offset": 1471,
       "length": 5,
       "value": "0.459"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1483,
+      "offset": 1485,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1541,
+      "offset": 1543,
       "length": 5,
       "value": "0.933"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1555,
+      "offset": 1557,
       "length": 5,
       "value": "0.933"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "FloatLiteral",
-      "offset": 1568,
+      "offset": 1570,
       "length": 5,
       "value": "0.933"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/LeaderBoardVC\/Cell\/DateCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1582,
+      "offset": 1584,
       "length": 1,
       "value": "1"
     },
@@ -63242,83 +61967,6 @@
       "offset": 3329,
       "length": 4,
       "value": "\"PD\""
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPStackView\/OTPStackView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 359,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPStackView\/OTPStackView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 396,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPStackView\/OTPStackView.swift",
-      "kind": "FloatLiteral",
-      "offset": 438,
-      "length": 3,
-      "value": "2.0"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPStackView\/OTPStackView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 474,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPStackView\/OTPStackView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 503,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPStackView\/OTPStackView.swift",
-      "kind": "StringLiteral",
-      "offset": 544,
-      "length": 6,
-      "value": "\"Kefa\""
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPStackView\/OTPStackView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 558,
-      "length": 2,
-      "value": "40"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPStackView\/OTPStackView.swift",
-      "kind": "Array",
-      "offset": 600,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPStackView\/OTPStackView.swift",
-      "kind": "Array",
-      "offset": 650,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPStackView\/OTPStackView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 945,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/View\/OTPVerifyPopupView\/OTP\/OTPStackView\/OTPStackView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4339,
-      "length": 5,
-      "value": "false"
     },
     {
       "filePath": "\/Users\/macbookpro\/Desktop\/Office work\/RYZE\/RYZEMusicSDKiOSNew\/Shadhin_RYZE\/ViewController\/SearchVC\/Cell\/ArtistSearchCell.swift",
