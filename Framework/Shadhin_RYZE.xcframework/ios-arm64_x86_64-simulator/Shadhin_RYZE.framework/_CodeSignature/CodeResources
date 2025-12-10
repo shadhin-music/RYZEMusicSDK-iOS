@@ -70,7 +70,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		lC/7aAD71/z7H5cS9YPD0f3N7ZE=
+		tkW5o0w/tVmmBlUrS5Zq3sjIcu4=
 		</data>
 		<key>AudioAdsView.nib</key>
 		<data>
@@ -354,7 +354,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2IE9x++qIr+EM5Uj4IN380TZEzI=
+		CsYCOP2/aO320c7axf9UIclBQOM=
 		</data>
 		<key>LatestReleaseWatchLaterVC.nib/objects-14.0+.nib</key>
 		<data>
@@ -394,7 +394,7 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		aG/C4Td/cvfN9CDLxQkC1KdNrnM=
+		P3AvuuM834TLgexRjgbYEPvWngI=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -410,11 +410,11 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		G8TrB+9cTIhVzRwj3EOV7dmWnRA=
+		r7/bp5F7Z74xG+NIbwxNDVF7S1g=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		aG/C4Td/cvfN9CDLxQkC1KdNrnM=
+		P3AvuuM834TLgexRjgbYEPvWngI=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -430,7 +430,7 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tZx/GHRwB5gbwMxGMxfgu55VMNQ=
+		Y8/0+pbOroenWaMA1a8zJIZo+iw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -522,7 +522,7 @@
 		</data>
 		<key>OfflineDatabase.momd/OfflineDatabase.mom</key>
 		<data>
-		wr+wDqj/jAYIbEe9rEq3sPPOEIo=
+		EQh/slWEVdzCUMHqLjOdtPFeGxc=
 		</data>
 		<key>OfflineDatabase.momd/OfflineDatabase.omo</key>
 		<data>
@@ -878,7 +878,7 @@
 		</data>
 		<key>Top3RankCell.nib</key>
 		<data>
-		kdjvLK4dMfWFfOuUc9deGhNpaeA=
+		DB5xPeBavjh5QbupI/NKdUv4SGE=
 		</data>
 		<key>TopArtistCell.nib</key>
 		<data>
@@ -886,7 +886,7 @@
 		</data>
 		<key>TopPlayerCell.nib</key>
 		<data>
-		JEMS/pVJvgna+rAFBEOmkwl+MH0=
+		FpU//NQW7RoX/yi3nnGf2JcMvUc=
 		</data>
 		<key>TopTrendingMusicVideoCell.nib</key>
 		<data>
@@ -1084,7 +1084,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yu8/aHdNC0QrrdOdg8rfhpj3G+Kk23lgVhj0tKEMeXg=
+			phZrf82QI7xWbXF6zvxSCR0SxEkN42NuRq2rymVtWAY=
 			</data>
 		</dict>
 		<key>AudioAdsView.nib</key>
@@ -1644,7 +1644,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D9e+kS3hfZZlHr5F68V6JKpaW1+1oa11IOgUnD7TGr4=
+			euyNMuRq6uHq2zECHgIpqO+Cp9q197K4DkX3IV+4IvI=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1672,14 +1672,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TIDvuecv5V1vqYr5y27F3ZtaUqyNDiZLtFZGel65KvI=
+			hUvrXNFAtY0EHilGS7UdquSY+SKCiPVL5BpY/tj405E=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D9e+kS3hfZZlHr5F68V6JKpaW1+1oa11IOgUnD7TGr4=
+			euyNMuRq6uHq2zECHgIpqO+Cp9q197K4DkX3IV+4IvI=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1707,7 +1707,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cYqSu+wRjfOEXkysQyhpT3i+8bcwFPVvl7OLZb4WZ5c=
+			sVy6VjBYQ16Yzi3Goigc+uUdav/cmqulpvPs7QYEu4U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1868,7 +1868,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5df9Kun0anCo5+pxhVK8ieLp23Yttb2pEoXIovzPlws=
+			/eiDxI+JSZsgkvEjo78qpk9aFLJVZ4zYD5yA54D78d4=
 			</data>
 		</dict>
 		<key>OfflineDatabase.momd/OfflineDatabase.omo</key>
@@ -2491,7 +2491,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m2A0iQa3aXCSKmrQnAEVYHs9TR3P6ygqypDh/oSHPxc=
+			yacOaKMJtr4hHh0CKkllUCzdCQKx6pIrtA7bD+FqALg=
 			</data>
 		</dict>
 		<key>TopArtistCell.nib</key>
@@ -2505,7 +2505,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7rG0nwL7LNEhT8MSankRjE7tNSflOIgOq/1jklPtkG0=
+			iTyyMWLtjz7RIt3YAKZfHfyH7GK0vux4PjPGmH7oNyk=
 			</data>
 		</dict>
 		<key>TopTrendingMusicVideoCell.nib</key>
