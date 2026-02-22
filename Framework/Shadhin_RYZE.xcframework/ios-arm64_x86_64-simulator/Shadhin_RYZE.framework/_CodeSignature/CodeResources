@@ -70,7 +70,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		tkW5o0w/tVmmBlUrS5Zq3sjIcu4=
+		kwl6AYEiuCQZ4oiAtpSGhl5NazY=
 		</data>
 		<key>AudioAdsView.nib</key>
 		<data>
@@ -294,7 +294,7 @@
 		</data>
 		<key>Headers/Shadhin_RYZE-Swift.h</key>
 		<data>
-		3USAGSU7ID73onlO/9eP9B4OEeo=
+		QvYVIGmtCTWbdhaW++5y2HTtpak=
 		</data>
 		<key>Headers/Shadhin_RYZE.h</key>
 		<data>
@@ -354,7 +354,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CsYCOP2/aO320c7axf9UIclBQOM=
+		BZ08lq11jJWqmmkPx5oDBcoHlr8=
 		</data>
 		<key>LatestReleaseWatchLaterVC.nib/objects-14.0+.nib</key>
 		<data>
@@ -394,43 +394,43 @@
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		P3AvuuM834TLgexRjgbYEPvWngI=
+		Vta0M+th/h7TWBvTUTHWmt5hYKQ=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		UY7Lk6zt4pjg2kWQ8jGp1SnekgU=
+		XcB59T/PjFy5YavlIvjsQODCuWA=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		470fmneJq4bLbK9NSCLPoOdh+ig=
+		sZV3xjz6qHExobwogx5wea8HwPg=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		UY7Lk6zt4pjg2kWQ8jGp1SnekgU=
+		XcB59T/PjFy5YavlIvjsQODCuWA=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		r7/bp5F7Z74xG+NIbwxNDVF7S1g=
+		42R+UZ6IyCkNUQXSfIH0QhOlxZ0=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		P3AvuuM834TLgexRjgbYEPvWngI=
+		Vta0M+th/h7TWBvTUTHWmt5hYKQ=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		uwel6aApDAENvK/FXMWJqKL1I40=
+		2RW+SoWsi7iUePAkyo2rz5gfdJI=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		lOaRRB7ixhPaXGbnzc/DR2CS1TY=
+		pRdA6KFxWcYI8ugxNuGO1waT6HU=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		uwel6aApDAENvK/FXMWJqKL1I40=
+		2RW+SoWsi7iUePAkyo2rz5gfdJI=
 		</data>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Y8/0+pbOroenWaMA1a8zJIZo+iw=
+		pwVMltF0l8gpkYH8sy9w2coZhPo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -522,7 +522,7 @@
 		</data>
 		<key>OfflineDatabase.momd/OfflineDatabase.mom</key>
 		<data>
-		EQh/slWEVdzCUMHqLjOdtPFeGxc=
+		udRz/atyBysW6A0foVg820AJlgQ=
 		</data>
 		<key>OfflineDatabase.momd/OfflineDatabase.omo</key>
 		<data>
@@ -1084,7 +1084,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			phZrf82QI7xWbXF6zvxSCR0SxEkN42NuRq2rymVtWAY=
+			NzHsICiDCAHWOr5fVckk3rtYgTevuGbcE5Qihg4XgkU=
 			</data>
 		</dict>
 		<key>AudioAdsView.nib</key>
@@ -1476,7 +1476,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xbtl7eEKvgnVePcYhOAQoklFqFWURwAQkqtypPNWKrI=
+			HyqFSi8UvaI52c4NFvkpI0Pfl6RkIaU9nwPuPSDouno=
 			</data>
 		</dict>
 		<key>Headers/Shadhin_RYZE.h</key>
@@ -1644,70 +1644,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			euyNMuRq6uHq2zECHgIpqO+Cp9q197K4DkX3IV+4IvI=
+			RaTAule8PRRYFxLlJTwlurMEy0onlOrxOJdeaxx0qgo=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kmFd2feKKreWPOBgEsQPpCXi/0gqyv62OD7yU3KERZE=
+			j8jD++CZrtIemEEXGBz7emOTcw5D/qqWrp3hB6/bQZQ=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P7HFZhUdEhtZg/1BzyxT7zfmutbjOIRMoubRDsYp0o4=
+			TGwT6iT1MYeQw971KZqKnwRd9KH9LNWgq9/iMzjOXr0=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kmFd2feKKreWPOBgEsQPpCXi/0gqyv62OD7yU3KERZE=
+			j8jD++CZrtIemEEXGBz7emOTcw5D/qqWrp3hB6/bQZQ=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hUvrXNFAtY0EHilGS7UdquSY+SKCiPVL5BpY/tj405E=
+			Wwmsm/SaCGqTOotUdg8kYS8BDQKguUTLD8GbDqqR7AI=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			euyNMuRq6uHq2zECHgIpqO+Cp9q197K4DkX3IV+4IvI=
+			RaTAule8PRRYFxLlJTwlurMEy0onlOrxOJdeaxx0qgo=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dhaEYEbv9Ysu9ySiKpLdp9tFY16Tlpr3UZxMFYkzrYw=
+			F8dO3m0Ln4nArgIcVz/WlHIR5cFxvlRjbxvI7gpYgzs=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tKMjJUNrSeD292AWqYiIDx5HhL+Dpb9i1OgXb/mBtfo=
+			nIS84jclpHfZTRibiKZg6tMf38Y9UKzK09Swy3cyoWI=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dhaEYEbv9Ysu9ySiKpLdp9tFY16Tlpr3UZxMFYkzrYw=
+			F8dO3m0Ln4nArgIcVz/WlHIR5cFxvlRjbxvI7gpYgzs=
 			</data>
 		</dict>
 		<key>Modules/Shadhin_RYZE.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sVy6VjBYQ16Yzi3Goigc+uUdav/cmqulpvPs7QYEu4U=
+			6SGSUv8HqLfoQ4qjNHXd+5N9mTkrL9kNLuEKqCS3ajs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1868,7 +1868,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/eiDxI+JSZsgkvEjo78qpk9aFLJVZ4zYD5yA54D78d4=
+			/R7r5yYn2JFKK9UsTG2Klxcwq2c1XtVFLk+wGuHB7qQ=
 			</data>
 		</dict>
 		<key>OfflineDatabase.momd/OfflineDatabase.omo</key>
